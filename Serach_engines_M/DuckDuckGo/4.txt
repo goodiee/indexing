@@ -1,0 +1,145 @@
+ApX logo
+Home
+Blog
+
+Courses
+
+LLMs
+MCP
+All Courses
+
+Building LLM Applications using LangChain
+Chapter 1: Introduction to the LangChain Framework
+The Motivation for a Framework
+LangChain's Core Architecture
+Setting Up Your Development Environment
+Your First LangChain Application
+Chapter 2: Models, Prompts, and Parsers
+Interfacing with LLMs and Chat Models
+Managing Prompts with PromptTemplates
+Implementing Few-Shot Prompting
+Structuring Output with Parsers
+Hands-on Practical: Building a Structured Data Extractor
+Chapter 3: Constructing Chains for Sequential Operations
+Fundamentals of Chains
+Using the Simple LLMChain
+Creating Sequential Chains
+Implementing Conditional Logic with Router Chains
+Hands-on Practical: A Content Generation Pipeline
+Chapter 4: Memory for Conversational Applications
+The Importance of State in Conversations
+Buffer Memory for Short-Term Recall
+Summarization Memory for Long Conversations
+Using Windowed and Token-Based Memory
+Adding Memory to Chains and Agents
+Practice: Building a Chatbot with Memory
+Chapter 5: Data Connection for Retrieval Augmented Generation (RAG)
+Architecture of a RAG System
+Loading Data with Document Loaders
+Splitting Documents for Processing
+Vector Stores and Embeddings
+Fetching Data with Retrievers
+Building a Question-Answering Chain
+Hands-on Practical: Q&A over Your Documents
+Chapter 6: Developing Autonomous Agents
+Introduction to Agents and Tools
+The Agent, Tool, and Toolkit Architecture
+Using Built-in Tools
+Creating Custom Tools
+Exploring Agent Types and Executors
+Hands-on Practical: A Web-Searching Agent
+Setting Up Your Development Environment
+A local environment for development must be prepared for building LangChain applications. This involves installing the necessary packages and configuring the credentials required to interact with Large Language Models. A correctly configured environment is the starting point for building any application.
+
+
+Python and Virtual Environments
+First, ensure you have a supported version of Python installed, typically Python 3.8 or newer. To maintain clean project dependencies and avoid conflicts between packages, it is a standard practice in Python development to use a virtual environment. This isolates your project's libraries from your system's global Python installation.
+
+You can create and activate a virtual environment using Python's built-in venv module. Open your terminal and run the following commands:
+
+# Create a virtual environment named 'venv'
+python -m venv venv
+
+# Activate the environment on macOS/Linux
+source venv/bin/activate
+
+# Or, activate on Windows
+.\venv\Scripts\activate
+Once activated, your terminal prompt will typically change to show the name of the active environment, indicating that any packages you install will be contained within this isolated space.
+
+Installing LangChain Packages
+LangChain has a modular architecture, and its functionality is distributed across several packages. This allows you to install only what you need for your specific application. The core library provides the fundamental abstractions, while separate packages contain integrations for specific LLM providers, databases, and tools.
+
+For this course, we will primarily use OpenAI models, so you will need to install the core langchain library along with the langchain-openai integration. We will also install python-dotenv, a helper library for managing environment variables, which is a common method for handling API keys.
+
+Execute the following command in your activated virtual environment:
+
+pip install langchain langchain-openai python-dotenv
+This command installs three packages:
+
+langchain: The main package that brings together common dependencies and the LangChain Expression Language (LCEL).
+langchain-openai: Provides the specific classes for interacting with OpenAI's models, including their LLMs and embedding models.
+python-dotenv: A utility for loading environment variables from a .env file into your application's environment.
+Managing API Keys
+To use a hosted Large Language Model, such as one from OpenAI, you need an API key. This key authenticates your requests and links them to your account for billing and usage tracking.
+
+The most secure and flexible way to manage API keys is by using environment variables. This practice prevents you from hard-coding sensitive credentials directly into your source code, which is a major security risk.
+
+Using a .env File
+A convenient method for managing environment variables during development is to store them in a file named .env in your project's root directory.
+
+Create the File: In your project's root folder, create a new file named .env.
+
+Add Your Key: Open the file and add your OpenAI API key in the following format. Replace sk-... with your actual secret key.
+
+OPENAI_API_KEY="sk-..."
+LangChain integrations, including langchain-openai, are designed to automatically detect this specific environment variable (OPENAI_API_KEY) when you initialize a model. By using python-dotenv, you can load this file at the start of your application, making the key available to LangChain.
+
+Note: Remember to add .env to your .gitignore file. This is an important step to prevent you from accidentally committing your secret keys to a version control system like Git.
+
+Verifying Your Setup
+With the libraries installed and your API key configured, you can verify that the environment is working correctly. Create a new Python file, for example verify_setup.py, and add the following code:
+
+import os
+from dotenv import load_dotenv
+from langchain_openai import ChatOpenAI
+
+# Load environment variables from the .env file
+# This line looks for a .env file and loads its contents into the environment
+load_dotenv()
+
+# Check if the API key is loaded
+api_key = os.getenv("OPENAI_API_KEY")
+if not api_key:
+    print("OpenAI API key not found. Please set it in your .env file.")
+else:
+    print("OpenAI API key loaded successfully.")
+
+    # Try to instantiate the ChatOpenAI model
+    try:
+        llm = ChatOpenAI()
+        print("LangChain and OpenAI are configured correctly.")
+        print("ChatOpenAI model instantiated:", llm.model_name)
+    except Exception as e:
+        print(f"An error occurred while instantiating the model: {e}")
+
+Now, run this script from your terminal:
+
+python verify_setup.py
+If everything is configured correctly, you should see the following output, confirming that your API key was found and the LangChain ChatOpenAI class was instantiated without errors:
+
+OpenAI API key loaded successfully.
+LangChain and OpenAI are configured correctly.
+ChatOpenAI model instantiated: gpt-3.5-turbo-instruct
+Your development environment is now configured. You have installed the required libraries and securely provided an API key, establishing the foundation needed to communicate with an LLM. In the next section, you will use this setup to build your first simple LangChain application.
+
+
+Was this section helpful?
+
+
+
+© 2025 ApX Machine Learning
+
+This site uses cookies to enhance your experience. Manage your preferences below.
+
+Learn More

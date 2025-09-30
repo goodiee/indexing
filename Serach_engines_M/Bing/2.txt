@@ -1,0 +1,197 @@
+Udemy
+Search for anything
+Search for anything
+Development
+Web Development Data Science Mobile Development Programming Languages Game Development Database Design & Development Software Testing Software Engineering Software Development Tools No-Code Development
+Business
+Entrepreneurship Communication Management Sales Business Strategy Operations Project Management Business Law Business Analytics & Intelligence Human Resources Industry E-Commerce Media Real Estate Other Business
+Finance & Accounting
+Accounting & Bookkeeping Compliance Cryptocurrency & Blockchain Economics Finance Finance Cert & Exam Prep Financial Modeling & Analysis Investing & Trading Money Management Tools Taxes Other Finance & Accounting
+IT & Software
+IT Certifications Network & Security Hardware Operating Systems & Servers Other IT & Software
+Office Productivity
+Microsoft Apple Google SAP Oracle Other Office Productivity
+Personal Development
+Personal Transformation Personal Productivity Leadership Career Development Parenting & Relationships Happiness Esoteric Practices Religion & Spirituality Personal Brand Building Creativity Influence Self Esteem & Confidence Stress Management Memory & Study Skills Motivation Other Personal Development
+Design
+Web Design Graphic Design & Illustration Design Tools User Experience Design Game Design 3D & Animation Fashion Design Architectural Design Interior Design Other Design
+Marketing
+Digital Marketing Search Engine Optimization Social Media Marketing Branding Marketing Fundamentals Marketing Analytics & Automation Public Relations Paid Advertising Video & Mobile Marketing Content Marketing Growth Hacking Affiliate Marketing Product Marketing Other Marketing
+Lifestyle
+Arts & Crafts Beauty & Makeup Esoteric Practices Food & Beverage Gaming Home Improvement & Gardening Pet Care & Training Travel Other Lifestyle
+Photography & Video
+Digital Photography Photography Portrait Photography Photography Tools Commercial Photography Video Design Other Photography & Video
+Health & Fitness
+Fitness General Health Sports Nutrition & Diet Yoga Mental Health Martial Arts & Self Defense Safety & First Aid Dance Meditation Other Health & Fitness
+Music
+Instruments Music Production Music Fundamentals Vocal Music Techniques Music Software Other Music
+Teaching & Academics
+Engineering Humanities Math Science Online Education Social Science Language Learning Teacher Training Test Prep Other Teaching & Academics
+Web Development JavaScript React JS Angular Node.Js Next.js ASP.NET Core Typescript CSS
+AWS Certified Cloud Practitioner AWS Certified Solutions Architect - Associate CompTIA Security+ CompTIA A+ Amazon AWS Cisco Certified Network Associate (CCNA) CompTIA Network+ Information Security AWS Certified AI Practitioner
+Microsoft Power BI SQL Data Modeling Data Analysis Business Analysis Tableau Business Intelligence (BI) Generative AI (GenAI) Data Analysis Expressions (DAX)
+Unreal Engine Unity Game Development Fundamentals 3D Game Development C# (programming language) Godot 2D Game Development C++ (programming language) ROBLOX Game Development
+Google Flutter React Native Dart (programming language) Android Development iOS Development Swift SwiftUI Kotlin Mobile App Development
+Stock Options Accounting Financial Accounting Financial Modeling Fintech Finance Fundamentals Forex Trading
+Graphic Design Drawing Adobe Photoshop Adobe Illustrator Canva Procreate Digital Illustration App Adobe InDesign Digital Painting Design Theory
+Life Coach Training Personal Development Neuro-Linguistic Programming (NLP) Personal Transformation Sound Therapy Coaching Manifestation and Law of Attraction Communication Skills Counseling
+Business Fundamentals Entrepreneurship Fundamentals Truck Dispatching Freelancing Online Business Business Strategy Large Language Models (LLM) ChatGPT Business Plan
+Digital Marketing Social Media Marketing Marketing Strategy Internet Marketing ChatGPT Google Analytics Sales Funnel Facebook Ads Copywriting
+IT & Software
+Other IT & Software
+LangChain
+Master LangChain with No-Code tools: Flowise and LangFlow
+The most beginner friendly course on LangChain using complete no-code LangChain frameworks of Flowise and LangFlow
+Created by 
+Last updated 10.2023
+English
+English
+Premium
+
+4.3
+Rating: 4.3 out of 5
+307 ratings
+3 804
+learners
+
+
+What you'll learn
+Master LangChain Core Concepts
+Understand how to use different types of Prompt templates, Chains, and Agents
+Build Apps using Flowise and LangFlow
+Build Chat with Document App using various document loaders including PDF, DOCX, TXT, Webpage, Github Repo Loader etc.
+Build LangChain Agent Apps and connect them with Tools like Zapier, API Calling and Google Search
+Retrieval based response generation using different Document Loaders, Text Splitters, Vector Stores, and Retrieval Chains
+Explore related topics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Requirements
+No programming experience needed. This beginner-friendly course teaches LangChain using no-code tools: Flowise and LangFlow.
+No prior ML or AI knowledge needed. If you've used ChatGPT, you're good to start this course.
+To get the most from this course, it's highly recommended to build each flow/module in Flowise or LangFlow as shown in the video while you watch. Desktop/laptop-based interactive learning is highly suggested.
+Description
+Welcome to the comprehensive LangChain course on Udemy, an immersive learning experience designed to transform you into an AI app wizard! Whether you're a complete beginner or have some programming background, this course will equip you with the skills to build AI-powered apps using LangChain, complemented by the ease of no-code tools like Flowise and LangFlow.
+
+
+
+What You'll Learn:
+
+Master the art of building ChatGPT clones and Chat with PDF apps without writing a single line of code. Discover the seamless power of Flowise and LangFlow to make your app dreams a reality.
+
+Unlock the potential of Autonomous Agent apps and automate tasks like a pro with over 5000+ integrations using Zapier's robust platform, regardless of your coding proficiency.
+
+Harness the magic of API Chains, eliminating the need for coding while effectively calling APIs and unleashing endless possibilities for your AI apps.
+
+Engage users in captivating conversations by Chatting with documents in various formats, including PDFs, DOCX, TXT, and websites, making your apps more interactive and user-friendly.
+
+Acquire in-depth knowledge of LangChain's core elements - chains, agents, tools, and memory, and harness this expertise to create sophisticated and intelligent applications.
+
+Seamlessly integrate APIs from Flowise and LangFlow with no-code website builders like Bubble, enabling you to deploy your AI apps with unparalleled ease and efficiency.
+
+Why Choose This Course:
+
+Perfect for absolute beginners with no technical background, we provide comprehensive guidance at every step, making the learning journey smooth and enjoyable.
+
+Impress your colleagues, friends, and managers with your GenAI skills, gaining a competitive edge in the evolving world of AI app development.
+
+Learn from an expert LangChain developer, certified by the Founder of LangChain as "a langchain expert," ensuring you receive top-tier instruction and industry insights.
+
+Engaging explanations and animations make learning LangChain a breeze, helping you grasp complex concepts effortlessly.
+
+Special Focus on Retrieval:
+
+Unlock the secrets of multiple LLM, chat models, and embedding providers, including OpenAI, Cohere, and HuggingFace, elevating your AI apps' capabilities to new heights.
+
+Work with various data types, such as PDFs, DOCX, TXT, and Github Repos, enabling you to cater to diverse user needs and deliver exceptional user experiences.
+
+Utilize multiple Vector stores, including in-memory, Chroma, Qdrant, and Pinecone, optimizing your app's performance and ensuring seamless data management.
+
+Master the art of using various Text Splitters, refining your AI app's accuracy and taking user interactions to a whole new level.
+
+Requirements:
+
+No prior coding experience or AI knowledge is required for this course. It is designed to cater to beginners and those with little technical background, making it accessible to everyone.
+
+A passion for learning and a desire to dive into the exciting world of AI app development using LangChain and no-code tools is all you need to get started.
+
+Who this course is for:
+
+Aspiring AI enthusiasts and beginners who want to venture into AI app development without the need for extensive coding knowledge.
+
+Entrepreneurs, founders, and business professionals looking to build AI-powered consumer apps for their organizations, regardless of their technical background.
+
+Developers and tech enthusiasts who wish to expand their skill set and explore the power of LangChain and no-code tools in the realm of AI app development.
+
+Benefits of becoming an AI Engineer:
+
+With the rapid advancement of AI technology, becoming an AI Engineer opens up exciting career opportunities in various industries. AI-powered apps are transforming businesses and consumer experiences, making AI Engineers highly sought-after professionals.
+
+As an AI Engineer, you gain the ability to build intelligent applications that can perform complex tasks, process vast amounts of data, and provide valuable insights, contributing to groundbreaking innovations.
+
+Acquiring AI app-building skills sets you apart as an innovative problem solver, giving you a competitive edge in the job market and enhancing your career prospects.
+
+By mastering LangChain and no-code tools, you can rapidly prototype and develop AI apps, saving time and resources, and bringing your ideas to life quicker than ever before.
+
+You'll also get:
+
+Access to the course community via Discord server. You can ask questions, brainstorm ideas, and find other motivated learners.
+
+Access to course content updates and improvements
+
+Enroll in this transformative LangChain course today and unlock the door to a world of AI app innovation and career opportunities!
+
+Who this course is for:
+Motivated learners curious about building LangChain-based Chat Apps
+Non-technical and technical audiences interested in mastering the no-code LangChain Framework
+No-code audience interested in connecting no-code app builders with Flowise and LangFlow
+Business leaders and managers curious to experiment and build Chat-with-data or Chat-with-document apps
+Anyone interested in building quick prototypes for a use case or startup idea
+Instructor
+Misbah Syed
+AI Instructor | Machine Learning Engineer & Data Scientist
+
+4.2 Instructor Rating
+318 Reviews
+4,663 Students
+2 Courses
+I’m Misbah Syed, an AI researcher and machine‑learning engineer with over six years of industry experience building and deploying production‑grade AI solutions across R&D, manufacturing, finance, and healthcare. As the founder of Menlo Park Lab, I’ve created AI‑powered SaaS products—including BrainyDocs, BrainyRead, and Builtbyou.
+
+I won first prize in both the Semantic Search Global AI Hackathon (Cohere & Lablab) and the Multilingual Semantic Search Hackathon (Qdrant, Cohere & Lablab), and I’ve worked in collaboration with the MIT‑IBM Watson AI Lab to deliver industrial ML applications. In previous roles I built Azure Databricks pipelines for healthcare AI, established predictive‑maintenance systems saving $100 K+ per year, and optimized process controls that generated over $2 million in annual benefits.
+
+I hold Master’s and Bachelor’s degrees in Chemical Engineering, a Machine Learning Engineering certification from Fourth Brain (Andrew Ng’s AI Fund), and completed specializations in TensorFlow on GCP, Deep Learning, and full‑stack web development. I’m here to share the cutting‑edge techniques and real‑world workflows you need to build your own AI‑driven portfolio website—let’s get started.
+
+
+
+
+
+Top companies choose Udemy Business to build in-demand career skills.
+NasdaqVolkswagenNetAppEventbrite
+Udemy Business
+Teach on Udemy
+Get the app
+About us
+Contact us
+Careers
+Blog
+Help and Support
+Affiliate
+Investors
+Terms
+Privacy policy
+Sitemap
+Accessibility statement
+© 2025 Udemy, Inc.

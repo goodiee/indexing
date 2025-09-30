@@ -1,0 +1,365 @@
+For Individuals
+For Businesses
+For Universities
+For Governments
+Coursera
+What do you want to learn?
+
+Browse
+Data Science
+Machine Learning
+
+Stanford University
+DeepLearning.AI
+Machine Learning Specialization
+#BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng
+
+Andrew Ng
+Geoff Ladwig
+Aarti Bagul
+Instructors: Andrew Ng 
+
+
+
+
+Top Instructor
+
+694,242 already enrolled
+
+3 course series
+Get in-depth knowledge of a subject
+4.9
+(35 741 reviews)
+
+Beginner level
+Recommended experience
+
+
+
+2 months to complete
+at 10 hours a week
+Flexible schedule
+Learn at your own pace
+About
+Outcomes
+Courses
+Testimonials
+What you'll learn
+Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)
+
+Build & train a neural network with TensorFlow to perform multi-class classification, & build & use decision trees & tree ensemble methods
+
+Apply best practices for ML development & use unsupervised learning techniques for unsupervised learning including clustering & anomaly detection
+
+Build recommender systems with a collaborative filtering approach & a content-based deep learning method & build a deep reinforcement learning model
+
+Skills you'll gain
+Decision Tree Learning
+Python Programming
+Responsible AI
+Classification And Regression Tree (CART)
+Applied Machine Learning
+Jupyter
+NumPy
+Unsupervised Learning
+Supervised Learning
+Details to know
+
+Shareable certificate
+Add to your LinkedIn profile
+
+Taught in English
+See how employees at top companies are mastering in-demand skills
+Learn more about Coursera for Business
+ logos of Petrobras, TATA, Danone, Capgemini, P&G and L'Oreal 
+Specialization - 3 course series
+The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications. 
+
+This Specialization is taught by Andrew Ng, an AI visionary who has led critical research at Stanford University and groundbreaking work at Google Brain, Baidu, and Landing.AI to advance the AI field.
+
+This 3-course Specialization is an updated version of Andrew’s pioneering Machine Learning course, rated 4.9 out of 5 and taken by over 4.8 million learners since it launched in 2012. 
+
+It provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)
+
+By the end of this Specialization, you will have mastered key concepts and gained the practical know-how to quickly and powerfully apply machine learning to challenging real-world problems. If you’re looking to break into AI or build a career in machine learning, the new Machine Learning Specialization is the best place to start.
+
+Applied Learning Project
+
+By the end of this Specialization, you will be ready to:
+
+ 
+
+• Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
+
+• Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression.
+
+• Build and train a neural network with TensorFlow to perform multi-class classification.
+
+• Apply best practices for machine learning development so that your models generalize to data and tasks in the real world.
+
+• Build and use decision trees and tree ensemble methods, including random forests and boosted trees.
+
+• Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection.
+
+• Build recommender systems with a collaborative filtering approach and a content-based deep learning method.
+
+• Build a deep reinforcement learning model.
+
+Read more
+Supervised Machine Learning: Regression and Classification 
+Supervised Machine Learning: Regression and Classification
+Course 1
+•
+33 hours
+
+
+Advanced Learning Algorithms
+Advanced Learning Algorithms
+Course 2
+•
+34 hours
+
+
+
+Unsupervised Learning, Recommenders, Reinforcement Learning
+Unsupervised Learning, Recommenders, Reinforcement Learning
+Course 3
+•
+27 hours
+
+
+
+Earn a career certificate
+Add this credential to your LinkedIn profile, resume, or CV. Share it on social media and in your performance review.
+
+Instructors
+Andrew Ng
+Top Instructor
+
+Andrew Ng
+Stanford University
+51 Courses
+•
+9,165,340 learners
+
+
+
+Offered by
+
+Stanford University
+
+
+DeepLearning.AI
+
+Why people choose Coursera for their career
+
+Felipe M.
+Learner since 2018
+"To be able to take courses at my own pace and rhythm has been an amazing experience. I can learn whenever it fits my schedule and mood."
+
+Jennifer J.
+Learner since 2020
+"I directly applied the concepts and skills I learned from my courses to an exciting new project at work."
+
+Larry W.
+Learner since 2021
+"When I need courses on topics that my university doesn't offer, Coursera is one of the best places to go."
+
+Chaitanya A.
+"Learning isn't just about being better at your job: it's so much more than that. Coursera allows me to learn without limits."
+Coursera Plus
+Open new doors with Coursera Plus
+Unlimited access to 10,000+ world-class courses, hands-on projects, and job-ready certificate programs - all included in your subscription
+
+Learn more
+Advance your career with an online degree
+Earn a degree from world-class universities - 100% online
+
+Explore degrees
+Join over 3,400 global companies that choose Coursera for Business
+Upskill your employees to excel in the digital economy
+
+Learn more
+Frequently asked questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More questions
+Visit the learner help center
+Financial aid available, learn more
+
+¹ Median salary and job opening data are sourced from Lightcast™ Job Postings Report.
+  Content Creator, Machine Learning Engineer and Salesforce Development Representative (01.01.2024 - 31.12.2024)
+  All other job roles (01.09.2024 - 01.09.2025)
+
+Coursera Footer
+
+Skills
+
+Artificial Intelligence (AI)
+Cybersecurity
+Data Analytics
+Digital Marketing
+English Speaking
+Generative AI (GenAI)
+Microsoft Excel
+Microsoft Power BI
+Project Management
+Python
+Certificates & Programs
+
+Google Cybersecurity Certificate
+Google Data Analytics Certificate
+Google IT Support Certificate
+Google Project Management Certificate
+Google UX Design Certificate
+IBM Data Analyst Certificate
+IBM Data Science Certificate
+Machine Learning Certificate
+Microsoft Power BI Data Analyst Certificate
+UI / UX Design Certificate
+Industries & Careers
+
+Business
+Computer Science
+Data Science
+Education & Teaching
+Engineering
+Finance
+Healthcare
+Human Resources (HR)
+Information Technology (IT)
+Marketing
+Career Resources
+
+Career Aptitude Test
+Examples of Strengths and Weaknesses for Job Interviews
+High-Income Skills to Learn
+How Does Cryptocurrency Work?
+How to Highlight Duplicates in Google Sheets
+How to Learn Artificial Intelligence
+Popular Cybersecurity Certifications
+Preparing for the PMP Certification
+Signs You Will Get the Job After an Interview
+What Is Artificial Intelligence?
+Coursera
+
+About
+What We Offer
+Leadership
+Careers
+Catalog
+Coursera Plus
+Professional Certificates
+MasterTrack® Certificates
+Degrees
+For Enterprise
+For Government
+For Campus
+Become a Partner
+Social Impact
+Free Courses
+Share your Coursera learning story
+Community
+
+Learners
+Partners
+Beta Testers
+Blog
+The Coursera Podcast
+Tech Blog
+More
+
+Press
+Investors
+Terms
+Privacy
+Help
+Accessibility
+Contact
+Articles
+Directory
+Affiliates
+Modern Slavery Statement
+Manage Cookie Preferences
+Download on the App Store
+Get it on Google Play
+Logo of Certified B Corporation
+© 2025 Coursera Inc. All rights reserved.
+Coursera Facebook
+Coursera Linkedin
+Coursera Twitter
+Coursera YouTube
+Coursera Instagram
+Coursera TikTok

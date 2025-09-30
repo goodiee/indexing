@@ -1,0 +1,251 @@
+Forem Logo
+DEV Community Logo
+Gamers Forem Logo
+Future Logo
+Music Forem Logo
+DUMB DEV Community Logo
+Vibe Coding Forem Logo
+Popcorn Movies and TV Logo
+Design Community Logo
+Maker Forem Logo
+Open Forem Logo
+Scale Forem Logo
+Forem Core Logo
+Security Forem Logo
+Crypto Forem Logo
+Skip to content
+DEV Community
+Find related posts...
+Powered by Algolia 
+Log in
+Create account
+
+0
+Jump to Comments
+
+0
+Save
+
+Boost
+
+Cover image for Get Started with LangChain: A Step-by-Step Tutorial for Beginners
+Dev J. Shah 🥑
+Dev J. Shah 🥑
+Posted on Dec 14, 2024 • Edited on Dec 27, 2024
+
+
+4
+Get Started with LangChain: A Step-by-Step Tutorial for Beginners
+#
+langchain
+#
+openai
+#
+rag
+#
+beginners
+LangChain (2 Part Series)
+1
+Get Started with LangChain: A Step-by-Step Tutorial for Beginners
+2
+How to integrate pgvector's Docker image with Langchain?
+Introduction
+Whats up everyone? This is a tutorial for someone who is beginner to LangChain. This is a very basic operations, that is prompting the LLM and getting the generated response, that can be done using LangChain. As prerequisites to understand this tutorial, you should know Python. In case you are unaware of the topics, LangChain, Prompt Template, etc, I would recommend you to checkout my previous blog on this topic.
+
+busycaesar 
+Exploring RAG: Discover How LangChain and LlamaIndex Transform LLMs?
+Dev J. Shah 🥑 ・ Nov 9 '24
+#langchain #llamaindex #prompttemplate #rag
+For this tutorial, we are building a project which generates a tailored weekly roadmap, for someone in IT who wants to get into a different profile, based on their experience.
+
+Tutorial
+Step 1: Create Virtual Environment for Python
+Firstly, open a new folder and create a virtual environment for python using the following command.
+
+python -m venv .venv 
+This create a virtual environment for installing python's dependencies. Further, activate the virtual environment by executing the activate script. Usually it would be under .venv/Scripts or .venv/bin directory.
+
+Step 2: Install required dependencies
+Once the virtual environment is activated, create an app.py file as a main file. Following are the required dependencies required for this project. Please install them using pip install [dependency]
+
+python-dotenv
+langchain
+langchain_openai
+Once they are installed, all the following import statements in app.py file.
+
+import os
+from dotenv import load_dotenv
+from langchain_openai import OpenAI
+from langchain.prompts import PromptTemplate
+
+load_dotenv()
+Step 3: Create prompt_llm function
+Further, create a function prompt_llm which accepts skill and experience. The purpose of this function is to declare an instance of LLM and prompt template, chain the llm with prompt template, invoke the chain and return the response.
+
+def prompt_llm(skill, experience):
+    # Declare an instance of LLM.
+    openai_api_key = os.getenv("OPENAI_API_KEY")
+
+    llm = OpenAI(temperature=0.5, openai_api_key=openai_api_key)
+
+    # Declare the prompt template.
+    prompt_template = PromptTemplate(
+        input_variables=["skill", "experience"],
+        template="""
+        You are a very experienced professional in IT. You can help anyone with any level of experience in IT to transition into a new role. Your job is to create a weekly roadmap for the user by analyzing the following skills which the user wants to learn, while keeping in consideration the experience level which the user has. Please return the specific areas which the user should focus on each week along with a project idea which helps user to get hands on experience of that week's topic. Additionally, also mention the amount of hours which the user should focus on learning the topic per week.
+
+        Skill: {skill}
+
+        User's experience: {experience}
+        """
+    )
+
+    # Chain the llm with prompt template.
+    chain = prompt_template | llm
+
+    # Invoke the chain.
+    generated_response = chain.invoke({
+        'skill': skill,
+        'experience': experience
+    })
+
+    # Return the generated response.
+    return generated_response
+Before explaining this function, we also need to have a .env file to store the OpenAI's API keys. Hence, create a file and store your OpenAI's API keys as follows.
+
+OPENAI_API_KEY="xxxxxxxxxxxxxxxxxxxxxxxx"
+After the variable is added in .env file, coming back to the explanation of prompt_llm function, in the first step, it takes the value of OpenAI's API keys and store it in a variable. Further, declare the instance of OpenAI's model by passing the required temperature and OpenAI's API keys.
+
+The temperature ranges from 0 to 1. It is basically, a setting which you can do to allow LLM to generate creative responses. 0 indicates the LLM is not allowed to be creative and 1 indicates the LLM to be as much creative while generating the response. I prefer to keep it between 0.5 to 0.7 as it is a good balance. You can update this value as per the project requirement.
+
+Moving forward, now its time to create a Prompt Template which accepts the skill that user wants to learn and the current experience of the user, as input variables. Further, the template contains the instructions for the LLM which contains what LLM is expected to do with the given data.
+
+Once the prompt template and LLM is declared, they are chained together and stored in a variable. Further, the invoke method of this chain is called by passing the input variables required by the prompt template, and the generated response is returned.
+
+Step 4: Create main function
+Finally, prompt_llm function is ready and now its time to call it from the main function. Therefore, declare the main function as follows:
+
+if __name__ == "__main__":
+    skill = "DevOps"
+    experience = "Full Stack Developer with 2 years of experience working with JS frameworks."
+
+    response = prompt_llm(skill, experience)
+
+    print(response)
+It declares the variables which stores the data about the user, calls the prompt_llm function by passing the required variables and prints the generated response. When you complete all the requirements and try to run the file using python app.py, you should get the following such response, containing the generated response by LLM.
+
+Expected Output
+
+Note: I hope you understand the you would/might not get the exact same response.
+
+File Structure
+Following is the visual representation of how your project should look like.
+
+.
+├── .venv/
+├── .env
+└── app.py
+Lastly, in case you want to learn, how to integrate a vector database with such a project to build a RAG application, check out the following blog.
+
+busycaesar 
+How to integrate pgvector's Docker image with Langchain?
+Dev J. Shah 🥑 ・ Dec 21 '24
+#langchain #docker #postgres #vectordatabase
+Final Words
+This was the small tutorial on how you can leverage LangChain to develop AI powered applications. Let me know if you have any questions. I will be happy to help. Lastly, follow my blogs and youtube channel to know more updates about AI related technologies.
+
+LangChain (2 Part Series)
+1
+Get Started with LangChain: A Step-by-Step Tutorial for Beginners
+2
+How to integrate pgvector's Docker image with Langchain?
+DEV Community
+
+Google AI Education track image
+
+Build Apps with Google AI Studio 🧱
+This track will guide you through Google AI Studio's new "Build apps with Gemini" feature, where you can turn a simple text prompt into a fully functional, deployed web application in minutes.
+
+Read more →
+
+Read More
+Top comments (0)
+Subscribe
+pic
+Add to the discussion
+Code of Conduct • Report abuse
+DEV Community
+
+Google AI Education track image
+
+Work through these 3 parts to earn the exclusive Google AI Studio Builder badge!
+This track will guide you through Google AI Studio's new "Build apps with Gemini" feature, where you can turn a simple text prompt into a fully functional, deployed web application in minutes.
+
+Read more →
+
+
+Dev J. Shah 🥑
+Follow
+SWE @TribalScale, Blogger @Dev.to, GenAI Evangelist, Speaker
+Location
+Toronto, ON
+Education
+Computer Programming and Analysis @Seneca Polytechnic
+Pronouns
+he/him
+Work
+SWE @TribalScale
+Joined
+Jan 31, 2023
+More from Dev J. Shah 🥑
+How Retrieval Algorithms Shape Better LLM Responses?
+#ai #llm #rag
+Embeddings & Cosine Similarity Explained Simply
+#vectordatabase #rag #ai
+Exploring RAG: Hypothetical Document Embeddings (HyDE)
+#rag #vectordatabase #llm
+DEV Community
+
+Google AI Education track image
+
+Build Apps with Google AI Studio 🧱
+This track will guide you through Google AI Studio's new "Build apps with Gemini" feature, where you can turn a simple text prompt into a fully functional, deployed web application in minutes.
+
+Read more →
+
+👋 Kindness is contagious
+
+
+Explore this insightful write-up embraced by the inclusive DEV Community. Tech enthusiasts of all skill levels can contribute insights and expand our shared knowledge.
+
+Spreading a simple "thank you" uplifts creators—let them know your thoughts in the discussion below!
+
+At DEV, collaborative learning fuels growth and forges stronger connections. If this piece resonated with you, a brief note of thanks goes a long way.
+
+Okay
+💎 DEV Diamond Sponsors
+
+Thank you to our Diamond Sponsors for supporting the DEV Community
+
+Google AI - Official AI Model and Platform Partner
+Google AI is the official AI Model and Platform Partner of DEV
+
+Neon - Official Database Partner
+Neon is the official database partner of DEV
+
+Algolia - Official Search Partner
+Algolia is the official search partner of DEV
+
+DEV Community — A space to discuss and keep up software development and manage your software career
+
+Home
+Welcome Thread
+Tags
+About
+Contact
+Code of Conduct
+Privacy Policy
+Terms of Use
+Built on Forem — the open source software that powers DEV and other inclusive communities.
+
+Made with love and Ruby on Rails. DEV Community © 2016 - 2025.

@@ -1,0 +1,340 @@
+For Individuals
+For Businesses
+For Universities
+For Governments
+Coursera
+What do you want to learn?
+
+Browse
+Data Science
+Machine Learning
+
+DeepLearning.AI
+LangChain for LLM Application Development
+Andrew Ng
+Harrison Chase
+Instructors: Andrew Ng 
+
+
+
+Top Instructor
+
+17,714 already enrolled
+
+Project
+Build in-demand job skills with step-by-step instructions
+4.8
+(209 reviews)
+
+Beginner level
+Recommended experience
+
+
+1 hour
+Learn at your own pace
+Hands-on learning
+Learn more
+About
+Outcomes
+Project details
+Testimonials
+Reviews
+Recommendations
+What you'll learn
+ Apply LLMs to your proprietary data to build personal assistants and specialized chatbots.
+
+ Use agents, chained calls, and memories to expand your use of LLMs.
+
+ Learn directly from the creator of the framework, Harrison Chase.
+
+Skills you'll practice
+Generative AI
+LangChain
+Generative AI Agents
+Application Development
+LLM Application
+Large Language Modeling
+Prompt Engineering
+Details to know
+Taught in English
+No downloads or installation required
+Only available on desktop
+
+See how employees at top companies are mastering in-demand skills
+Learn more about Coursera for Business
+ logos of Petrobras, TATA, Danone, Capgemini, P&G and L'Oreal 
+Learn, practice, and apply job-ready skills in less than 2 hours
+Receive training from industry experts
+Gain hands-on experience solving real-world job tasks
+
+About this project
+In LangChain for LLM Application Development, you will gain essential skills in expanding the use cases and capabilities of language models in application development using the LangChain framework.
+
+In this course you will learn and get experience with the following topics:
+
+1. Models, Prompts and Parsers: Calling LLMs, providing prompts and parsing the response.
+2. Memories for LLMs: Memories to store conversations and manage limited context space.
+3. Chains: Creating sequences of operations.
+4. Question Answering over Documents: Apply LLMs to your proprietary data and use case requirements.
+5. Agents: Explore the powerful emerging development of LLM as reasoning agents.
+
+At the end of the course, you will have a model that can serve as a starting point for your own exploration of diffusion models for your applications.
+
+This one-hour course, instructed by the creator of LangChain Harrison Chase as well as Andrew Ng will vastly expand the possibilities for leveraging powerful language models, where you can now create incredibly robust applications in a matter of hours.
+
+Instructors
+Instructor ratings
+
+4.9
+(
+40 ratings
+)
+Harrison Chase
+Harrison Chase
+DeepLearning.AI
+4 Courses
+•
+72,454 learners
+Andrew Ng
+Top Instructor
+
+Andrew Ng
+DeepLearning.AI
+51 Courses
+•
+9,165,340 learners
+Offered by
+
+DeepLearning.AI
+
+How you'll learn
+Hands-on, project-based learning
+
+Practice new skills by completing job-related tasks with step-by-step instructions.
+
+No downloads or installation required
+
+Access the tools and resources you need in a cloud environment.
+
+Available only on desktop
+
+This project is designed for laptops or desktop computers with a reliable Internet connection, not mobile devices.
+
+Why people choose Coursera for their career
+
+Felipe M.
+Learner since 2018
+"To be able to take courses at my own pace and rhythm has been an amazing experience. I can learn whenever it fits my schedule and mood."
+
+Jennifer J.
+Learner since 2020
+"I directly applied the concepts and skills I learned from my courses to an exciting new project at work."
+
+Larry W.
+Learner since 2021
+"When I need courses on topics that my university doesn't offer, Coursera is one of the best places to go."
+
+Chaitanya A.
+"Learning isn't just about being better at your job: it's so much more than that. Coursera allows me to learn without limits."
+Learner reviews
+4.8
+209 reviews
+
+5 stars	
+80.86%
+
+4 stars	
+15.78%
+
+3 stars	
+1.91%
+
+2 stars	
+0.95%
+
+1 star	
+0.47%
+
+Showing 3 of 209
+
+D
+DM
+5
+Reviewed on May 29, 2025
+
+Concise but highly informative introduction to LangChain with sample code for some use cases
+
+S
+SS
+5
+Reviewed on May 5, 2025
+
+Good introductory course to get started with Langchain
+
+T
+TH
+5
+Reviewed on Oct 17, 2024
+
+Providing the overview for how to use LangChain and understand it's benefit.
+
+View more reviews
+You might also like
+
+Status: Free Trial
+Free Trial
+Packt
+
+The Complete LangChain & LLMs Guide
+Course
+
+
+Status: Free Trial
+Free Trial
+Coursera Instructor Network
+
+LangChain: Application Development Essentials
+Course
+
+
+Status: Free Trial
+Free Trial
+Packt
+
+LangChain MasterClass: Build 15 LLM Apps with Python
+Course
+
+
+Status: Free Trial
+Free Trial
+Coursera Instructor Network
+
+Introduction to Retrieval Augmented Generation (RAG)
+Course
+
+Coursera Plus
+Open new doors with Coursera Plus
+Unlimited access to 10,000+ world-class courses, hands-on projects, and job-ready certificate programs - all included in your subscription
+
+Learn more
+Advance your career with an online degree
+Earn a degree from world-class universities - 100% online
+
+Explore degrees
+Join over 3,400 global companies that choose Coursera for Business
+Upskill your employees to excel in the digital economy
+
+Learn more
+Frequently asked questions
+
+
+
+
+
+
+
+
+
+
+More questions
+Visit the learner help center
+Coursera Footer
+
+Skills
+
+Artificial Intelligence (AI)
+Cybersecurity
+Data Analytics
+Digital Marketing
+English Speaking
+Generative AI (GenAI)
+Microsoft Excel
+Microsoft Power BI
+Project Management
+Python
+Certificates & Programs
+
+Google Cybersecurity Certificate
+Google Data Analytics Certificate
+Google IT Support Certificate
+Google Project Management Certificate
+Google UX Design Certificate
+IBM Data Analyst Certificate
+IBM Data Science Certificate
+Machine Learning Certificate
+Microsoft Power BI Data Analyst Certificate
+UI / UX Design Certificate
+Industries & Careers
+
+Business
+Computer Science
+Data Science
+Education & Teaching
+Engineering
+Finance
+Healthcare
+Human Resources (HR)
+Information Technology (IT)
+Marketing
+Career Resources
+
+Career Aptitude Test
+Examples of Strengths and Weaknesses for Job Interviews
+High-Income Skills to Learn
+How Does Cryptocurrency Work?
+How to Highlight Duplicates in Google Sheets
+How to Learn Artificial Intelligence
+Popular Cybersecurity Certifications
+Preparing for the PMP Certification
+Signs You Will Get the Job After an Interview
+What Is Artificial Intelligence?
+Coursera
+
+About
+What We Offer
+Leadership
+Careers
+Catalog
+Coursera Plus
+Professional Certificates
+MasterTrack® Certificates
+Degrees
+For Enterprise
+For Government
+For Campus
+Become a Partner
+Social Impact
+Free Courses
+Share your Coursera learning story
+Community
+
+Learners
+Partners
+Beta Testers
+Blog
+The Coursera Podcast
+Tech Blog
+More
+
+Press
+Investors
+Terms
+Privacy
+Help
+Accessibility
+Contact
+Articles
+Directory
+Affiliates
+Modern Slavery Statement
+Manage Cookie Preferences
+Download on the App Store
+Get it on Google Play
+Logo of Certified B Corporation
+© 2025 Coursera Inc. All rights reserved.
+Coursera Facebook
+Coursera Linkedin
+Coursera Twitter
+Coursera YouTube
+Coursera Instagram
+Coursera TikTok

@@ -1,0 +1,248 @@
+DeepWiki
+langchain-ai/langchain-azure
+
+Index your code with
+Devin
+
+Share
+
+Last indexed: 15 May 2025 (7d56e9)
+Overview
+Repository Structure
+Azure AI Integration
+Chat Models
+Structured Output
+Tracing and Observability
+Azure Cosmos DB Integration
+Cosmos DB NoSQL Vector Store
+Cosmos DB MongoDB vCore Vector Store
+Semantic Caching
+Chat Message History
+SQL Server Integration
+SQL Server Vector Store
+SQL Server Authentication
+Development Guide
+Development Environment
+Testing
+CI/CD Workflows
+Development Environment
+Relevant source files
+This document describes how to set up a development environment for contributing to the langchain-azure repository. It covers the available development container options and how to configure your environment for local development. For information about running tests, see Testing, and for CI/CD workflows, see CI/CD Workflows.
+
+Dev Container Overview
+The langchain-azure repository uses Development Containers to provide a consistent, pre-configured development environment that works across different platforms. The dev container includes all necessary dependencies pre-installed, letting you start developing right away without worrying about setting up your local environment.
+
+
+
+
+
+
+
+
+
+
+
+Sources: 
+.devcontainer/Dockerfile
+1-45
+ 
+.devcontainer/devcontainer.json
+1-28
+
+The development container provides:
+
+Ubuntu Jammy as the base OS
+Python 3.9 installed via pyenv
+Poetry for dependency management
+Azure CLI for interacting with Azure services
+Essential build tools and libraries
+VS Code extensions for Python development
+Setup Options
+There are two primary ways to use the development container:
+
+GitHub Codespaces: Cloud-based development environment (no local setup required)
+VS Code Dev Containers: Local container-based development
+
+
+
+
+
+
+
+
+
+
+
+Sources: 
+.devcontainer/README.md
+1-44
+
+Setup with GitHub Codespaces
+GitHub Codespaces provides a complete, cloud-hosted development environment that can be started directly from the repository without any local setup.
+
+To start a GitHub Codespace:
+
+Navigate to the 
+langchain-azure repository
+Click the "Code" dropdown menu
+Select the "Codespaces" tab
+Click "Create codespace on master"
+Alternatively, you can use the direct link: 
+![Open in GitHub Codespaces
+](https://codespaces.new/langchain-ai/langchain-azure)
+
+This will create a cloud-based development environment with all dependencies pre-installed and ready to use.
+
+Sources: 
+.devcontainer/README.md
+7-15
+
+Setup with VS Code Dev Containers
+If you prefer to develop locally, you can use VS Code with the Dev Containers extension:
+
+Prerequisites
+Docker Desktop installed and running
+Visual Studio Code installed
+Dev Containers extension installed in VS Code
+Setup Steps
+Fork and clone the repository to your local machine
+Open VS Code
+Press F1 and select "Dev Containers: Open Folder in Container..."
+Navigate to the cloned repository folder and select it
+Wait for the container to build and start (this may take a few minutes on first run)
+Once complete, you'll be working inside the development container
+Alternatively, you can use the direct link:Open in Dev Containers
+
+Sources: 
+.devcontainer/README.md
+17-39
+
+Development Container Configuration Details
+The development container is configured using three main files:
+
+File	Purpose
+Dockerfile	Defines the container image and installs dependencies
+devcontainer.json	Configures the container and VS Code settings
+README.md	Provides documentation on using the container
+Dockerfile Configuration
+The Dockerfile sets up the development environment with:
+
+
+
+
+
+
+
+
+Key components installed:
+
+Build essentials (make, compilers, etc.)
+Development libraries (SSL, SQLite, etc.)
+Python 3.9 via pyenv
+Poetry for dependency management
+Sources: 
+.devcontainer/Dockerfile
+1-45
+
+VS Code Configuration
+The devcontainer.json file configures VS Code to work optimally with the container:
+
+Sets the container name to "poetry3-poetry-pyenv"
+Adds the Azure CLI as a container feature
+Installs useful VS Code extensions:
+ms-python.python for Python language support
+njpwerner.autodocstring for automatic docstring generation
+Sources: 
+.devcontainer/devcontainer.json
+1-28
+
+Working with the Development Environment
+Once your development container is running, you can use standard poetry commands to manage dependencies and start developing:
+
+Install dependencies:
+
+poetry install
+Activate the virtual environment:
+
+poetry shell
+Run tests:
+
+poetry run pytest
+Add new dependencies:
+
+poetry add <package-name>
+The development container comes with Poetry configured to create virtual environments inside the project directory (poetry config virtualenvs.in-project true), making it easier to work with VS Code's Python extension.
+
+Sources: 
+.devcontainer/Dockerfile
+44-45
+
+Tips and Best Practices
+Line Endings
+When working with the same repository folder in a container and Windows, you may encounter line ending issues. The .gitattributes file in the repository root is configured to disable line ending conversion to prevent conflicts.
+
+Container Rebuilding
+If you need to update the container configuration:
+
+Make changes to the Dockerfile or devcontainer.json
+Open the Command Palette (F1) and select "Dev Containers: Rebuild Container"
+Performance Considerations
+The first time you build the container, it may take several minutes
+Subsequent startups will be much faster as Docker caches the built image
+Mount operations between the host and container can be slow on some systems, particularly on Windows with WSL2
+Sources: 
+.devcontainer/README.md
+41-45
+
+Relationship to CI/CD
+The development container provides a consistent environment that closely matches what's used in the CI/CD pipelines, helping ensure that code that works in your development environment will also work in the CI/CD process.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For more details about the CI/CD processes, see CI/CD Workflows.
+
+Sources: 
+.devcontainer/README.md
+1-44
+
+Conclusion
+The development container provides a standardized, consistent environment for developing and contributing to the langchain-azure repository. By using either GitHub Codespaces or VS Code Dev Containers, you can get started quickly without worrying about setting up dependencies manually.
+
+Dismiss
+Refresh this wiki
+
+Enter email to refresh
+On this page
+Development Environment
+Dev Container Overview
+Setup Options
+Setup with GitHub Codespaces
+Setup with VS Code Dev Containers
+Prerequisites
+Setup Steps
+Development Container Configuration Details
+Dockerfile Configuration
+VS Code Configuration
+Working with the Development Environment
+Tips and Best Practices
+Line Endings
+Container Rebuilding
+Performance Considerations
+Relationship to CI/CD
+Conclusion
+Ask Devin about langchain-ai/langchain-azure
+Deep Research
+

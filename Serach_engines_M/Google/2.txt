@@ -1,0 +1,89 @@
+
+Search
+Write
+Sign up
+
+Sign in
+
+
+
+Member-only story
+
+🚀 Getting Started with LangChain: A Step-by-Step Guide to AI-Powered Development
+Shlpa S Behani
+Shlpa S Behani
+5 min read
+·
+Mar 12, 2025
+--
+
+
+
+✨ Introduction to LangChain
+LangChain is a framework designed to simplify the development of applications powered by Large Language Models (LLMs) 🤖. It provides essential tools to seamlessly integrate LLMs with APIs, external data sources, and complex AI workflows. Whether you’re building chatbots, AI-powered automation, or knowledge retrieval systems, LangChain makes it easier to connect and manage various components efficiently.
+
+💡 Why Use LangChain?
+LangChain is useful for developers who want to:
+
+⚡ Build AI applications faster by using pre-built components.
+🔗 Integrate external data sources like APIs, databases, and cloud storage.
+🔍 Optimize AI-powered workflows with automated prompt handling and response generation.
+📈 Scale applications efficiently by leveraging modular tools for LLMs.
+🔗 Official LangChain Documentation: LangChain Docs
+
+🛠️ Setting Up LangChain
+Before developing with LangChain, you need to set up your environment correctly. The following guide walks through installing LangChain and its dependencies on an AWS Linux machine. If you are using a different OS, some commands may vary.
+
+1️⃣ Install Python and Set Up Virtual Environment
+Update system packages:
+sudo yum update -y
+2. Install Python 3 and pip:
+
+sudo yum install python3 -y sudo yum install python3-pip -y
+3. Set up a virtual environment (optional but recommended):
+
+python3 -m venv venv source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+2️⃣ Install Required Libraries
+Once the virtual environment is activated, install LangChain and other dependencies:
+
+pip install langchain langchain-community langchain-openai openai python-dotenv faiss-cpu
+Press enter or click to view image in full size
+
+--
+
+
+
+Shlpa S Behani
+Written by Shlpa S Behani
+95 followers
+·
+5 following
+https://www.linkedin.com/in/shilpa-daga-19203a28/
+
+No responses yet
+
+Write a response
+
+What are your thoughts?
+
+Cancel
+Respond
+Help
+
+Status
+
+About
+
+Careers
+
+Press
+
+Blog
+
+Privacy
+
+Rules
+
+Terms
+
+Text to speech

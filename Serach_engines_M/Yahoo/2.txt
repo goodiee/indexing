@@ -1,0 +1,61 @@
+ApX logo
+Home
+Blog
+
+Courses
+
+LLMs
+MCP
+All Courses
+
+Building LLM Applications using LangChain
+Chapter 1: Introduction to the LangChain Framework
+The Motivation for a Framework
+LangChain's Core Architecture
+Setting Up Your Development Environment
+Your First LangChain Application
+Chapter 2: Models, Prompts, and Parsers
+Interfacing with LLMs and Chat Models
+Managing Prompts with PromptTemplates
+Implementing Few-Shot Prompting
+Structuring Output with Parsers
+Hands-on Practical: Building a Structured Data Extractor
+Chapter 3: Constructing Chains for Sequential Operations
+Fundamentals of Chains
+Using the Simple LLMChain
+Creating Sequential Chains
+Implementing Conditional Logic with Router Chains
+Hands-on Practical: A Content Generation Pipeline
+Chapter 4: Memory for Conversational Applications
+The Importance of State in Conversations
+Buffer Memory for Short-Term Recall
+Summarization Memory for Long Conversations
+Using Windowed and Token-Based Memory
+Adding Memory to Chains and Agents
+Practice: Building a Chatbot with Memory
+Chapter 5: Data Connection for Retrieval Augmented Generation (RAG)
+Architecture of a RAG System
+Loading Data with Document Loaders
+Splitting Documents for Processing
+Vector Stores and Embeddings
+Fetching Data with Retrievers
+Building a Question-Answering Chain
+Hands-on Practical: Q&A over Your Documents
+Chapter 6: Developing Autonomous Agents
+Introduction to Agents and Tools
+The Agent, Tool, and Toolkit Architecture
+Using Built-in Tools
+Creating Custom Tools
+Exploring Agent Types and Executors
+Hands-on Practical: A Web-Searching Agent
+Setting Up Your Development Environment
+
+Was this section helpful?
+
+
+
+© 2025 ApX Machine Learning
+
+This site uses cookies to enhance your experience. Manage your preferences below.
+
+Learn More

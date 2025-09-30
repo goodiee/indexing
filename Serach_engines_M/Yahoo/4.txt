@@ -1,0 +1,448 @@
+Sangbeom Park
+about
+blog
+publications
+
+
+Complete Guide to LangChain Installation and Setup
+February 05, 2024
+
+ 2024   ·    langchain    installation    setup    ai agent     ·    python    llm  
+
+Introduction
+LangChain is a powerful framework designed to simplify the development of applications using large language models (LLMs). It provides a standardized interface for chains, integrations with other tools, and end-to-end chains for common applications. In this guide, we’ll walk through the installation process and basic setup of LangChain, enabling you to start building sophisticated LLM-powered applications.
+
+Prerequisites
+Before installing LangChain, ensure you have the following prerequisites:
+
+Python 3.8.1 or later
+pip (Python package installer)
+A virtual environment (recommended)
+API keys for LLM providers (e.g., OpenAI, Anthropic, etc.)
+Setting Up a Virtual Environment
+It’s always a good practice to create a dedicated virtual environment for your projects to avoid dependency conflicts.
+
+Using venv (Python’s built-in module)
+# Create a new virtual environment
+python -m venv langchain-env
+
+# Activate the virtual environment
+# On Windows
+langchain-env\Scripts\activate
+# On macOS/Linux
+source langchain-env/bin/activate
+
+Using conda
+# Create a new conda environment
+conda create -n langchain-env python=3.10
+
+# Activate the conda environment
+conda activate langchain-env
+
+Installing LangChain
+LangChain can be installed using pip. There are different installation options depending on your needs:
+
+Basic Installation
+For a minimal installation with core functionality:
+
+pip install langchain
+
+Full Installation
+For the complete package with all integrations:
+
+pip install langchain-all
+
+Specific Integrations
+You can also install specific integrations based on your requirements:
+
+# OpenAI integration
+pip install langchain-openai
+
+# Anthropic integration
+pip install langchain-anthropic
+
+# Community integration
+pip install langchain-community
+
+# HuggingFace integration
+pip install langchain-huggingface
+
+Setting Up API Keys
+Most LLM providers require API keys for authentication. Here’s how to set them up:
+
+Environment Variables
+Create a .env file in your project root directory:
+
+# .env file
+OPENAI_API_KEY=your_openai_api_key
+ANTHROPIC_API_KEY=your_anthropic_api_key
+HUGGINGFACEHUB_API_TOKEN=your_huggingface_token
+
+Then, install the python-dotenv package to load these variables:
+
+pip install python-dotenv
+
+Creating a Simple LangChain Application
+Let’s create a simple application using LangChain to ensure everything is set up correctly:
+
+# app.py
+from dotenv import load_dotenv
+from langchain_openai import ChatOpenAI
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.output_parsers import StrOutputParser
+
+# Load environment variables
+load_dotenv()
+
+# Initialize the language model
+llm = ChatOpenAI(model="gpt-3.5-turbo")
+
+# Create a prompt template
+prompt = ChatPromptTemplate.from_template("Tell me a short joke about {topic}")
+
+# Create a simple chain
+chain = prompt | llm | StrOutputParser()
+
+# Execute the chain
+response = chain.invoke({"topic": "programming"})
+print(response)
+
+Run the application:
+
+python app.py
+
+Setting Up Persistent Storage
+LangChain can use various databases for storing data like conversation histories, vector embeddings, etc.
+
+Using a Vector Database for Embeddings
+Here’s how to set up Chroma, a popular vector database:
+
+pip install langchain-chroma
+
+Example usage:
+
+from langchain_openai import OpenAIEmbeddings
+from langchain_chroma import Chroma
+
+# Initialize the embedding model
+embeddings = OpenAIEmbeddings()
+
+# Create a Chroma vector store
+db = Chroma(
+    collection_name="my_collection",
+    embedding_function=embeddings,
+    persist_directory="./chroma_db"
+)
+
+# Add documents to the vector store
+db.add_texts(
+    texts=["LangChain is a framework for developing applications powered by language models.", 
+           "It enables applications that are context-aware and can reason."]
+)
+
+# Search for similar documents
+results = db.similarity_search("What is LangChain?")
+print(results)
+
+Creating a Document Question-Answering System
+Let’s build a simple question-answering system using LangChain:
+
+pip install langchain-openai langchain-community pypdf
+
+# qa_system.py
+from dotenv import load_dotenv
+from langchain_openai import OpenAIEmbeddings, ChatOpenAI
+from langchain_community.document_loaders import PyPDFLoader
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_chroma import Chroma
+from langchain.chains.combine_documents import create_stuff_documents_chain
+from langchain_core.prompts import ChatPromptTemplate
+from langchain.chains import create_retrieval_chain
+
+# Load environment variables
+load_dotenv()
+
+# Load and split the document
+loader = PyPDFLoader("your_document.pdf")
+documents = loader.load()
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
+splits = text_splitter.split_documents(documents)
+
+# Create a vector store
+embedding = OpenAIEmbeddings()
+vectorstore = Chroma.from_documents(documents=splits, embedding=embedding)
+retriever = vectorstore.as_retriever()
+
+# Create a prompt
+prompt = ChatPromptTemplate.from_template("""
+Answer the following question based only on the provided context:
+
+<context>
+{context}
+</context>
+
+Question: {question}
+""")
+
+# Set up the LLM
+llm = ChatOpenAI(model="gpt-3.5-turbo")
+
+# Create document chain
+document_chain = create_stuff_documents_chain(llm, prompt)
+
+# Create retrieval chain
+retrieval_chain = create_retrieval_chain(retriever, document_chain)
+
+# Query the system
+response = retrieval_chain.invoke({"question": "What is the main topic of this document?"})
+print(response["answer"])
+
+Using LangChain with Streamlit
+You can create interactive web applications with LangChain using Streamlit:
+
+pip install streamlit
+
+Create a simple Streamlit app (app.py):
+
+import streamlit as st
+from dotenv import load_dotenv
+from langchain_openai import ChatOpenAI
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.output_parsers import StrOutputParser
+
+# Load environment variables
+load_dotenv()
+
+# Initialize the app
+st.title("🦜️🔗 LangChain AI Assistant")
+
+# Initialize session state for chat history
+if "messages" not in st.session_state:
+    st.session_state.messages = []
+
+# Display chat history
+for message in st.session_state.messages:
+    with st.chat_message(message["role"]):
+        st.markdown(message["content"])
+
+# Get user input
+user_input = st.chat_input("Ask me anything...")
+
+# Process user input
+if user_input:
+    # Add user message to chat history
+    st.session_state.messages.append({"role": "user", "content": user_input})
+    with st.chat_message("user"):
+        st.markdown(user_input)
+    
+    # Setup LangChain components
+    llm = ChatOpenAI(model="gpt-3.5-turbo")
+    prompt = ChatPromptTemplate.from_template("Human: {human_input}\nAI: ")
+    chain = prompt | llm | StrOutputParser()
+    
+    # Generate AI response
+    with st.chat_message("assistant"):
+        with st.spinner("Thinking..."):
+            response = chain.invoke({"human_input": user_input})
+            st.markdown(response)
+    
+    # Add AI response to chat history
+    st.session_state.messages.append({"role": "assistant", "content": response})
+
+Run the Streamlit app:
+
+streamlit run app.py
+
+Integration with Other Services
+LangChain with LlamaIndex
+LlamaIndex is a data framework for LLM-based applications:
+
+pip install llama-index
+
+Example integration:
+
+from llama_index import VectorStoreIndex, SimpleDirectoryReader
+from llama_index.indices.query.query_transform import LangchainQueryTransform
+from langchain.chains import LLMChain
+from langchain_openai import ChatOpenAI
+from langchain_core.prompts import PromptTemplate
+
+# Load documents
+documents = SimpleDirectoryReader('data').load_data()
+
+# Create index
+index = VectorStoreIndex.from_documents(documents)
+
+# Create LangChain query transform
+llm = ChatOpenAI(model="gpt-3.5-turbo")
+prompt = PromptTemplate(
+    input_variables=["query"],
+    template="Reformulate this query to be more specific: {query}"
+)
+llm_chain = LLMChain(llm=llm, prompt=prompt)
+query_transform = LangchainQueryTransform(langchain_chain=llm_chain)
+
+# Query with transformed query
+query_engine = index.as_query_engine(query_transform=query_transform)
+response = query_engine.query("What are the main concepts?")
+print(response)
+
+LangChain with Pinecone
+Pinecone is a vector database for storing and searching embeddings:
+
+pip install langchain-pinecone
+
+Example usage:
+
+import os
+import pinecone
+from langchain_pinecone import PineconeVectorStore
+from langchain_openai import OpenAIEmbeddings
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
+
+# Initialize Pinecone
+pinecone.init(
+    api_key=os.getenv("PINECONE_API_KEY"),
+    environment=os.getenv("PINECONE_ENVIRONMENT")
+)
+
+# Create or connect to an index
+index_name = "langchain-demo"
+if index_name not in pinecone.list_indexes():
+    pinecone.create_index(
+        name=index_name,
+        dimension=1536,  # OpenAI embedding dimension
+        metric="cosine"
+    )
+
+# Create vector store
+embeddings = OpenAIEmbeddings()
+vectorstore = PineconeVectorStore(
+    index_name=index_name,
+    embedding=embeddings
+)
+
+# Add texts
+vectorstore.add_texts(
+    texts=["LangChain is a framework for LLM applications",
+           "Pinecone is a vector database for storing embeddings"]
+)
+
+# Search
+results = vectorstore.similarity_search("What is LangChain?")
+print(results)
+
+Automated Dependency Management
+For proper dependency management, you can create a requirements.txt file:
+
+# requirements.txt
+langchain==0.1.0
+langchain-openai==0.0.5
+langchain-anthropic==0.0.5
+langchain-community==0.0.10
+python-dotenv==1.0.0
+streamlit==1.29.0
+chroma-hnswlib==0.7.3
+chromadb==0.4.22
+pypdf==3.17.1
+
+Install all dependencies at once:
+
+pip install -r requirements.txt
+
+Project Structure
+A well-organized LangChain project might have the following structure:
+
+langchain-project/
+├── .env                  # Environment variables
+├── requirements.txt      # Dependencies
+├── app.py                # Main application
+├── chains/               # Custom chains
+│   ├── __init__.py
+│   └── qa_chain.py
+├── prompts/              # Prompt templates
+│   ├── __init__.py
+│   └── chat_prompts.py
+├── utils/                # Utility functions
+│   ├── __init__.py
+│   └── helpers.py
+├── data/                 # Data files
+│   └── documents/
+└── chroma_db/            # Vector store data
+
+Advanced Installation and Configuration
+Installing from Source
+For the latest features or contributing to LangChain:
+
+git clone https://github.com/langchain-ai/langchain.git
+cd langchain
+pip install -e .
+
+GPU Acceleration
+To utilize GPU acceleration for local models:
+
+# For CUDA support
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+# For MPS support on Apple Silicon
+pip install torch torchvision torchaudio
+
+Troubleshooting Common Issues
+API Key Issues
+If you encounter API key errors:
+
+# Verify your API key is correctly set
+import os
+print(os.getenv("OPENAI_API_KEY"))  # Should print your API key, not None
+
+Dependency Conflicts
+If you have dependency conflicts:
+
+# Create a fresh virtual environment
+python -m venv new_env
+source new_env/bin/activate
+
+# Install specific versions
+pip install langchain==0.1.0 langchain-openai==0.0.5
+
+Memory Issues
+If you encounter memory issues with large embeddings:
+
+# Process documents in batches
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+
+text_splitter = RecursiveCharacterTextSplitter(
+    chunk_size=500,
+    chunk_overlap=50
+)
+splits = text_splitter.split_documents(documents)
+
+# Process in batches
+batch_size = 100
+for i in range(0, len(splits), batch_size):
+    batch = splits[i:i+batch_size]
+    vectorstore.add_documents(batch)
+
+One-Line Installation Commands
+For those who want a quick setup, here are one-line commands that combine multiple installation steps:
+
+Basic Development Setup
+python -m venv langchain-env && source langchain-env/bin/activate && pip install langchain langchain-openai langchain-community python-dotenv && echo "OPENAI_API_KEY=your_key_here" > .env
+
+Complete Development Environment
+python -m venv langchain-env && source langchain-env/bin/activate && pip install langchain-all python-dotenv streamlit pypdf langchain-chroma && mkdir -p chains prompts utils data chroma_db && echo "OPENAI_API_KEY=your_key_here" > .env && echo "from dotenv import load_dotenv\nload_dotenv()\n\n# Your code here" > app.py
+
+
+
+Enjoy Reading This Article?
+Here are some more articles you might like to read next:
+
+ROS Installation and Setup Guide for NVIDIA Jetson Nano
+Complete Guide to ROS Installation and Setup
+Docker Ubuntu Setup Guide
+Isaac Gym Installation Guide for Ubuntu
+How to Set Up a Python Package
+© Copyright 2025 Sangbeom Park. Powered by Jekyll with al-folio theme. Hosted by GitHub Pages. Photos from Unsplash. Last updated: August 27, 2025.
