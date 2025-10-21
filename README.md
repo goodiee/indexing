@@ -1,5 +1,5 @@
 # indexing
 
 
-python bi-searching.py search - for bi-searching
+python bi-searching.py search --indices .
 
