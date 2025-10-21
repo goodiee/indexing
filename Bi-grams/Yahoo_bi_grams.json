@@ -1,0 +1,8895 @@
+{
+  "0 0": [
+    "4"
+  ],
+  "0 1": [
+    "4"
+  ],
+  "0 10": [
+    "4"
+  ],
+  "0 4": [
+    "4"
+  ],
+  "0 5": [
+    "4"
+  ],
+  "0 7": [
+    "4"
+  ],
+  "0 alpha": [
+    "1"
+  ],
+  "0 chroma": [
+    "4"
+  ],
+  "0 in": [
+    "1"
+  ],
+  "0 langchain": [
+    "4"
+  ],
+  "0 len": [
+    "4"
+  ],
+  "0 streamlit": [
+    "4"
+  ],
+  "05 2024": [
+    "4"
+  ],
+  "1 0": [
+    "4"
+  ],
+  "1 29": [
+    "4"
+  ],
+  "1 install": [
+    "1",
+    "4"
+  ],
+  "1 introduction": [
+    "2"
+  ],
+  "1 or": [
+    "4"
+  ],
+  "1 using": [
+    "1"
+  ],
+  "10 activate": [
+    "4"
+  ],
+  "10 python": [
+    "4"
+  ],
+  "100 for": [
+    "4"
+  ],
+  "100 splits": [
+    "4"
+  ],
+  "1000 chunk_overlap": [
+    "4"
+  ],
+  "10x faster": [
+    "3"
+  ],
+  "1536 openai": [
+    "4"
+  ],
+  "17 1": [
+    "4"
+  ],
+  "2 5": [
+    "3"
+  ],
+  "2 install": [
+    "1"
+  ],
+  "2 models": [
+    "2"
+  ],
+  "2 using": [
+    "1"
+  ],
+  "2024 2024": [
+    "4"
+  ],
+  "2024 langchain": [
+    "4"
+  ],
+  "2025 all": [
+    "3"
+  ],
+  "2025 apx": [
+    "2"
+  ],
+  "2025 langchain": [
+    "1"
+  ],
+  "2025 sangbeom": [
+    "4"
+  ],
+  "2025 visit": [
+    "1"
+  ],
+  "22 pypdf": [
+    "4"
+  ],
+  "27 2025": [
+    "4"
+  ],
+  "29 0": [
+    "4"
+  ],
+  "3 10": [
+    "4"
+  ],
+  "3 17": [
+    "4"
+  ],
+  "3 5": [
+    "4"
+  ],
+  "3 7": [
+    "3"
+  ],
+  "3 8": [
+    "4"
+  ],
+  "3 chromadb": [
+    "4"
+  ],
+  "3 constructing": [
+    "2"
+  ],
+  "3 or": [
+    "3"
+  ],
+  "3 use": [
+    "1"
+  ],
+  "3 using": [
+    "1"
+  ],
+  "3 welcome": [
+    "1"
+  ],
+  "3 you": [
+    "3"
+  ],
+  "37 7k": [
+    "3"
+  ],
+  "4 22": [
+    "4"
+  ],
+  "4 memory": [
+    "2"
+  ],
+  "4 use": [
+    "1"
+  ],
+  "5 as": [
+    "1"
+  ],
+  "5 data": [
+    "2"
+  ],
+  "5 how": [
+    "3"
+  ],
+  "5 langchain": [
+    "4"
+  ],
+  "5 memory": [
+    "4"
+  ],
+  "5 turbo": [
+    "4"
+  ],
+  "50 splits": [
+    "4"
+  ],
+  "500 chunk_overlap": [
+    "4"
+  ],
+  "6 developing": [
+    "2"
+  ],
+  "7 3": [
+    "4"
+  ],
+  "7 or": [
+    "3"
+  ],
+  "7k contact": [
+    "3"
+  ],
+  "8 1": [
+    "4"
+  ],
+  "__init__ py": [
+    "4"
+  ],
+  "a blocker": [
+    "1"
+  ],
+  "a chatbot": [
+    "2"
+  ],
+  "a chroma": [
+    "4"
+  ],
+  "a combination": [
+    "1"
+  ],
+  "a compatible": [
+    "3"
+  ],
+  "a content": [
+    "2"
+  ],
+  "a data": [
+    "4"
+  ],
+  "a dedicated": [
+    "4"
+  ],
+  "a dependency": [
+    "1"
+  ],
+  "a development": [
+    "1"
+  ],
+  "a document": [
+    "4"
+  ],
+  "a env": [
+    "4"
+  ],
+  "a few": [
+    "3"
+  ],
+  "a framework": [
+    "2",
+    "4"
+  ],
+  "a fresh": [
+    "4"
+  ],
+  "a good": [
+    "3",
+    "4"
+  ],
+  "a jupyter": [
+    "1"
+  ],
+  "a library": [
+    "1"
+  ],
+  "a managed": [
+    "3"
+  ],
+  "a minimal": [
+    "4"
+  ],
+  "a new": [
+    "1",
+    "4"
+  ],
+  "a over": [
+    "2"
+  ],
+  "a popular": [
+    "4"
+  ],
+  "a powerful": [
+    "3",
+    "4"
+  ],
+  "a pr": [
+    "1"
+  ],
+  "a project": [
+    "1"
+  ],
+  "a prompt": [
+    "4"
+  ],
+  "a python": [
+    "3",
+    "4"
+  ],
+  "a question": [
+    "2"
+  ],
+  "a quick": [
+    "3",
+    "4"
+  ],
+  "a rag": [
+    "2"
+  ],
+  "a requirements": [
+    "4"
+  ],
+  "a robust": [
+    "3"
+  ],
+  "a short": [
+    "4"
+  ],
+  "a simple": [
+    "4"
+  ],
+  "a standardized": [
+    "4"
+  ],
+  "a structured": [
+    "2"
+  ],
+  "a subset": [
+    "1"
+  ],
+  "a unit": [
+    "1"
+  ],
+  "a valuable": [
+    "3"
+  ],
+  "a vector": [
+    "3",
+    "4"
+  ],
+  "a vectordb": [
+    "3"
+  ],
+  "a virtual": [
+    "3",
+    "4"
+  ],
+  "a web": [
+    "2"
+  ],
+  "a well": [
+    "4"
+  ],
+  "a wide": [
+    "3"
+  ],
+  "able to": [
+    "1"
+  ],
+  "about blog": [
+    "4"
+  ],
+  "about optional": [
+    "1"
+  ],
+  "about topic": [
+    "4"
+  ],
+  "abstractions and": [
+    "3"
+  ],
+  "abstractions as": [
+    "1"
+  ],
+  "abstractions that": [
+    "1"
+  ],
+  "acceleration for": [
+    "4"
+  ],
+  "acceleration to": [
+    "4"
+  ],
+  "accept you": [
+    "3"
+  ],
+  "access credentials": [
+    "3"
+  ],
+  "access for": [
+    "3"
+  ],
+  "access than": [
+    "1"
+  ],
+  "across separate": [
+    "1"
+  ],
+  "across sessions": [
+    "3"
+  ],
+  "activate install": [
+    "4"
+  ],
+  "activate it": [
+    "3"
+  ],
+  "activate langchain": [
+    "4"
+  ],
+  "activate on": [
+    "3",
+    "4"
+  ],
+  "activate pip": [
+    "4"
+  ],
+  "activate the": [
+    "4"
+  ],
+  "activate using": [
+    "4"
+  ],
+  "actual api": [
+    "3"
+  ],
+  "add a": [
+    "1"
+  ],
+  "add ai": [
+    "4"
+  ],
+  "add documents": [
+    "4"
+  ],
+  "add new": [
+    "1"
+  ],
+  "add optional": [
+    "1"
+  ],
+  "add texts": [
+    "4"
+  ],
+  "add the": [
+    "1"
+  ],
+  "add user": [
+    "4"
+  ],
+  "add_documents batch": [
+    "4"
+  ],
+  "add_texts texts": [
+    "4"
+  ],
+  "adding a": [
+    "1"
+  ],
+  "adding memory": [
+    "2"
+  ],
+  "adding this": [
+    "3"
+  ],
+  "addition you": [
+    "1"
+  ],
+  "additional dependencies": [
+    "3"
+  ],
+  "additional packages": [
+    "3"
+  ],
+  "additionally you": [
+    "1"
+  ],
+  "advanced installation": [
+    "4"
+  ],
+  "advice and": [
+    "3"
+  ],
+  "affecting the": [
+    "1"
+  ],
+  "agent python": [
+    "4"
+  ],
+  "agent setting": [
+    "2"
+  ],
+  "agent tool": [
+    "2"
+  ],
+  "agent types": [
+    "2"
+  ],
+  "agents and": [
+    "1",
+    "2"
+  ],
+  "agents introduction": [
+    "2"
+  ],
+  "agents practice": [
+    "2"
+  ],
+  "agree to": [
+    "3"
+  ],
+  "ai agent": [
+    "4"
+  ],
+  "ai assistant": [
+    "4"
+  ],
+  "ai langchain": [
+    "4"
+  ],
+  "ai quick": [
+    "3"
+  ],
+  "ai reference": [
+    "3"
+  ],
+  "ai response": [
+    "4"
+  ],
+  "ai try": [
+    "3"
+  ],
+  "al folio": [
+    "4"
+  ],
+  "all courses": [
+    "2"
+  ],
+  "all dependencies": [
+    "4"
+  ],
+  "all groups": [
+    "1"
+  ],
+  "all integrations": [
+    "4"
+  ],
+  "all python": [
+    "4"
+  ],
+  "all rights": [
+    "3"
+  ],
+  "all specific": [
+    "4"
+  ],
+  "all the": [
+    "3"
+  ],
+  "allow unix": [
+    "1"
+  ],
+  "along with": [
+    "3"
+  ],
+  "alpha docs": [
+    "1"
+  ],
+  "also be": [
+    "3"
+  ],
+  "also code": [
+    "1"
+  ],
+  "also install": [
+    "4"
+  ],
+  "also integration": [
+    "1"
+  ],
+  "alternative first": [
+    "1"
+  ],
+  "alternative uv": [
+    "1"
+  ],
+  "always a": [
+    "4"
+  ],
+  "an environment": [
+    "3"
+  ],
+  "an index": [
+    "4"
+  ],
+  "an optional": [
+    "1"
+  ],
+  "analysis or": [
+    "3"
+  ],
+  "analytical purposes": [
+    "3"
+  ],
+  "and activate": [
+    "3"
+  ],
+  "and add": [
+    "1"
+  ],
+  "and agents": [
+    "2"
+  ],
+  "and applications": [
+    "3"
+  ],
+  "and basic": [
+    "4"
+  ],
+  "and can": [
+    "4"
+  ],
+  "and chat": [
+    "2"
+  ],
+  "and check": [
+    "1"
+  ],
+  "and code": [
+    "1"
+  ],
+  "and configuration": [
+    "4"
+  ],
+  "and configured": [
+    "3"
+  ],
+  "and coverage": [
+    "1"
+  ],
+  "and don": [
+    "1"
+  ],
+  "and embeddings": [
+    "2"
+  ],
+  "and end": [
+    "4"
+  ],
+  "and examples": [
+    "3"
+  ],
+  "and execute": [
+    "3"
+  ],
+  "and executors": [
+    "2"
+  ],
+  "and explore": [
+    "3"
+  ],
+  "and for": [
+    "3"
+  ],
+  "and forums": [
+    "3"
+  ],
+  "and how": [
+    "3"
+  ],
+  "and install": [
+    "3"
+  ],
+  "and langchain": [
+    "1"
+  ],
+  "and linting": [
+    "1"
+  ],
+  "and mypy": [
+    "1"
+  ],
+  "and no": [
+    "1"
+  ],
+  "and offer": [
+    "3"
+  ],
+  "and other": [
+    "1"
+  ],
+  "and parsers": [
+    "2"
+  ],
+  "and partner": [
+    "1"
+  ],
+  "and retrieval": [
+    "1"
+  ],
+  "and run": [
+    "1"
+  ],
+  "and running": [
+    "3"
+  ],
+  "and searching": [
+    "4"
+  ],
+  "and setup": [
+    "3",
+    "4"
+  ],
+  "and share": [
+    "3"
+  ],
+  "and split": [
+    "4"
+  ],
+  "and still": [
+    "1"
+  ],
+  "and templates": [
+    "1"
+  ],
+  "and that": [
+    "1"
+  ],
+  "and they": [
+    "1"
+  ],
+  "and token": [
+    "2"
+  ],
+  "and toolkit": [
+    "2"
+  ],
+  "and tools": [
+    "2",
+    "3"
+  ],
+  "and try": [
+    "3"
+  ],
+  "and use": [
+    "3"
+  ],
+  "and uv": [
+    "1"
+  ],
+  "and want": [
+    "1"
+  ],
+  "and will": [
+    "1"
+  ],
+  "annoying if": [
+    "1"
+  ],
+  "answer is": [
+    "3"
+  ],
+  "answer need": [
+    "3"
+  ],
+  "answer the": [
+    "4"
+  ],
+  "answer using": [
+    "4"
+  ],
+  "answering chain": [
+    "2"
+  ],
+  "answering system": [
+    "4"
+  ],
+  "anthropic 0": [
+    "4"
+  ],
+  "anthropic community": [
+    "4"
+  ],
+  "anthropic etc": [
+    "4"
+  ],
+  "anthropic integration": [
+    "4"
+  ],
+  "anthropic_api_key your_anthropic_api_key": [
+    "4"
+  ],
+  "any errors": [
+    "3"
+  ],
+  "any side": [
+    "1"
+  ],
+  "any unit": [
+    "1"
+  ],
+  "anything process": [
+    "4"
+  ],
+  "api key": [
+    "3",
+    "4"
+  ],
+  "api keys": [
+    "3",
+    "4"
+  ],
+  "api reference": [
+    "1"
+  ],
+  "api_key os": [
+    "4"
+  ],
+  "apis if": [
+    "1"
+  ],
+  "app app": [
+    "4"
+  ],
+  "app py": [
+    "4"
+  ],
+  "app st": [
+    "4"
+  ],
+  "app streamlit": [
+    "4"
+  ],
+  "append role": [
+    "4"
+  ],
+  "apple silicon": [
+    "4"
+  ],
+  "application chains": [
+    "4"
+  ],
+  "application chapter": [
+    "2"
+  ],
+  "application let": [
+    "4"
+  ],
+  "application python": [
+    "4"
+  ],
+  "application using": [
+    "4"
+  ],
+  "applications in": [
+    "4"
+  ],
+  "applications langchain": [
+    "3"
+  ],
+  "applications making": [
+    "3"
+  ],
+  "applications partner": [
+    "1"
+  ],
+  "applications pinecone": [
+    "4"
+  ],
+  "applications pip": [
+    "4"
+  ],
+  "applications powered": [
+    "4"
+  ],
+  "applications prerequisites": [
+    "4"
+  ],
+  "applications that": [
+    "4"
+  ],
+  "applications the": [
+    "2"
+  ],
+  "applications try": [
+    "3"
+  ],
+  "applications using": [
+    "2",
+    "4"
+  ],
+  "applications with": [
+    "3",
+    "4"
+  ],
+  "apps zilliz": [
+    "3"
+  ],
+  "apx logo": [
+    "2"
+  ],
+  "apx machine": [
+    "2"
+  ],
+  "architecture of": [
+    "1",
+    "2"
+  ],
+  "architecture setting": [
+    "2"
+  ],
+  "architecture using": [
+    "2"
+  ],
+  "are adding": [
+    "1"
+  ],
+  "are also": [
+    "1"
+  ],
+  "are context": [
+    "4"
+  ],
+  "are different": [
+    "4"
+  ],
+  "are experimental": [
+    "1"
+  ],
+  "are formatted": [
+    "1"
+  ],
+  "are independently": [
+    "1"
+  ],
+  "are not": [
+    "1"
+  ],
+  "are novel": [
+    "1"
+  ],
+  "are one": [
+    "4"
+  ],
+  "are only": [
+    "1"
+  ],
+  "are optional": [
+    "1"
+  ],
+  "are properly": [
+    "1"
+  ],
+  "are run": [
+    "1"
+  ],
+  "are some": [
+    "4"
+  ],
+  "are specified": [
+    "1"
+  ],
+  "are the": [
+    "4"
+  ],
+  "article here": [
+    "4"
+  ],
+  "articles you": [
+    "4"
+  ],
+  "as a": [
+    "1"
+  ],
+  "as an": [
+    "3"
+  ],
+  "as compared": [
+    "1"
+  ],
+  "as editable": [
+    "1"
+  ],
+  "as logic": [
+    "1"
+  ],
+  "as st": [
+    "4"
+  ],
+  "as the": [
+    "1",
+    "3"
+  ],
+  "as well": [
+    "1"
+  ],
+  "as_query_engine query_transform": [
+    "4"
+  ],
+  "as_retriever create": [
+    "4"
+  ],
+  "ask me": [
+    "4"
+  ],
+  "assistant content": [
+    "4"
+  ],
+  "assistant initialize": [
+    "4"
+  ],
+  "assistant with": [
+    "4"
+  ],
+  "assume that": [
+    "1"
+  ],
+  "at once": [
+    "4"
+  ],
+  "attempts to": [
+    "1"
+  ],
+  "attu milvus": [
+    "3"
+  ],
+  "augmented generation": [
+    "2"
+  ],
+  "august 27": [
+    "4"
+  ],
+  "authentication here": [
+    "4"
+  ],
+  "authentication tokens": [
+    "3"
+  ],
+  "auto disable": [
+    "1"
+  ],
+  "automated dependency": [
+    "4"
+  ],
+  "automatically run": [
+    "1"
+  ],
+  "autonomous agents": [
+    "2"
+  ],
+  "available developing": [
+    "1"
+  ],
+  "avoid conflicts": [
+    "3"
+  ],
+  "avoid dependency": [
+    "4"
+  ],
+  "aware and": [
+    "4"
+  ],
+  "backup tool": [
+    "3"
+  ],
+  "base interfaces": [
+    "1"
+  ],
+  "based applications": [
+    "4"
+  ],
+  "based memory": [
+    "2"
+  ],
+  "based on": [
+    "4"
+  ],
+  "based only": [
+    "4"
+  ],
+  "bashrc or": [
+    "3"
+  ],
+  "basic development": [
+    "4"
+  ],
+  "basic installation": [
+    "4"
+  ],
+  "basic setup": [
+    "4"
+  ],
+  "batch one": [
+    "4"
+  ],
+  "batch splits": [
+    "4"
+  ],
+  "batch_size 100": [
+    "4"
+  ],
+  "batch_size batch": [
+    "4"
+  ],
+  "batch_size vectorstore": [
+    "4"
+  ],
+  "batches batch_size": [
+    "4"
+  ],
+  "batches from": [
+    "4"
+  ],
+  "be a": [
+    "1"
+  ],
+  "be able": [
+    "1"
+  ],
+  "be an": [
+    "1"
+  ],
+  "be annoying": [
+    "1"
+  ],
+  "be deprecated": [
+    "1"
+  ],
+  "be done": [
+    "3"
+  ],
+  "be imported": [
+    "1"
+  ],
+  "be installed": [
+    "4"
+  ],
+  "be more": [
+    "4"
+  ],
+  "be possible": [
+    "1"
+  ],
+  "be valuable": [
+    "3"
+  ],
+  "be very": [
+    "1"
+  ],
+  "been modified": [
+    "1"
+  ],
+  "before installing": [
+    "4"
+  ],
+  "before submitting": [
+    "1"
+  ],
+  "before you": [
+    "3"
+  ],
+  "begin ensure": [
+    "3"
+  ],
+  "being tested": [
+    "1"
+  ],
+  "below different": [
+    "1"
+  ],
+  "below if": [
+    "1"
+  ],
+  "below learn": [
+    "2"
+  ],
+  "below we": [
+    "3"
+  ],
+  "best practices": [
+    "3"
+  ],
+  "bin activate": [
+    "3",
+    "4"
+  ],
+  "blocker for": [
+    "1"
+  ],
+  "blog community": [
+    "3"
+  ],
+  "blog courses": [
+    "2"
+  ],
+  "blog managed": [
+    "3"
+  ],
+  "blog posts": [
+    "3"
+  ],
+  "blog publications": [
+    "4"
+  ],
+  "blog youtube": [
+    "1"
+  ],
+  "blogs tutorials": [
+    "3"
+  ],
+  "bootcamps demo": [
+    "3"
+  ],
+  "branch as": [
+    "1"
+  ],
+  "branch using": [
+    "1"
+  ],
+  "brew install": [
+    "1"
+  ],
+  "browse or": [
+    "3"
+  ],
+  "buffer memory": [
+    "2"
+  ],
+  "build a": [
+    "4"
+  ],
+  "building a": [
+    "2"
+  ],
+  "building applications": [
+    "3"
+  ],
+  "building genai": [
+    "3"
+  ],
+  "building langchain": [
+    "3"
+  ],
+  "building llm": [
+    "2"
+  ],
+  "building sophisticated": [
+    "4"
+  ],
+  "built for": [
+    "3"
+  ],
+  "built in": [
+    "2",
+    "4"
+  ],
+  "built on": [
+    "3"
+  ],
+  "but development": [
+    "1"
+  ],
+  "by clicking": [
+    "3"
+  ],
+  "by continuing": [
+    "3"
+  ],
+  "by experts": [
+    "3"
+  ],
+  "by exporting": [
+    "3"
+  ],
+  "by following": [
+    "3"
+  ],
+  "by github": [
+    "4"
+  ],
+  "by installing": [
+    "3"
+  ],
+  "by jekyll": [
+    "4"
+  ],
+  "by language": [
+    "4"
+  ],
+  "by providing": [
+    "3"
+  ],
+  "by running": [
+    "3"
+  ],
+  "by typing": [
+    "3"
+  ],
+  "cache dir": [
+    "1"
+  ],
+  "calls to": [
+    "1"
+  ],
+  "can also": [
+    "3",
+    "4"
+  ],
+  "can be": [
+    "1",
+    "4"
+  ],
+  "can check": [
+    "3"
+  ],
+  "can create": [
+    "3",
+    "4"
+  ],
+  "can help": [
+    "1"
+  ],
+  "can install": [
+    "1"
+  ],
+  "can reason": [
+    "4"
+  ],
+  "can run": [
+    "1"
+  ],
+  "can simply": [
+    "1"
+  ],
+  "can skip": [
+    "1"
+  ],
+  "can use": [
+    "4"
+  ],
+  "can usually": [
+    "3"
+  ],
+  "capabilities for": [
+    "3"
+  ],
+  "capabilities of": [
+    "3"
+  ],
+  "case you": [
+    "3"
+  ],
+  "cases you": [
+    "1"
+  ],
+  "cd langchain": [
+    "4"
+  ],
+  "cd libs": [
+    "1"
+  ],
+  "certain parts": [
+    "1"
+  ],
+  "chain chain": [
+    "4"
+  ],
+  "chain document_chain": [
+    "4"
+  ],
+  "chain hands": [
+    "2"
+  ],
+  "chain invoke": [
+    "4"
+  ],
+  "chain prompt": [
+    "4"
+  ],
+  "chain response": [
+    "4"
+  ],
+  "chain retrieval_chain": [
+    "4"
+  ],
+  "chains __init__": [
+    "4"
+  ],
+  "chains agents": [
+    "1"
+  ],
+  "chains and": [
+    "2"
+  ],
+  "chains combine_documents": [
+    "4"
+  ],
+  "chains custom": [
+    "4"
+  ],
+  "chains for": [
+    "2",
+    "4"
+  ],
+  "chains hands": [
+    "2"
+  ],
+  "chains implementing": [
+    "2"
+  ],
+  "chains import": [
+    "4"
+  ],
+  "chains integrations": [
+    "4"
+  ],
+  "chains langchain": [
+    "1"
+  ],
+  "chains prompts": [
+    "4"
+  ],
+  "chains using": [
+    "2"
+  ],
+  "changed prevent": [
+    "1"
+  ],
+  "changes are": [
+    "1"
+  ],
+  "changes meet": [
+    "1"
+  ],
+  "changes to": [
+    "1"
+  ],
+  "chapter 1": [
+    "2"
+  ],
+  "chapter 2": [
+    "2"
+  ],
+  "chapter 3": [
+    "2"
+  ],
+  "chapter 4": [
+    "2"
+  ],
+  "chapter 5": [
+    "2"
+  ],
+  "chapter 6": [
+    "2"
+  ],
+  "chat history": [
+    "4"
+  ],
+  "chat models": [
+    "2"
+  ],
+  "chat_input ask": [
+    "4"
+  ],
+  "chat_message assistant": [
+    "4"
+  ],
+  "chat_message message": [
+    "4"
+  ],
+  "chat_message user": [
+    "4"
+  ],
+  "chat_prompts py": [
+    "4"
+  ],
+  "chatbot with": [
+    "2"
+  ],
+  "chatbots performing": [
+    "3"
+  ],
+  "chatopenai from": [
+    "4"
+  ],
+  "chatopenai model": [
+    "4"
+  ],
+  "chatprompttemplate from": [
+    "4"
+  ],
+  "chatprompttemplate from_template": [
+    "4"
+  ],
+  "check all": [
+    "3"
+  ],
+  "check also": [
+    "1"
+  ],
+  "check fix": [
+    "1"
+  ],
+  "check git": [
+    "1"
+  ],
+  "check in": [
+    "1"
+  ],
+  "check the": [
+    "1"
+  ],
+  "check uv": [
+    "1"
+  ],
+  "check your": [
+    "3"
+  ],
+  "choco install": [
+    "1"
+  ],
+  "chocolatey choco": [
+    "1"
+  ],
+  "choose in": [
+    "3"
+  ],
+  "choose the": [
+    "3"
+  ],
+  "chroma a": [
+    "4"
+  ],
+  "chroma collection_name": [
+    "4"
+  ],
+  "chroma example": [
+    "4"
+  ],
+  "chroma from": [
+    "4"
+  ],
+  "chroma from_documents": [
+    "4"
+  ],
+  "chroma hnswlib": [
+    "4"
+  ],
+  "chroma initialize": [
+    "4"
+  ],
+  "chroma mkdir": [
+    "4"
+  ],
+  "chroma vector": [
+    "4"
+  ],
+  "chroma_db add": [
+    "4"
+  ],
+  "chroma_db echo": [
+    "4"
+  ],
+  "chroma_db vector": [
+    "4"
+  ],
+  "chromadb 0": [
+    "4"
+  ],
+  "chunk_overlap 100": [
+    "4"
+  ],
+  "chunk_overlap 50": [
+    "4"
+  ],
+  "chunk_size 1000": [
+    "4"
+  ],
+  "chunk_size 500": [
+    "4"
+  ],
+  "ci system": [
+    "1"
+  ],
+  "claude context": [
+    "3"
+  ],
+  "cli milvus": [
+    "3"
+  ],
+  "clicking accept": [
+    "3"
+  ],
+  "clone https": [
+    "4"
+  ],
+  "cloud fully": [
+    "3"
+  ],
+  "cloud is": [
+    "3"
+  ],
+  "code and": [
+    "3"
+  ],
+  "code coverage": [
+    "1"
+  ],
+  "code for": [
+    "1"
+  ],
+  "code formatting": [
+    "1"
+  ],
+  "code getting": [
+    "1"
+  ],
+  "code here": [
+    "4"
+  ],
+  "code ideally": [
+    "1"
+  ],
+  "code please": [
+    "1"
+  ],
+  "code using": [
+    "1"
+  ],
+  "code without": [
+    "1"
+  ],
+  "codebase linting": [
+    "1"
+  ],
+  "codebase we": [
+    "1"
+  ],
+  "codesetup open": [
+    "1"
+  ],
+  "codex requests": [
+    "3"
+  ],
+  "coding generates": [
+    "3"
+  ],
+  "cognitive architecture": [
+    "1"
+  ],
+  "collection_name my_collection": [
+    "4"
+  ],
+  "com langchain": [
+    "4"
+  ],
+  "combination of": [
+    "1"
+  ],
+  "combine multiple": [
+    "4"
+  ],
+  "combine_documents import": [
+    "4"
+  ],
+  "combining them": [
+    "1"
+  ],
+  "command from": [
+    "1"
+  ],
+  "command if": [
+    "1"
+  ],
+  "command pip": [
+    "3"
+  ],
+  "command prompt": [
+    "3"
+  ],
+  "commands for": [
+    "4"
+  ],
+  "commands shown": [
+    "1"
+  ],
+  "commands that": [
+    "4"
+  ],
+  "commit config": [
+    "1"
+  ],
+  "commit first": [
+    "1"
+  ],
+  "commit hooks": [
+    "1"
+  ],
+  "commit in": [
+    "1"
+  ],
+  "commit install": [
+    "1"
+  ],
+  "commit no": [
+    "1"
+  ],
+  "commit option": [
+    "1"
+  ],
+  "commit then": [
+    "1"
+  ],
+  "commit to": [
+    "1"
+  ],
+  "commit we": [
+    "1"
+  ],
+  "commit will": [
+    "1"
+  ],
+  "commit working": [
+    "1"
+  ],
+  "commit works": [
+    "1"
+  ],
+  "commits are": [
+    "1"
+  ],
+  "commits if": [
+    "1"
+  ],
+  "common applications": [
+    "4"
+  ],
+  "common issues": [
+    "4"
+  ],
+  "community 0": [
+    "4"
+  ],
+  "community and": [
+    "1",
+    "3"
+  ],
+  "community english": [
+    "3"
+  ],
+  "community for": [
+    "1"
+  ],
+  "community get": [
+    "3"
+  ],
+  "community huggingface": [
+    "4"
+  ],
+  "community integration": [
+    "4"
+  ],
+  "community langchain": [
+    "1"
+  ],
+  "community pypdf": [
+    "4"
+  ],
+  "community python": [
+    "4"
+  ],
+  "compared to": [
+    "1"
+  ],
+  "compatible version": [
+    "3"
+  ],
+  "complete development": [
+    "4"
+  ],
+  "complete guide": [
+    "4"
+  ],
+  "complete package": [
+    "4"
+  ],
+  "complex language": [
+    "3"
+  ],
+  "compliance read": [
+    "3"
+  ],
+  "components llm": [
+    "4"
+  ],
+  "computer by": [
+    "3"
+  ],
+  "concepts print": [
+    "4"
+  ],
+  "conda activate": [
+    "4"
+  ],
+  "conda create": [
+    "4"
+  ],
+  "conda environment": [
+    "4"
+  ],
+  "conditional logic": [
+    "2"
+  ],
+  "config yaml": [
+    "1"
+  ],
+  "configuration file": [
+    "3"
+  ],
+  "configuration installing": [
+    "4"
+  ],
+  "configure access": [
+    "3"
+  ],
+  "configured you": [
+    "3"
+  ],
+  "conflicts create": [
+    "4"
+  ],
+  "conflicts if": [
+    "4"
+  ],
+  "conflicts using": [
+    "4"
+  ],
+  "conflicts with": [
+    "3"
+  ],
+  "connect to": [
+    "4"
+  ],
+  "connection for": [
+    "2"
+  ],
+  "consider adding": [
+    "3"
+  ],
+  "consistency across": [
+    "3"
+  ],
+  "constructing chains": [
+    "2"
+  ],
+  "consult documentation": [
+    "3"
+  ],
+  "contact a": [
+    "1"
+  ],
+  "contact us": [
+    "3"
+  ],
+  "container see": [
+    "1"
+  ],
+  "contains multiple": [
+    "1"
+  ],
+  "content as": [
+    "3"
+  ],
+  "content generation": [
+    "2"
+  ],
+  "content get": [
+    "4"
+  ],
+  "content response": [
+    "4"
+  ],
+  "content these": [
+    "1"
+  ],
+  "content user_input": [
+    "4"
+  ],
+  "context aware": [
+    "4"
+  ],
+  "context community": [
+    "3"
+  ],
+  "context context": [
+    "4"
+  ],
+  "context question": [
+    "4"
+  ],
+  "continuing to": [
+    "3"
+  ],
+  "contribute documentation": [
+    "1"
+  ],
+  "contribute to": [
+    "3"
+  ],
+  "contributed pre": [
+    "1"
+  ],
+  "contributing to": [
+    "4"
+  ],
+  "contributors tutorials": [
+    "1"
+  ],
+  "controlled note": [
+    "1"
+  ],
+  "conversation histories": [
+    "4"
+  ],
+  "conversational applications": [
+    "2"
+  ],
+  "conversations buffer": [
+    "2"
+  ],
+  "conversations using": [
+    "2"
+  ],
+  "cookbook and": [
+    "1"
+  ],
+  "cookies on": [
+    "3"
+  ],
+  "cookies this": [
+    "3"
+  ],
+  "cookies to": [
+    "2"
+  ],
+  "copyright 2025": [
+    "1",
+    "4"
+  ],
+  "copyright milvus": [
+    "3"
+  ],
+  "core and": [
+    "1"
+  ],
+  "core architecture": [
+    "2"
+  ],
+  "core base": [
+    "1"
+  ],
+  "core functionality": [
+    "4"
+  ],
+  "core if": [
+    "1"
+  ],
+  "correctly app": [
+    "4"
+  ],
+  "correctly open": [
+    "3"
+  ],
+  "correctly set": [
+    "4"
+  ],
+  "cosine create": [
+    "4"
+  ],
+  "courses building": [
+    "2"
+  ],
+  "courses llms": [
+    "2"
+  ],
+  "cover modular": [
+    "1"
+  ],
+  "coverage available": [
+    "1"
+  ],
+  "coverage uv": [
+    "1"
+  ],
+  "create a": [
+    "3",
+    "4"
+  ],
+  "create document": [
+    "4"
+  ],
+  "create index": [
+    "4"
+  ],
+  "create interactive": [
+    "4"
+  ],
+  "create langchain": [
+    "4"
+  ],
+  "create n": [
+    "4"
+  ],
+  "create or": [
+    "4"
+  ],
+  "create retrieval": [
+    "4"
+  ],
+  "create vector": [
+    "4"
+  ],
+  "create_index name": [
+    "4"
+  ],
+  "create_retrieval_chain load": [
+    "4"
+  ],
+  "create_retrieval_chain retriever": [
+    "4"
+  ],
+  "create_stuff_documents_chain from": [
+    "4"
+  ],
+  "create_stuff_documents_chain llm": [
+    "4"
+  ],
+  "creating a": [
+    "4"
+  ],
+  "creating custom": [
+    "2"
+  ],
+  "creating interactive": [
+    "3"
+  ],
+  "creating sequential": [
+    "2"
+  ],
+  "creation of": [
+    "3"
+  ],
+  "credentials if": [
+    "3"
+  ],
+  "cu118 for": [
+    "4"
+  ],
+  "cuda support": [
+    "4"
+  ],
+  "current branch": [
+    "1"
+  ],
+  "custom chains": [
+    "4"
+  ],
+  "custom tools": [
+    "2"
+  ],
+  "d master": [
+    "1"
+  ],
+  "data advanced": [
+    "4"
+  ],
+  "data chroma_db": [
+    "4"
+  ],
+  "data connection": [
+    "2"
+  ],
+  "data data": [
+    "4"
+  ],
+  "data extractor": [
+    "2"
+  ],
+  "data files": [
+    "4"
+  ],
+  "data framework": [
+    "4"
+  ],
+  "data like": [
+    "4"
+  ],
+  "data load_data": [
+    "4"
+  ],
+  "data read": [
+    "3"
+  ],
+  "data with": [
+    "2"
+  ],
+  "database and": [
+    "3"
+  ],
+  "database built": [
+    "3"
+  ],
+  "database for": [
+    "4"
+  ],
+  "database pip": [
+    "4"
+  ],
+  "databases for": [
+    "4"
+  ],
+  "db add_texts": [
+    "4"
+  ],
+  "db chroma": [
+    "4"
+  ],
+  "db similarity_search": [
+    "4"
+  ],
+  "decorator for": [
+    "1"
+  ],
+  "dedicated virtual": [
+    "4"
+  ],
+  "deep searcher": [
+    "3"
+  ],
+  "definitive answer": [
+    "3"
+  ],
+  "demo if": [
+    "4"
+  ],
+  "demo video": [
+    "3"
+  ],
+  "dependencies adding": [
+    "1"
+  ],
+  "dependencies app": [
+    "4"
+  ],
+  "dependencies are": [
+    "1"
+  ],
+  "dependencies at": [
+    "4"
+  ],
+  "dependencies below": [
+    "1"
+  ],
+  "dependencies depending": [
+    "3"
+  ],
+  "dependencies for": [
+    "1"
+  ],
+  "dependencies in": [
+    "1"
+  ],
+  "dependencies install": [
+    "1"
+  ],
+  "dependencies it": [
+    "3"
+  ],
+  "dependencies langchain": [
+    "1"
+  ],
+  "dependencies testing": [
+    "1"
+  ],
+  "dependencies to": [
+    "1"
+  ],
+  "dependencies unit": [
+    "1"
+  ],
+  "dependencies uv": [
+    "1"
+  ],
+  "dependency add": [
+    "1"
+  ],
+  "dependency adding": [
+    "1"
+  ],
+  "dependency and": [
+    "1"
+  ],
+  "dependency conflicts": [
+    "4"
+  ],
+  "dependency installation": [
+    "1"
+  ],
+  "dependency installed": [
+    "1"
+  ],
+  "dependency management": [
+    "1",
+    "4"
+  ],
+  "dependency manager": [
+    "1"
+  ],
+  "dependency managers": [
+    "1"
+  ],
+  "dependency to": [
+    "1"
+  ],
+  "depending on": [
+    "3",
+    "4"
+  ],
+  "deprecated and": [
+    "1"
+  ],
+  "designed to": [
+    "3",
+    "4"
+  ],
+  "devcontainer folder": [
+    "1"
+  ],
+  "developers check": [
+    "3"
+  ],
+  "developers working": [
+    "3"
+  ],
+  "developing applications": [
+    "4"
+  ],
+  "developing autonomous": [
+    "2"
+  ],
+  "developing chatbots": [
+    "3"
+  ],
+  "developing langchain_core": [
+    "1"
+  ],
+  "development container": [
+    "1"
+  ],
+  "development dependencies": [
+    "1"
+  ],
+  "development environment": [
+    "1",
+    "2",
+    "4"
+  ],
+  "development is": [
+    "1"
+  ],
+  "development of": [
+    "4"
+  ],
+  "development requirements": [
+    "1"
+  ],
+  "development setup": [
+    "4"
+  ],
+  "device to": [
+    "3"
+  ],
+  "devs from": [
+    "3"
+  ],
+  "diff filter": [
+    "1"
+  ],
+  "diff git": [
+    "1"
+  ],
+  "diff relative": [
+    "1"
+  ],
+  "diff uv": [
+    "1"
+  ],
+  "different installation": [
+    "4"
+  ],
+  "different packages": [
+    "1"
+  ],
+  "dimension 1536": [
+    "4"
+  ],
+  "dimension metric": [
+    "4"
+  ],
+  "dir mypy_cache": [
+    "1"
+  ],
+  "direct uv": [
+    "1"
+  ],
+  "directory cd": [
+    "1"
+  ],
+  "directory env": [
+    "4"
+  ],
+  "disable socket": [
+    "1"
+  ],
+  "discord github": [
+    "3"
+  ],
+  "discouraged as": [
+    "1"
+  ],
+  "display chat": [
+    "4"
+  ],
+  "do embeddings": [
+    "3"
+  ],
+  "do i": [
+    "3"
+  ],
+  "do it": [
+    "1"
+  ],
+  "do not": [
+    "1"
+  ],
+  "do robots": [
+    "3"
+  ],
+  "do the": [
+    "1"
+  ],
+  "docker ubuntu": [
+    "4"
+  ],
+  "docs are": [
+    "1"
+  ],
+  "docs blog": [
+    "3"
+  ],
+  "docs cookbook": [
+    "1"
+  ],
+  "docs langchain": [
+    "1"
+  ],
+  "docs tutorials": [
+    "3"
+  ],
+  "docs will": [
+    "1"
+  ],
+  "document chain": [
+    "4"
+  ],
+  "document loader": [
+    "4"
+  ],
+  "document loaders": [
+    "2"
+  ],
+  "document print": [
+    "4"
+  ],
+  "document question": [
+    "4"
+  ],
+  "document_chain create_stuff_documents_chain": [
+    "4"
+  ],
+  "document_chain query": [
+    "4"
+  ],
+  "document_loaders import": [
+    "4"
+  ],
+  "documentation and": [
+    "3"
+  ],
+  "documentation dependency": [
+    "1"
+  ],
+  "documentation on": [
+    "1"
+  ],
+  "documents chapter": [
+    "2"
+  ],
+  "documents chroma_db": [
+    "4"
+  ],
+  "documents create": [
+    "4"
+  ],
+  "documents documents": [
+    "4"
+  ],
+  "documents for": [
+    "2"
+  ],
+  "documents in": [
+    "4"
+  ],
+  "documents loader": [
+    "4"
+  ],
+  "documents process": [
+    "4"
+  ],
+  "documents results": [
+    "4"
+  ],
+  "documents simpledirectoryreader": [
+    "4"
+  ],
+  "documents splits": [
+    "4"
+  ],
+  "documents to": [
+    "4"
+  ],
+  "does dr": [
+    "3"
+  ],
+  "does it": [
+    "3"
+  ],
+  "does not": [
+    "1"
+  ],
+  "don t": [
+    "1",
+    "3"
+  ],
+  "done by": [
+    "3"
+  ],
+  "done via": [
+    "1"
+  ],
+  "dotenv 1": [
+    "4"
+  ],
+  "dotenv creating": [
+    "4"
+  ],
+  "dotenv echo": [
+    "4"
+  ],
+  "dotenv import": [
+    "4"
+  ],
+  "dotenv package": [
+    "4"
+  ],
+  "dotenv streamlit": [
+    "4"
+  ],
+  "download and": [
+    "3"
+  ],
+  "download pytorch": [
+    "4"
+  ],
+  "dr ensure": [
+    "3"
+  ],
+  "e g": [
+    "3",
+    "4"
+  ],
+  "e gpu": [
+    "4"
+  ],
+  "e py": [
+    "1"
+  ],
+  "each of": [
+    "1"
+  ],
+  "echo from": [
+    "4"
+  ],
+  "echo openai_api_key": [
+    "4"
+  ],
+  "edit this": [
+    "1"
+  ],
+  "editable in": [
+    "1"
+  ],
+  "effects no": [
+    "1"
+  ],
+  "either in": [
+    "1"
+  ],
+  "email subscribe": [
+    "3"
+  ],
+  "embedding dimension": [
+    "4"
+  ],
+  "embedding embedding": [
+    "4"
+  ],
+  "embedding embeddings": [
+    "4"
+  ],
+  "embedding model": [
+    "3",
+    "4"
+  ],
+  "embedding openaiembeddings": [
+    "4"
+  ],
+  "embedding retriever": [
+    "4"
+  ],
+  "embedding_function embeddings": [
+    "4"
+  ],
+  "embeddings add": [
+    "4"
+  ],
+  "embeddings etc": [
+    "4"
+  ],
+  "embeddings fetching": [
+    "2"
+  ],
+  "embeddings handle": [
+    "3"
+  ],
+  "embeddings here": [
+    "4"
+  ],
+  "embeddings openaiembeddings": [
+    "4"
+  ],
+  "embeddings persist_directory": [
+    "4"
+  ],
+  "embeddings pip": [
+    "4"
+  ],
+  "embeddings process": [
+    "4"
+  ],
+  "embeddings search": [
+    "4"
+  ],
+  "emojiby the": [
+    "3"
+  ],
+  "enable you": [
+    "3"
+  ],
+  "enables applications": [
+    "4"
+  ],
+  "enabling you": [
+    "4"
+  ],
+  "encounter any": [
+    "3"
+  ],
+  "encounter api": [
+    "4"
+  ],
+  "encounter memory": [
+    "4"
+  ],
+  "end chains": [
+    "4"
+  ],
+  "end to": [
+    "4"
+  ],
+  "endorsed by": [
+    "3"
+  ],
+  "enforce the": [
+    "1"
+  ],
+  "english star": [
+    "3"
+  ],
+  "enhance your": [
+    "2",
+    "3"
+  ],
+  "enjoy reading": [
+    "4"
+  ],
+  "ensure commits": [
+    "1"
+  ],
+  "ensure everything": [
+    "4"
+  ],
+  "ensure safety": [
+    "3"
+  ],
+  "ensure sla": [
+    "3"
+  ],
+  "ensure that": [
+    "3"
+  ],
+  "ensure you": [
+    "4"
+  ],
+  "ensure your": [
+    "1"
+  ],
+  "entire codebase": [
+    "1"
+  ],
+  "env activate": [
+    "4"
+  ],
+  "env bin": [
+    "4"
+  ],
+  "env complete": [
+    "4"
+  ],
+  "env dependency": [
+    "1"
+  ],
+  "env echo": [
+    "4"
+  ],
+  "env environment": [
+    "4"
+  ],
+  "env file": [
+    "4"
+  ],
+  "env installing": [
+    "4"
+  ],
+  "env python": [
+    "4"
+  ],
+  "env scripts": [
+    "4"
+  ],
+  "env source": [
+    "4"
+  ],
+  "environment conda": [
+    "4"
+  ],
+  "environment docs": [
+    "1"
+  ],
+  "environment for": [
+    "4"
+  ],
+  "environment how": [
+    "3"
+  ],
+  "environment involves": [
+    "3"
+  ],
+  "environment is": [
+    "3"
+  ],
+  "environment it": [
+    "4"
+  ],
+  "environment on": [
+    "4"
+  ],
+  "environment os": [
+    "4"
+  ],
+  "environment python": [
+    "4"
+  ],
+  "environment ready": [
+    "3"
+  ],
+  "environment recommended": [
+    "4"
+  ],
+  "environment setting": [
+    "3"
+  ],
+  "environment to": [
+    "3"
+  ],
+  "environment using": [
+    "3"
+  ],
+  "environment variable": [
+    "3"
+  ],
+  "environment variables": [
+    "4"
+  ],
+  "environment was": [
+    "2"
+  ],
+  "environment your": [
+    "2"
+  ],
+  "environments with": [
+    "3"
+  ],
+  "errors no": [
+    "1"
+  ],
+  "errors the": [
+    "3"
+  ],
+  "errors verify": [
+    "4"
+  ],
+  "especially useful": [
+    "1"
+  ],
+  "etc setting": [
+    "4"
+  ],
+  "etc using": [
+    "4"
+  ],
+  "every git": [
+    "1"
+  ],
+  "everything is": [
+    "4"
+  ],
+  "exactly is": [
+    "3"
+  ],
+  "example if": [
+    "3"
+  ],
+  "example integration": [
+    "4"
+  ],
+  "example langchain": [
+    "1"
+  ],
+  "example projects": [
+    "3"
+  ],
+  "example usage": [
+    "4"
+  ],
+  "example you": [
+    "1"
+  ],
+  "examples linting": [
+    "1"
+  ],
+  "examples to": [
+    "3"
+  ],
+  "exceptional cases": [
+    "1"
+  ],
+  "exceptions to": [
+    "1"
+  ],
+  "execute the": [
+    "3",
+    "4"
+  ],
+  "executors hands": [
+    "2"
+  ],
+  "experience and": [
+    "3"
+  ],
+  "experience manage": [
+    "2"
+  ],
+  "experiences by": [
+    "3"
+  ],
+  "experimental either": [
+    "1"
+  ],
+  "experimental for": [
+    "1"
+  ],
+  "experimental rely": [
+    "1"
+  ],
+  "experimental some": [
+    "1"
+  ],
+  "experts ignore": [
+    "3"
+  ],
+  "explore example": [
+    "3"
+  ],
+  "explore langchain": [
+    "3"
+  ],
+  "exploring agent": [
+    "2"
+  ],
+  "export openai_api_key": [
+    "3"
+  ],
+  "exporting the": [
+    "3"
+  ],
+  "expression language": [
+    "1"
+  ],
+  "extended_testing_deps txt": [
+    "1"
+  ],
+  "extractor chapter": [
+    "2"
+  ],
+  "face transformers": [
+    "3"
+  ],
+  "facebook reddit": [
+    "3"
+  ],
+  "facilitate the": [
+    "3"
+  ],
+  "fails skipping": [
+    "1"
+  ],
+  "faq how": [
+    "1"
+  ],
+  "faster zero": [
+    "3"
+  ],
+  "features or": [
+    "4"
+  ],
+  "features to": [
+    "3"
+  ],
+  "features with": [
+    "3"
+  ],
+  "february 05": [
+    "4"
+  ],
+  "fetching data": [
+    "2"
+  ],
+  "few shot": [
+    "2"
+  ],
+  "few straightforward": [
+    "3"
+  ],
+  "file e": [
+    "3"
+  ],
+  "file in": [
+    "4"
+  ],
+  "file openai_api_key": [
+    "4"
+  ],
+  "file requirements": [
+    "4"
+  ],
+  "files documents": [
+    "4"
+  ],
+  "files git": [
+    "1"
+  ],
+  "files that": [
+    "1"
+  ],
+  "filter d": [
+    "1"
+  ],
+  "first code": [
+    "1"
+  ],
+  "first get": [
+    "1"
+  ],
+  "first install": [
+    "1"
+  ],
+  "first langchain": [
+    "2"
+  ],
+  "fix additionally": [
+    "1"
+  ],
+  "fix it": [
+    "3"
+  ],
+  "fix this": [
+    "1"
+  ],
+  "fix to": [
+    "1"
+  ],
+  "fixtures to": [
+    "1"
+  ],
+  "flows for": [
+    "1"
+  ],
+  "folder dependency": [
+    "1"
+  ],
+  "folio theme": [
+    "4"
+  ],
+  "following command": [
+    "3"
+  ],
+  "following open": [
+    "1"
+  ],
+  "following prerequisites": [
+    "4"
+  ],
+  "following question": [
+    "4"
+  ],
+  "following section": [
+    "1"
+  ],
+  "following structure": [
+    "4"
+  ],
+  "following these": [
+    "3"
+  ],
+  "for a": [
+    "1",
+    "2",
+    "4"
+  ],
+  "for abstractions": [
+    "1"
+  ],
+  "for ai": [
+    "3"
+  ],
+  "for analytical": [
+    "3"
+  ],
+  "for any": [
+    "1"
+  ],
+  "for authentication": [
+    "4"
+  ],
+  "for building": [
+    "3"
+  ],
+  "for chains": [
+    "4"
+  ],
+  "for chat": [
+    "4"
+  ],
+  "for codex": [
+    "3"
+  ],
+  "for combining": [
+    "1"
+  ],
+  "for common": [
+    "4"
+  ],
+  "for consistency": [
+    "3"
+  ],
+  "for conversational": [
+    "2"
+  ],
+  "for cuda": [
+    "4"
+  ],
+  "for developers": [
+    "3"
+  ],
+  "for developing": [
+    "4"
+  ],
+  "for docs": [
+    "1"
+  ],
+  "for embeddings": [
+    "4"
+  ],
+  "for example": [
+    "1",
+    "3"
+  ],
+  "for good": [
+    "1"
+  ],
+  "for hugging": [
+    "3"
+  ],
+  "for i": [
+    "4"
+  ],
+  "for instance": [
+    "3"
+  ],
+  "for key": [
+    "1"
+  ],
+  "for linux": [
+    "1"
+  ],
+  "for llm": [
+    "4"
+  ],
+  "for local": [
+    "4"
+  ],
+  "for long": [
+    "2"
+  ],
+  "for macos": [
+    "1"
+  ],
+  "for message": [
+    "4"
+  ],
+  "for mps": [
+    "4"
+  ],
+  "for nvidia": [
+    "4"
+  ],
+  "for openai": [
+    "3"
+  ],
+  "for processing": [
+    "2"
+  ],
+  "for proper": [
+    "4"
+  ],
+  "for retrieval": [
+    "2"
+  ],
+  "for running": [
+    "1"
+  ],
+  "for sequential": [
+    "2"
+  ],
+  "for short": [
+    "2"
+  ],
+  "for similar": [
+    "4"
+  ],
+  "for storing": [
+    "4"
+  ],
+  "for the": [
+    "1",
+    "4"
+  ],
+  "for this": [
+    "1"
+  ],
+  "for those": [
+    "4"
+  ],
+  "for ubuntu": [
+    "4"
+  ],
+  "for various": [
+    "1"
+  ],
+  "for your": [
+    "3",
+    "4"
+  ],
+  "format code": [
+    "1"
+  ],
+  "format diff": [
+    "1"
+  ],
+  "format git": [
+    "1"
+  ],
+  "format if": [
+    "1"
+  ],
+  "format uv": [
+    "1"
+  ],
+  "format_diff command": [
+    "1"
+  ],
+  "format_diff if": [
+    "1"
+  ],
+  "formatted linted": [
+    "1"
+  ],
+  "formatted without": [
+    "1"
+  ],
+  "formatter only": [
+    "1"
+  ],
+  "formatting and": [
+    "1"
+  ],
+  "formatting fails": [
+    "1"
+  ],
+  "formatting for": [
+    "1"
+  ],
+  "formatting formatting": [
+    "1"
+  ],
+  "formatting pre": [
+    "1"
+  ],
+  "formatting rules": [
+    "1"
+  ],
+  "formatting tests": [
+    "1"
+  ],
+  "forum twitter": [
+    "1"
+  ],
+  "forums can": [
+    "3"
+  ],
+  "framework and": [
+    "3"
+  ],
+  "framework designed": [
+    "3",
+    "4"
+  ],
+  "framework for": [
+    "4"
+  ],
+  "framework langchain": [
+    "2"
+  ],
+  "framework the": [
+    "2"
+  ],
+  "free linkedin": [
+    "3"
+  ],
+  "free now": [
+    "3"
+  ],
+  "fresh virtual": [
+    "4"
+  ],
+  "from dotenv": [
+    "4"
+  ],
+  "from langchain": [
+    "4"
+  ],
+  "from langchain_chroma": [
+    "4"
+  ],
+  "from langchain_community": [
+    "4"
+  ],
+  "from langchain_core": [
+    "4"
+  ],
+  "from langchain_openai": [
+    "4"
+  ],
+  "from langchain_pinecone": [
+    "4"
+  ],
+  "from langchain_text_splitters": [
+    "4"
+  ],
+  "from llama_index": [
+    "4"
+  ],
+  "from source": [
+    "4"
+  ],
+  "from the": [
+    "1"
+  ],
+  "from unsplash": [
+    "4"
+  ],
+  "from zilliz": [
+    "3"
+  ],
+  "from_documents documents": [
+    "4"
+  ],
+  "from_template answer": [
+    "4"
+  ],
+  "from_template human": [
+    "4"
+  ],
+  "from_template tell": [
+    "4"
+  ],
+  "full capabilities": [
+    "3"
+  ],
+  "full installation": [
+    "4"
+  ],
+  "full text": [
+    "3"
+  ],
+  "fully managed": [
+    "3"
+  ],
+  "functionality pip": [
+    "4"
+  ],
+  "functions __init__": [
+    "4"
+  ],
+  "fundamentals of": [
+    "2"
+  ],
+  "g bashrc": [
+    "3"
+  ],
+  "g openai": [
+    "4"
+  ],
+  "genai applications": [
+    "3"
+  ],
+  "genai apps": [
+    "3"
+  ],
+  "general guidelines": [
+    "1"
+  ],
+  "generate ai": [
+    "4"
+  ],
+  "generates outdated": [
+    "3"
+  ],
+  "generation pipeline": [
+    "2"
+  ],
+  "generation rag": [
+    "2"
+  ],
+  "get involved": [
+    "3"
+  ],
+  "get milvus": [
+    "3"
+  ],
+  "get the": [
+    "1",
+    "3"
+  ],
+  "get user": [
+    "4"
+  ],
+  "getenv openai_api_key": [
+    "4"
+  ],
+  "getenv pinecone_api_key": [
+    "4"
+  ],
+  "getenv pinecone_environment": [
+    "4"
+  ],
+  "getting contributed": [
+    "1"
+  ],
+  "git cd": [
+    "4"
+  ],
+  "git clone": [
+    "4"
+  ],
+  "git commit": [
+    "1"
+  ],
+  "git diff": [
+    "1"
+  ],
+  "git hook": [
+    "1"
+  ],
+  "github com": [
+    "4"
+  ],
+  "github milvus": [
+    "3"
+  ],
+  "github organization": [
+    "1"
+  ],
+  "github pages": [
+    "4"
+  ],
+  "github setup": [
+    "1"
+  ],
+  "giving the": [
+    "1"
+  ],
+  "globally for": [
+    "1"
+  ],
+  "good code": [
+    "1"
+  ],
+  "good practice": [
+    "3",
+    "4"
+  ],
+  "gpt 3": [
+    "3",
+    "4"
+  ],
+  "gpu acceleration": [
+    "4"
+  ],
+  "grep e": [
+    "1"
+  ],
+  "group test": [
+    "1"
+  ],
+  "groups mypy": [
+    "1"
+  ],
+  "groups ruff": [
+    "1"
+  ],
+  "guidance on": [
+    "3"
+  ],
+  "guide for": [
+    "4"
+  ],
+  "guide isaac": [
+    "4"
+  ],
+  "guide to": [
+    "4"
+  ],
+  "guide walks": [
+    "1"
+  ],
+  "guide we": [
+    "4"
+  ],
+  "guide you": [
+    "3"
+  ],
+  "guidelines next": [
+    "1"
+  ],
+  "guides reference": [
+    "1"
+  ],
+  "guidescontribute codesetup": [
+    "1"
+  ],
+  "gym installation": [
+    "4"
+  ],
+  "hackernews recommended": [
+    "3"
+  ],
+  "handle rare": [
+    "3"
+  ],
+  "hands on": [
+    "2"
+  ],
+  "has its": [
+    "1"
+  ],
+  "hassle built": [
+    "3"
+  ],
+  "have a": [
+    "3"
+  ],
+  "have been": [
+    "1"
+  ],
+  "have changed": [
+    "1"
+  ],
+  "have dependency": [
+    "4"
+  ],
+  "have it": [
+    "1"
+  ],
+  "have langchain": [
+    "3"
+  ],
+  "have made": [
+    "1"
+  ],
+  "have make": [
+    "1"
+  ],
+  "have the": [
+    "1",
+    "4"
+  ],
+  "having to": [
+    "1"
+  ],
+  "heart emojiby": [
+    "3"
+  ],
+  "help you": [
+    "1",
+    "3"
+  ],
+  "helpers py": [
+    "4"
+  ],
+  "helpful 2025": [
+    "2"
+  ],
+  "helpful when": [
+    "1"
+  ],
+  "here app": [
+    "4"
+  ],
+  "here are": [
+    "4"
+  ],
+  "here replace": [
+    "3"
+  ],
+  "here s": [
+    "4"
+  ],
+  "here with": [
+    "3"
+  ],
+  "histories vector": [
+    "4"
+  ],
+  "history for": [
+    "4"
+  ],
+  "history if": [
+    "4"
+  ],
+  "history st": [
+    "4"
+  ],
+  "hnswlib 0": [
+    "4"
+  ],
+  "home ai": [
+    "3"
+  ],
+  "home blog": [
+    "2"
+  ],
+  "homebrew globally": [
+    "1"
+  ],
+  "homepage blog": [
+    "1"
+  ],
+  "hook scripts": [
+    "1"
+  ],
+  "hooks are": [
+    "1"
+  ],
+  "hooks with": [
+    "1"
+  ],
+  "hosted by": [
+    "4"
+  ],
+  "hours how": [
+    "3"
+  ],
+  "how do": [
+    "3"
+  ],
+  "how does": [
+    "3"
+  ],
+  "how pre": [
+    "1"
+  ],
+  "how to": [
+    "1",
+    "3",
+    "4"
+  ],
+  "how we": [
+    "3"
+  ],
+  "however this": [
+    "1"
+  ],
+  "https download": [
+    "4"
+  ],
+  "https github": [
+    "4"
+  ],
+  "hugging face": [
+    "3"
+  ],
+  "huggingface integration": [
+    "4"
+  ],
+  "huggingface setting": [
+    "4"
+  ],
+  "huggingfacehub_api_token your_huggingface_token": [
+    "4"
+  ],
+  "human human_input": [
+    "4"
+  ],
+  "human_input nai": [
+    "4"
+  ],
+  "human_input user_input": [
+    "4"
+  ],
+  "humans read": [
+    "3"
+  ],
+  "i batch_size": [
+    "4"
+  ],
+  "i choose": [
+    "3"
+  ],
+  "i i": [
+    "4"
+  ],
+  "i in": [
+    "4"
+  ],
+  "i set": [
+    "3"
+  ],
+  "ideally the": [
+    "1"
+  ],
+  "if formatting": [
+    "1"
+  ],
+  "if index_name": [
+    "4"
+  ],
+  "if messages": [
+    "4"
+  ],
+  "if necessary": [
+    "3"
+  ],
+  "if user_input": [
+    "4"
+  ],
+  "if you": [
+    "1",
+    "3",
+    "4"
+  ],
+  "ignore other": [
+    "3"
+  ],
+  "implementing conditional": [
+    "2"
+  ],
+  "implementing few": [
+    "2"
+  ],
+  "import chatopenai": [
+    "4"
+  ],
+  "import chatprompttemplate": [
+    "4"
+  ],
+  "import chroma": [
+    "4"
+  ],
+  "import create_retrieval_chain": [
+    "4"
+  ],
+  "import create_stuff_documents_chain": [
+    "4"
+  ],
+  "import langchain": [
+    "3"
+  ],
+  "import langchainquerytransform": [
+    "4"
+  ],
+  "import llmchain": [
+    "4"
+  ],
+  "import load_dotenv": [
+    "4"
+  ],
+  "import openaiembeddings": [
+    "4"
+  ],
+  "import os": [
+    "4"
+  ],
+  "import pinecone": [
+    "4"
+  ],
+  "import pineconevectorstore": [
+    "4"
+  ],
+  "import prompttemplate": [
+    "4"
+  ],
+  "import pypdfloader": [
+    "4"
+  ],
+  "import recursivecharactertextsplitter": [
+    "4"
+  ],
+  "import streamlit": [
+    "4"
+  ],
+  "import stroutputparser": [
+    "4"
+  ],
+  "import the": [
+    "1"
+  ],
+  "import vectorstoreindex": [
+    "4"
+  ],
+  "import your": [
+    "1"
+  ],
+  "importance of": [
+    "2"
+  ],
+  "imported into": [
+    "1"
+  ],
+  "importing langchain": [
+    "3"
+  ],
+  "in addition": [
+    "1"
+  ],
+  "in batches": [
+    "4"
+  ],
+  "in chains": [
+    "1"
+  ],
+  "in conversations": [
+    "2"
+  ],
+  "in environments": [
+    "3"
+  ],
+  "in exceptional": [
+    "1"
+  ],
+  "in langchain": [
+    "1"
+  ],
+  "in libs": [
+    "1"
+  ],
+  "in milvus": [
+    "3"
+  ],
+  "in module": [
+    "4"
+  ],
+  "in most": [
+    "1"
+  ],
+  "in my": [
+    "3"
+  ],
+  "in october": [
+    "1"
+  ],
+  "in pinecone": [
+    "4"
+  ],
+  "in pre": [
+    "1"
+  ],
+  "in range": [
+    "4"
+  ],
+  "in st": [
+    "4"
+  ],
+  "in the": [
+    "1"
+  ],
+  "in this": [
+    "1",
+    "4"
+  ],
+  "in tools": [
+    "2"
+  ],
+  "in your": [
+    "1",
+    "3",
+    "4"
+  ],
+  "independently version": [
+    "1"
+  ],
+  "index as_query_engine": [
+    "4"
+  ],
+  "index example": [
+    "4"
+  ],
+  "index index": [
+    "4"
+  ],
+  "index index_name": [
+    "4"
+  ],
+  "index url": [
+    "4"
+  ],
+  "index vectorstoreindex": [
+    "4"
+  ],
+  "index_name dimension": [
+    "4"
+  ],
+  "index_name embedding": [
+    "4"
+  ],
+  "index_name index_name": [
+    "4"
+  ],
+  "index_name langchain": [
+    "4"
+  ],
+  "index_name not": [
+    "4"
+  ],
+  "indices query": [
+    "4"
+  ],
+  "init api_key": [
+    "4"
+  ],
+  "initialize pinecone": [
+    "4"
+  ],
+  "initialize session": [
+    "4"
+  ],
+  "initialize the": [
+    "4"
+  ],
+  "input if": [
+    "4"
+  ],
+  "input user_input": [
+    "4"
+  ],
+  "input_variables query": [
+    "4"
+  ],
+  "install all": [
+    "4"
+  ],
+  "install development": [
+    "1"
+  ],
+  "install e": [
+    "4"
+  ],
+  "install how": [
+    "1"
+  ],
+  "install it": [
+    "1"
+  ],
+  "install langchain": [
+    "3",
+    "4"
+  ],
+  "install llama": [
+    "4"
+  ],
+  "install make": [
+    "1"
+  ],
+  "install openai": [
+    "3"
+  ],
+  "install pre": [
+    "1"
+  ],
+  "install python": [
+    "4"
+  ],
+  "install r": [
+    "4"
+  ],
+  "install specific": [
+    "4"
+  ],
+  "install streamlit": [
+    "4"
+  ],
+  "install the": [
+    "1",
+    "4"
+  ],
+  "install their": [
+    "3"
+  ],
+  "install torch": [
+    "4"
+  ],
+  "install transformers": [
+    "3"
+  ],
+  "install uv": [
+    "1"
+  ],
+  "install via": [
+    "1"
+  ],
+  "installation and": [
+    "3",
+    "4"
+  ],
+  "installation commands": [
+    "4"
+  ],
+  "installation for": [
+    "4"
+  ],
+  "installation guide": [
+    "4"
+  ],
+  "installation if": [
+    "1"
+  ],
+  "installation options": [
+    "4"
+  ],
+  "installation process": [
+    "4"
+  ],
+  "installation setup": [
+    "4"
+  ],
+  "installation steps": [
+    "4"
+  ],
+  "installation to": [
+    "3"
+  ],
+  "installation was": [
+    "3"
+  ],
+  "installation with": [
+    "4"
+  ],
+  "installation within": [
+    "3"
+  ],
+  "installed and": [
+    "3"
+  ],
+  "installed as": [
+    "1"
+  ],
+  "installed correctly": [
+    "3"
+  ],
+  "installed make": [
+    "1"
+  ],
+  "installed pre": [
+    "1"
+  ],
+  "installed should": [
+    "1"
+  ],
+  "installed users": [
+    "1"
+  ],
+  "installed using": [
+    "4"
+  ],
+  "installed you": [
+    "1",
+    "3"
+  ],
+  "installer a": [
+    "4"
+  ],
+  "installing from": [
+    "4"
+  ],
+  "installing langchain": [
+    "4"
+  ],
+  "installing pre": [
+    "1"
+  ],
+  "installing the": [
+    "3"
+  ],
+  "instance when": [
+    "3"
+  ],
+  "integration from": [
+    "4"
+  ],
+  "integration pip": [
+    "4"
+  ],
+  "integration tests": [
+    "1"
+  ],
+  "integration with": [
+    "4"
+  ],
+  "integrations and": [
+    "1"
+  ],
+  "integrations api": [
+    "1"
+  ],
+  "integrations based": [
+    "4"
+  ],
+  "integrations partner": [
+    "1"
+  ],
+  "integrations pip": [
+    "4"
+  ],
+  "integrations with": [
+    "4"
+  ],
+  "integrations you": [
+    "4"
+  ],
+  "interactive applications": [
+    "3"
+  ],
+  "interactive web": [
+    "4"
+  ],
+  "interface for": [
+    "4"
+  ],
+  "interfaces for": [
+    "1"
+  ],
+  "interfacing with": [
+    "2"
+  ],
+  "into the": [
+    "1"
+  ],
+  "introduce the": [
+    "1"
+  ],
+  "introduction langchain": [
+    "4"
+  ],
+  "introduction to": [
+    "2"
+  ],
+  "intuitive abstractions": [
+    "3"
+  ],
+  "invoke human_input": [
+    "4"
+  ],
+  "invoke question": [
+    "4"
+  ],
+  "invoke topic": [
+    "4"
+  ],
+  "involved discord": [
+    "3"
+  ],
+  "involves a": [
+    "3"
+  ],
+  "ipynb xargs": [
+    "1"
+  ],
+  "is a": [
+    "3",
+    "4"
+  ],
+  "is correctly": [
+    "4"
+  ],
+  "is designed": [
+    "3"
+  ],
+  "is discouraged": [
+    "1"
+  ],
+  "is done": [
+    "1"
+  ],
+  "is endorsed": [
+    "3"
+  ],
+  "is especially": [
+    "1"
+  ],
+  "is installed": [
+    "1",
+    "3"
+  ],
+  "is langchain": [
+    "4"
+  ],
+  "is prepared": [
+    "3"
+  ],
+  "is set": [
+    "4"
+  ],
+  "is split": [
+    "1"
+  ],
+  "is the": [
+    "3",
+    "4"
+  ],
+  "isaac gym": [
+    "4"
+  ],
+  "issues api": [
+    "4"
+  ],
+  "issues if": [
+    "4"
+  ],
+  "issues with": [
+    "4"
+  ],
+  "it a": [
+    "3"
+  ],
+  "it enables": [
+    "4"
+  ],
+  "it installed": [
+    "1"
+  ],
+  "it please": [
+    "1"
+  ],
+  "it provides": [
+    "4"
+  ],
+  "it s": [
+    "3",
+    "4"
+  ],
+  "it via": [
+    "1"
+  ],
+  "it we": [
+    "1"
+  ],
+  "it will": [
+    "1"
+  ],
+  "it windows": [
+    "1"
+  ],
+  "it with": [
+    "3"
+  ],
+  "it work": [
+    "3"
+  ],
+  "its capabilities": [
+    "3"
+  ],
+  "its dependencies": [
+    "3"
+  ],
+  "its own": [
+    "1"
+  ],
+  "jekyll with": [
+    "4"
+  ],
+  "jetson nano": [
+    "4"
+  ],
+  "joke about": [
+    "4"
+  ],
+  "js ts": [
+    "1"
+  ],
+  "jupyter notebook": [
+    "1"
+  ],
+  "keep reading": [
+    "3"
+  ],
+  "keep these": [
+    "1"
+  ],
+  "key abstractions": [
+    "1"
+  ],
+  "key as": [
+    "3"
+  ],
+  "key errors": [
+    "4"
+  ],
+  "key for": [
+    "3"
+  ],
+  "key here": [
+    "3"
+  ],
+  "key is": [
+    "4"
+  ],
+  "key issues": [
+    "4"
+  ],
+  "key not": [
+    "4"
+  ],
+  "key this": [
+    "3"
+  ],
+  "keys for": [
+    "4"
+  ],
+  "keys most": [
+    "4"
+  ],
+  "keys or": [
+    "3"
+  ],
+  "langchain 0": [
+    "4"
+  ],
+  "langchain ai": [
+    "4"
+  ],
+  "langchain all": [
+    "4"
+  ],
+  "langchain along": [
+    "3"
+  ],
+  "langchain anthropic": [
+    "4"
+  ],
+  "langchain application": [
+    "2",
+    "4"
+  ],
+  "langchain assume": [
+    "1"
+  ],
+  "langchain can": [
+    "4"
+  ],
+  "langchain cd": [
+    "1"
+  ],
+  "langchain chains": [
+    "1",
+    "4"
+  ],
+  "langchain chapter": [
+    "2"
+  ],
+  "langchain chroma": [
+    "4"
+  ],
+  "langchain community": [
+    "1",
+    "3",
+    "4"
+  ],
+  "langchain components": [
+    "4"
+  ],
+  "langchain core": [
+    "1"
+  ],
+  "langchain demo": [
+    "4"
+  ],
+  "langchain enabling": [
+    "4"
+  ],
+  "langchain ensure": [
+    "4"
+  ],
+  "langchain env": [
+    "4"
+  ],
+  "langchain experimental": [
+    "1"
+  ],
+  "langchain expression": [
+    "1"
+  ],
+  "langchain features": [
+    "3"
+  ],
+  "langchain forum": [
+    "1"
+  ],
+  "langchain framework": [
+    "2"
+  ],
+  "langchain full": [
+    "4"
+  ],
+  "langchain git": [
+    "4"
+  ],
+  "langchain huggingface": [
+    "4"
+  ],
+  "langchain if": [
+    "3"
+  ],
+  "langchain import": [
+    "3"
+  ],
+  "langchain in": [
+    "3"
+  ],
+  "langchain inc": [
+    "1"
+  ],
+  "langchain installation": [
+    "4"
+  ],
+  "langchain installed": [
+    "3"
+  ],
+  "langchain integrations": [
+    "1"
+  ],
+  "langchain is": [
+    "3",
+    "4"
+  ],
+  "langchain langchain": [
+    "1",
+    "4"
+  ],
+  "langchain library": [
+    "3"
+  ],
+  "langchain local": [
+    "1"
+  ],
+  "langchain name": [
+    "1"
+  ],
+  "langchain offers": [
+    "3"
+  ],
+  "langchain openai": [
+    "4"
+  ],
+  "langchain package": [
+    "1"
+  ],
+  "langchain packages": [
+    "1"
+  ],
+  "langchain pinecone": [
+    "4"
+  ],
+  "langchain pip": [
+    "4"
+  ],
+  "langchain print": [
+    "4"
+  ],
+  "langchain project": [
+    "4"
+  ],
+  "langchain query": [
+    "4"
+  ],
+  "langchain refer": [
+    "3"
+  ],
+  "langchain requires": [
+    "3"
+  ],
+  "langchain running": [
+    "1"
+  ],
+  "langchain s": [
+    "2"
+  ],
+  "langchain start": [
+    "3"
+  ],
+  "langchain this": [
+    "3"
+  ],
+  "langchain to": [
+    "4"
+  ],
+  "langchain up": [
+    "3"
+  ],
+  "langchain using": [
+    "4"
+  ],
+  "langchain v1": [
+    "1"
+  ],
+  "langchain with": [
+    "3",
+    "4"
+  ],
+  "langchain_chain llm_chain": [
+    "4"
+  ],
+  "langchain_chroma import": [
+    "4"
+  ],
+  "langchain_community document_loaders": [
+    "4"
+  ],
+  "langchain_core formatting": [
+    "1"
+  ],
+  "langchain_core if": [
+    "1"
+  ],
+  "langchain_core output_parsers": [
+    "4"
+  ],
+  "langchain_core prompts": [
+    "4"
+  ],
+  "langchain_core you": [
+    "1"
+  ],
+  "langchain_openai import": [
+    "4"
+  ],
+  "langchain_pinecone import": [
+    "4"
+  ],
+  "langchain_text_splitters import": [
+    "4"
+  ],
+  "langchainquerytransform from": [
+    "4"
+  ],
+  "langchainquerytransform langchain_chain": [
+    "4"
+  ],
+  "language langchain": [
+    "1"
+  ],
+  "language model": [
+    "3",
+    "4"
+  ],
+  "language models": [
+    "3",
+    "4"
+  ],
+  "language processing": [
+    "3"
+  ],
+  "large embeddings": [
+    "4"
+  ],
+  "large language": [
+    "4"
+  ],
+  "last updated": [
+    "4"
+  ],
+  "later pip": [
+    "4"
+  ],
+  "later so": [
+    "3"
+  ],
+  "latest features": [
+    "4"
+  ],
+  "learn more": [
+    "2"
+  ],
+  "learning this": [
+    "2"
+  ],
+  "least attempts": [
+    "1"
+  ],
+  "len splits": [
+    "4"
+  ],
+  "let s": [
+    "4"
+  ],
+  "level makefile": [
+    "1"
+  ],
+  "leverage its": [
+    "3"
+  ],
+  "lf_ai milvus": [
+    "3"
+  ],
+  "library directory": [
+    "1"
+  ],
+  "library if": [
+    "1"
+  ],
+  "library package": [
+    "1"
+  ],
+  "library please": [
+    "1"
+  ],
+  "library run": [
+    "1"
+  ],
+  "library using": [
+    "3"
+  ],
+  "libs core": [
+    "1"
+  ],
+  "libs langchain": [
+    "1"
+  ],
+  "libs library": [
+    "1"
+  ],
+  "libs partners": [
+    "1"
+  ],
+  "lightweight fixtures": [
+    "1"
+  ],
+  "lightweight langchain": [
+    "1"
+  ],
+  "like conversation": [
+    "4"
+  ],
+  "like gpt": [
+    "3"
+  ],
+  "like to": [
+    "4"
+  ],
+  "limit for": [
+    "3"
+  ],
+  "line commands": [
+    "4"
+  ],
+  "line installation": [
+    "4"
+  ],
+  "line to": [
+    "3"
+  ],
+  "linkedin twitter": [
+    "3"
+  ],
+  "lint if": [
+    "1"
+  ],
+  "lint_diff command": [
+    "1"
+  ],
+  "lint_diff if": [
+    "1"
+  ],
+  "linted installing": [
+    "1"
+  ],
+  "linter only": [
+    "1"
+  ],
+  "linting can": [
+    "1"
+  ],
+  "linting code": [
+    "1"
+  ],
+  "linting for": [
+    "1"
+  ],
+  "linting formatting": [
+    "1"
+  ],
+  "linting linting": [
+    "1"
+  ],
+  "linting run": [
+    "1"
+  ],
+  "linting standards": [
+    "1"
+  ],
+  "linux brew": [
+    "1"
+  ],
+  "linux source": [
+    "4"
+  ],
+  "linux wsl": [
+    "1"
+  ],
+  "list of": [
+    "1"
+  ],
+  "list_indexes pinecone": [
+    "4"
+  ],
+  "live outside": [
+    "1"
+  ],
+  "ll guide": [
+    "3"
+  ],
+  "ll have": [
+    "3"
+  ],
+  "ll need": [
+    "3"
+  ],
+  "ll notice": [
+    "1"
+  ],
+  "ll walk": [
+    "4"
+  ],
+  "ll want": [
+    "1"
+  ],
+  "llama index": [
+    "4"
+  ],
+  "llama_index import": [
+    "4"
+  ],
+  "llama_index indices": [
+    "4"
+  ],
+  "llamaindex is": [
+    "4"
+  ],
+  "llamaindex llamaindex": [
+    "4"
+  ],
+  "llm applications": [
+    "2",
+    "4"
+  ],
+  "llm based": [
+    "4"
+  ],
+  "llm chatopenai": [
+    "4"
+  ],
+  "llm introduction": [
+    "4"
+  ],
+  "llm llm": [
+    "4"
+  ],
+  "llm more": [
+    "1"
+  ],
+  "llm powered": [
+    "4"
+  ],
+  "llm prompt": [
+    "4"
+  ],
+  "llm providers": [
+    "4"
+  ],
+  "llm stroutputparser": [
+    "4"
+  ],
+  "llm_chain llmchain": [
+    "4"
+  ],
+  "llm_chain query": [
+    "4"
+  ],
+  "llmchain creating": [
+    "2"
+  ],
+  "llmchain from": [
+    "4"
+  ],
+  "llmchain llm": [
+    "4"
+  ],
+  "llms and": [
+    "2"
+  ],
+  "llms it": [
+    "4"
+  ],
+  "llms mcp": [
+    "2"
+  ],
+  "load and": [
+    "4"
+  ],
+  "load documents": [
+    "4"
+  ],
+  "load environment": [
+    "4"
+  ],
+  "load text_splitter": [
+    "4"
+  ],
+  "load these": [
+    "4"
+  ],
+  "load_data create": [
+    "4"
+  ],
+  "load_dotenv from": [
+    "4"
+  ],
+  "load_dotenv initialize": [
+    "4"
+  ],
+  "load_dotenv load": [
+    "4"
+  ],
+  "load_dotenv nload_dotenv": [
+    "4"
+  ],
+  "loader load": [
+    "4"
+  ],
+  "loader pypdfloader": [
+    "4"
+  ],
+  "loaders splitting": [
+    "2"
+  ],
+  "loading data": [
+    "2"
+  ],
+  "local development": [
+    "1"
+  ],
+  "local models": [
+    "4"
+  ],
+  "locally and": [
+    "1"
+  ],
+  "locally before": [
+    "1"
+  ],
+  "lock are": [
+    "1"
+  ],
+  "logic can": [
+    "1"
+  ],
+  "logic for": [
+    "1"
+  ],
+  "logic of": [
+    "1"
+  ],
+  "logic please": [
+    "1"
+  ],
+  "logic that": [
+    "1"
+  ],
+  "logic with": [
+    "2"
+  ],
+  "logo home": [
+    "2"
+  ],
+  "long conversations": [
+    "2"
+  ],
+  "longer maintained": [
+    "1"
+  ],
+  "loveblue heart": [
+    "3"
+  ],
+  "m venv": [
+    "3",
+    "4"
+  ],
+  "machine learning": [
+    "2"
+  ],
+  "macos linux": [
+    "1",
+    "4"
+  ],
+  "made changes": [
+    "1"
+  ],
+  "made with": [
+    "3"
+  ],
+  "main application": [
+    "4"
+  ],
+  "main concepts": [
+    "4"
+  ],
+  "main content": [
+    "1"
+  ],
+  "main topic": [
+    "4"
+  ],
+  "maintained with": [
+    "1"
+  ],
+  "maintainer and": [
+    "1"
+  ],
+  "make format": [
+    "1"
+  ],
+  "make format_diff": [
+    "1"
+  ],
+  "make installed": [
+    "1"
+  ],
+  "make lint": [
+    "1"
+  ],
+  "make lint_diff": [
+    "1"
+  ],
+  "make option": [
+    "1"
+  ],
+  "make test": [
+    "1"
+  ],
+  "make windows": [
+    "1"
+  ],
+  "makefile but": [
+    "1"
+  ],
+  "makes up": [
+    "1"
+  ],
+  "makes use": [
+    "1"
+  ],
+  "making it": [
+    "3"
+  ],
+  "manage your": [
+    "2"
+  ],
+  "managed milvus": [
+    "3"
+  ],
+  "managed vector": [
+    "3"
+  ],
+  "management for": [
+    "4"
+  ],
+  "management uv": [
+    "1"
+  ],
+  "management you": [
+    "4"
+  ],
+  "manager install": [
+    "1"
+  ],
+  "manager open": [
+    "3"
+  ],
+  "managers this": [
+    "1"
+  ],
+  "managers windows": [
+    "1"
+  ],
+  "managing prompts": [
+    "2"
+  ],
+  "mark requires": [
+    "1"
+  ],
+  "markdown message": [
+    "4"
+  ],
+  "markdown response": [
+    "4"
+  ],
+  "markdown user_input": [
+    "4"
+  ],
+  "master branch": [
+    "1"
+  ],
+  "master grep": [
+    "1"
+  ],
+  "may need": [
+    "3"
+  ],
+  "mcp all": [
+    "2"
+  ],
+  "mcp how": [
+    "3"
+  ],
+  "me a": [
+    "4"
+  ],
+  "me anything": [
+    "4"
+  ],
+  "meet the": [
+    "1"
+  ],
+  "memory adding": [
+    "2"
+  ],
+  "memory chapter": [
+    "2"
+  ],
+  "memory for": [
+    "2"
+  ],
+  "memory issues": [
+    "4"
+  ],
+  "memory to": [
+    "2"
+  ],
+  "message content": [
+    "4"
+  ],
+  "message in": [
+    "4"
+  ],
+  "message role": [
+    "4"
+  ],
+  "message to": [
+    "4"
+  ],
+  "messages append": [
+    "4"
+  ],
+  "messages display": [
+    "4"
+  ],
+  "messages not": [
+    "4"
+  ],
+  "messages with": [
+    "4"
+  ],
+  "metric cosine": [
+    "4"
+  ],
+  "might have": [
+    "4"
+  ],
+  "might like": [
+    "4"
+  ],
+  "might need": [
+    "3"
+  ],
+  "milvus 10x": [
+    "3"
+  ],
+  "milvus 2": [
+    "3"
+  ],
+  "milvus 2025": [
+    "3"
+  ],
+  "milvus a": [
+    "3"
+  ],
+  "milvus backup": [
+    "3"
+  ],
+  "milvus cli": [
+    "3"
+  ],
+  "milvus contact": [
+    "3"
+  ],
+  "milvus docs": [
+    "3"
+  ],
+  "milvus home": [
+    "3"
+  ],
+  "milvus mcp": [
+    "3"
+  ],
+  "milvus office": [
+    "3"
+  ],
+  "milvus perfect": [
+    "3"
+  ],
+  "milvus sizing": [
+    "3"
+  ],
+  "milvus updates": [
+    "3"
+  ],
+  "milvus zilliz": [
+    "3"
+  ],
+  "minimal installation": [
+    "4"
+  ],
+  "mkdir p": [
+    "4"
+  ],
+  "model embeddings": [
+    "4"
+  ],
+  "model gpt": [
+    "4"
+  ],
+  "model llm": [
+    "4"
+  ],
+  "model pipelines": [
+    "3"
+  ],
+  "model what": [
+    "3"
+  ],
+  "models by": [
+    "3"
+  ],
+  "models for": [
+    "3",
+    "4"
+  ],
+  "models it": [
+    "4"
+  ],
+  "models langchain": [
+    "3"
+  ],
+  "models like": [
+    "3"
+  ],
+  "models llms": [
+    "4"
+  ],
+  "models managing": [
+    "2"
+  ],
+  "models prompts": [
+    "2"
+  ],
+  "models require": [
+    "3"
+  ],
+  "modified files": [
+    "1"
+  ],
+  "modified in": [
+    "1"
+  ],
+  "modifying only": [
+    "1"
+  ],
+  "modular logic": [
+    "1"
+  ],
+  "module create": [
+    "4"
+  ],
+  "monorepo see": [
+    "1"
+  ],
+  "more access": [
+    "1"
+  ],
+  "more articles": [
+    "4"
+  ],
+  "more homepage": [
+    "1"
+  ],
+  "more how": [
+    "3"
+  ],
+  "more lf_ai": [
+    "3"
+  ],
+  "more specific": [
+    "4"
+  ],
+  "more v0": [
+    "1"
+  ],
+  "more what": [
+    "3"
+  ],
+  "most llm": [
+    "4"
+  ],
+  "most out": [
+    "3"
+  ],
+  "most production": [
+    "1"
+  ],
+  "most users": [
+    "1"
+  ],
+  "motivation for": [
+    "2"
+  ],
+  "mps support": [
+    "4"
+  ],
+  "multiple installation": [
+    "4"
+  ],
+  "multiple packages": [
+    "1"
+  ],
+  "my python": [
+    "3"
+  ],
+  "my_collection embedding_function": [
+    "4"
+  ],
+  "myenv and": [
+    "3"
+  ],
+  "myenv bin": [
+    "3"
+  ],
+  "myenv scripts": [
+    "3"
+  ],
+  "mypy cache": [
+    "1"
+  ],
+  "mypy to": [
+    "1"
+  ],
+  "mypy_cache in": [
+    "1"
+  ],
+  "mypy_cache this": [
+    "1"
+  ],
+  "mypy_cache to": [
+    "1"
+  ],
+  "n auto": [
+    "1"
+  ],
+  "n langchain": [
+    "4"
+  ],
+  "n n": [
+    "4"
+  ],
+  "n your": [
+    "4"
+  ],
+  "nai chain": [
+    "4"
+  ],
+  "name index_name": [
+    "4"
+  ],
+  "name only": [
+    "1"
+  ],
+  "nano complete": [
+    "4"
+  ],
+  "natural language": [
+    "3"
+  ],
+  "necessary some": [
+    "3"
+  ],
+  "need a": [
+    "3"
+  ],
+  "need additional": [
+    "3"
+  ],
+  "need the": [
+    "3"
+  ],
+  "need to": [
+    "3"
+  ],
+  "needs basic": [
+    "4"
+  ],
+  "new code": [
+    "1"
+  ],
+  "new conda": [
+    "4"
+  ],
+  "new dependency": [
+    "1"
+  ],
+  "new logic": [
+    "1"
+  ],
+  "new virtual": [
+    "4"
+  ],
+  "new_env bin": [
+    "4"
+  ],
+  "new_env source": [
+    "4"
+  ],
+  "next contribute": [
+    "1"
+  ],
+  "next ros": [
+    "4"
+  ],
+  "next this": [
+    "3"
+  ],
+  "nload_dotenv n": [
+    "4"
+  ],
+  "no errors": [
+    "1"
+  ],
+  "no exceptions": [
+    "1"
+  ],
+  "no longer": [
+    "1"
+  ],
+  "no verify": [
+    "1"
+  ],
+  "no warnings": [
+    "1"
+  ],
+  "none dependency": [
+    "4"
+  ],
+  "not have": [
+    "1"
+  ],
+  "not in": [
+    "4"
+  ],
+  "not none": [
+    "4"
+  ],
+  "not require": [
+    "1"
+  ],
+  "not touched": [
+    "1"
+  ],
+  "not use": [
+    "1"
+  ],
+  "not want": [
+    "1"
+  ],
+  "note in": [
+    "1"
+  ],
+  "note some": [
+    "1"
+  ],
+  "notebook community": [
+    "1"
+  ],
+  "notebook edit": [
+    "1"
+  ],
+  "notebook example": [
+    "1"
+  ],
+  "notebook if": [
+    "1"
+  ],
+  "notebook when": [
+    "1"
+  ],
+  "notice that": [
+    "1"
+  ],
+  "novel and": [
+    "1"
+  ],
+  "now milvus": [
+    "3"
+  ],
+  "nvidia jetson": [
+    "4"
+  ],
+  "october 2025": [
+    "1"
+  ],
+  "of a": [
+    "2"
+  ],
+  "of applications": [
+    "4"
+  ],
+  "of chains": [
+    "2"
+  ],
+  "of complex": [
+    "3"
+  ],
+  "of cookies": [
+    "3"
+  ],
+  "of features": [
+    "3"
+  ],
+  "of langchain": [
+    "1",
+    "3",
+    "4"
+  ],
+  "of lightweight": [
+    "1"
+  ],
+  "of modified": [
+    "1"
+  ],
+  "of natural": [
+    "3"
+  ],
+  "of ruff": [
+    "1"
+  ],
+  "of state": [
+    "2"
+  ],
+  "of the": [
+    "1",
+    "3"
+  ],
+  "of these": [
+    "1"
+  ],
+  "of this": [
+    "4"
+  ],
+  "of using": [
+    "3"
+  ],
+  "of your": [
+    "1"
+  ],
+  "offer guidance": [
+    "3"
+  ],
+  "offers a": [
+    "3"
+  ],
+  "office hours": [
+    "3"
+  ],
+  "official documentation": [
+    "3"
+  ],
+  "on apple": [
+    "4"
+  ],
+  "on best": [
+    "3"
+  ],
+  "on every": [
+    "1"
+  ],
+  "on files": [
+    "1"
+  ],
+  "on github": [
+    "1"
+  ],
+  "on how": [
+    "1"
+  ],
+  "on macos": [
+    "4"
+  ],
+  "on milvus": [
+    "3"
+  ],
+  "on optional": [
+    "1"
+  ],
+  "on practical": [
+    "2"
+  ],
+  "on the": [
+    "1",
+    "4"
+  ],
+  "on unix": [
+    "3"
+  ],
+  "on windows": [
+    "1",
+    "3",
+    "4"
+  ],
+  "on your": [
+    "3",
+    "4"
+  ],
+  "once installed": [
+    "1"
+  ],
+  "once pip": [
+    "4"
+  ],
+  "one line": [
+    "4"
+  ],
+  "only certain": [
+    "1"
+  ],
+  "only developing": [
+    "1"
+  ],
+  "only diff": [
+    "1"
+  ],
+  "only on": [
+    "1",
+    "4"
+  ],
+  "only run": [
+    "1"
+  ],
+  "open a": [
+    "3"
+  ],
+  "open extended_testing_deps": [
+    "1"
+  ],
+  "open on": [
+    "1"
+  ],
+  "open your": [
+    "3"
+  ],
+  "openai 0": [
+    "4"
+  ],
+  "openai anthropic": [
+    "4"
+  ],
+  "openai embedding": [
+    "4"
+  ],
+  "openai for": [
+    "3"
+  ],
+  "openai gpt": [
+    "3"
+  ],
+  "openai integration": [
+    "4"
+  ],
+  "openai langchain": [
+    "4"
+  ],
+  "openai s": [
+    "3"
+  ],
+  "openai sdk": [
+    "3"
+  ],
+  "openai_api_key should": [
+    "4"
+  ],
+  "openai_api_key your": [
+    "3"
+  ],
+  "openai_api_key your_key_here": [
+    "4"
+  ],
+  "openai_api_key your_openai_api_key": [
+    "4"
+  ],
+  "openaiembeddings chatopenai": [
+    "4"
+  ],
+  "openaiembeddings create": [
+    "4"
+  ],
+  "openaiembeddings from": [
+    "4"
+  ],
+  "openaiembeddings vectorstore": [
+    "4"
+  ],
+  "operations fundamentals": [
+    "2"
+  ],
+  "option 1": [
+    "1"
+  ],
+  "option 2": [
+    "1"
+  ],
+  "option 3": [
+    "1"
+  ],
+  "option 4": [
+    "1"
+  ],
+  "optional dependencies": [
+    "1"
+  ],
+  "optional dependency": [
+    "1"
+  ],
+  "optional see": [
+    "1"
+  ],
+  "options depending": [
+    "4"
+  ],
+  "or authentication": [
+    "3"
+  ],
+  "or by": [
+    "3"
+  ],
+  "or command": [
+    "3"
+  ],
+  "or connect": [
+    "4"
+  ],
+  "or contributing": [
+    "4"
+  ],
+  "or creating": [
+    "3"
+  ],
+  "or hugging": [
+    "3"
+  ],
+  "or later": [
+    "3",
+    "4"
+  ],
+  "or models": [
+    "3"
+  ],
+  "or myenv": [
+    "3"
+  ],
+  "or they": [
+    "1"
+  ],
+  "or unseen": [
+    "3"
+  ],
+  "or zshrc": [
+    "3"
+  ],
+  "org whl": [
+    "4"
+  ],
+  "organization python": [
+    "1"
+  ],
+  "organized langchain": [
+    "4"
+  ],
+  "os getenv": [
+    "4"
+  ],
+  "os import": [
+    "4"
+  ],
+  "os print": [
+    "4"
+  ],
+  "other env": [
+    "1"
+  ],
+  "other projects": [
+    "3"
+  ],
+  "other services": [
+    "4"
+  ],
+  "other sources": [
+    "3"
+  ],
+  "other tools": [
+    "4"
+  ],
+  "out of": [
+    "3"
+  ],
+  "outdated code": [
+    "3"
+  ],
+  "output with": [
+    "2"
+  ],
+  "output_parsers import": [
+    "4"
+  ],
+  "outside apis": [
+    "1"
+  ],
+  "outside the": [
+    "1"
+  ],
+  "over your": [
+    "2"
+  ],
+  "own development": [
+    "1"
+  ],
+  "p chains": [
+    "4"
+  ],
+  "package copyright": [
+    "4"
+  ],
+  "package installer": [
+    "4"
+  ],
+  "package is": [
+    "1"
+  ],
+  "package manager": [
+    "3"
+  ],
+  "package to": [
+    "4"
+  ],
+  "package with": [
+    "4"
+  ],
+  "package you": [
+    "1"
+  ],
+  "package_name decorator": [
+    "1"
+  ],
+  "packages do": [
+    "1"
+  ],
+  "packages in": [
+    "1"
+  ],
+  "packages langchain": [
+    "1"
+  ],
+  "packages lightweight": [
+    "1"
+  ],
+  "packages live": [
+    "1"
+  ],
+  "packages local": [
+    "1"
+  ],
+  "packages or": [
+    "3"
+  ],
+  "packages this": [
+    "1"
+  ],
+  "page previous": [
+    "1"
+  ],
+  "pages photos": [
+    "4"
+  ],
+  "park about": [
+    "4"
+  ],
+  "park powered": [
+    "4"
+  ],
+  "parsers hands": [
+    "2"
+  ],
+  "parsers interfacing": [
+    "2"
+  ],
+  "partner integrations": [
+    "1"
+  ],
+  "partner packages": [
+    "1"
+  ],
+  "partners that": [
+    "1"
+  ],
+  "parts of": [
+    "1"
+  ],
+  "party integrations": [
+    "1"
+  ],
+  "pdf documents": [
+    "4"
+  ],
+  "perfect for": [
+    "3"
+  ],
+  "perform this": [
+    "3"
+  ],
+  "performing text": [
+    "3"
+  ],
+  "persist_directory chroma_db": [
+    "4"
+  ],
+  "persistent storage": [
+    "4"
+  ],
+  "photos from": [
+    "4"
+  ],
+  "pinecone create_index": [
+    "4"
+  ],
+  "pinecone example": [
+    "4"
+  ],
+  "pinecone from": [
+    "4"
+  ],
+  "pinecone init": [
+    "4"
+  ],
+  "pinecone is": [
+    "4"
+  ],
+  "pinecone list_indexes": [
+    "4"
+  ],
+  "pinecone pinecone": [
+    "4"
+  ],
+  "pinecone_api_key environment": [
+    "4"
+  ],
+  "pinecone_environment create": [
+    "4"
+  ],
+  "pineconevectorstore from": [
+    "4"
+  ],
+  "pineconevectorstore index_name": [
+    "4"
+  ],
+  "pip install": [
+    "1",
+    "3",
+    "4"
+  ],
+  "pip pip": [
+    "1"
+  ],
+  "pip python": [
+    "3",
+    "4"
+  ],
+  "pip there": [
+    "4"
+  ],
+  "pipeline chapter": [
+    "2"
+  ],
+  "pipelines and": [
+    "3"
+  ],
+  "places to": [
+    "3"
+  ],
+  "plan to": [
+    "3"
+  ],
+  "please add": [
+    "1"
+  ],
+  "please contact": [
+    "1"
+  ],
+  "please do": [
+    "1"
+  ],
+  "please use": [
+    "1"
+  ],
+  "popular language": [
+    "3"
+  ],
+  "popular vector": [
+    "4"
+  ],
+  "possible in": [
+    "1"
+  ],
+  "posts keep": [
+    "3"
+  ],
+  "powered applications": [
+    "4"
+  ],
+  "powered by": [
+    "4"
+  ],
+  "powerful framework": [
+    "3",
+    "4"
+  ],
+  "pr the": [
+    "1"
+  ],
+  "practical a": [
+    "2"
+  ],
+  "practical building": [
+    "2"
+  ],
+  "practical q": [
+    "2"
+  ],
+  "practice building": [
+    "2"
+  ],
+  "practice to": [
+    "3",
+    "4"
+  ],
+  "practices the": [
+    "3"
+  ],
+  "pre commit": [
+    "1"
+  ],
+  "preferences below": [
+    "2"
+  ],
+  "prepared langchain": [
+    "3"
+  ],
+  "prerequisites before": [
+    "4"
+  ],
+  "prerequisites python": [
+    "4"
+  ],
+  "prevent commits": [
+    "1"
+  ],
+  "previous general": [
+    "1"
+  ],
+  "previous next": [
+    "3"
+  ],
+  "print os": [
+    "4"
+  ],
+  "print response": [
+    "4"
+  ],
+  "print results": [
+    "4"
+  ],
+  "print your": [
+    "4"
+  ],
+  "process and": [
+    "4"
+  ],
+  "process before": [
+    "3"
+  ],
+  "process documents": [
+    "4"
+  ],
+  "process in": [
+    "4"
+  ],
+  "process of": [
+    "3"
+  ],
+  "process user": [
+    "4"
+  ],
+  "processing projects": [
+    "3"
+  ],
+  "processing tasks": [
+    "3"
+  ],
+  "processing vector": [
+    "2"
+  ],
+  "production systems": [
+    "1"
+  ],
+  "programming print": [
+    "4"
+  ],
+  "project and": [
+    "1"
+  ],
+  "project env": [
+    "4"
+  ],
+  "project is": [
+    "1"
+  ],
+  "project maintainer": [
+    "1"
+  ],
+  "project might": [
+    "4"
+  ],
+  "project root": [
+    "4"
+  ],
+  "project structure": [
+    "4"
+  ],
+  "project utilizes": [
+    "1"
+  ],
+  "projects previous": [
+    "3"
+  ],
+  "projects these": [
+    "3"
+  ],
+  "projects to": [
+    "4"
+  ],
+  "projects you": [
+    "3"
+  ],
+  "prompt and": [
+    "3"
+  ],
+  "prompt chatprompttemplate": [
+    "4"
+  ],
+  "prompt create": [
+    "4"
+  ],
+  "prompt install": [
+    "3"
+  ],
+  "prompt llm": [
+    "4"
+  ],
+  "prompt prompt": [
+    "4"
+  ],
+  "prompt prompttemplate": [
+    "4"
+  ],
+  "prompt query_transform": [
+    "4"
+  ],
+  "prompt template": [
+    "4"
+  ],
+  "prompt templates": [
+    "4"
+  ],
+  "prompting structuring": [
+    "2"
+  ],
+  "prompts and": [
+    "2"
+  ],
+  "prompts import": [
+    "4"
+  ],
+  "prompts prompt": [
+    "4"
+  ],
+  "prompts utils": [
+    "4"
+  ],
+  "prompts with": [
+    "2"
+  ],
+  "prompttemplate input_variables": [
+    "4"
+  ],
+  "prompttemplate load": [
+    "4"
+  ],
+  "prompttemplates implementing": [
+    "2"
+  ],
+  "proper dependency": [
+    "4"
+  ],
+  "properly formatted": [
+    "1"
+  ],
+  "provided context": [
+    "4"
+  ],
+  "providers e": [
+    "4"
+  ],
+  "providers require": [
+    "4"
+  ],
+  "provides a": [
+    "4"
+  ],
+  "providing intuitive": [
+    "3"
+  ],
+  "publications complete": [
+    "4"
+  ],
+  "purposes reject": [
+    "3"
+  ],
+  "py chat_prompts": [
+    "4"
+  ],
+  "py data": [
+    "4"
+  ],
+  "py enjoy": [
+    "4"
+  ],
+  "py from": [
+    "4"
+  ],
+  "py helpers": [
+    "4"
+  ],
+  "py import": [
+    "4"
+  ],
+  "py integration": [
+    "4"
+  ],
+  "py ipynb": [
+    "1"
+  ],
+  "py main": [
+    "4"
+  ],
+  "py prompts": [
+    "4"
+  ],
+  "py qa_chain": [
+    "4"
+  ],
+  "py setting": [
+    "4"
+  ],
+  "py utils": [
+    "4"
+  ],
+  "pypdf 3": [
+    "4"
+  ],
+  "pypdf langchain": [
+    "4"
+  ],
+  "pypdf qa_system": [
+    "4"
+  ],
+  "pypdfloader from": [
+    "4"
+  ],
+  "pypdfloader your_document": [
+    "4"
+  ],
+  "pyproject toml": [
+    "1"
+  ],
+  "pytest mark": [
+    "1"
+  ],
+  "pytest n": [
+    "1"
+  ],
+  "python 3": [
+    "3",
+    "4"
+  ],
+  "python app": [
+    "4"
+  ],
+  "python dotenv": [
+    "4"
+  ],
+  "python environment": [
+    "3"
+  ],
+  "python in": [
+    "3"
+  ],
+  "python js": [
+    "1"
+  ],
+  "python llm": [
+    "4"
+  ],
+  "python m": [
+    "3",
+    "4"
+  ],
+  "python package": [
+    "4"
+  ],
+  "python s": [
+    "3",
+    "4"
+  ],
+  "python shell": [
+    "3"
+  ],
+  "python version": [
+    "3"
+  ],
+  "pytorch org": [
+    "4"
+  ],
+  "q a": [
+    "2"
+  ],
+  "qa_chain py": [
+    "4"
+  ],
+  "qa_system py": [
+    "4"
+  ],
+  "query llm_chain": [
+    "4"
+  ],
+  "query query_engine": [
+    "4"
+  ],
+  "query query_transform": [
+    "4"
+  ],
+  "query template": [
+    "4"
+  ],
+  "query the": [
+    "4"
+  ],
+  "query to": [
+    "4"
+  ],
+  "query transform": [
+    "4"
+  ],
+  "query what": [
+    "4"
+  ],
+  "query with": [
+    "4"
+  ],
+  "query_engine index": [
+    "4"
+  ],
+  "query_engine query": [
+    "4"
+  ],
+  "query_transform import": [
+    "4"
+  ],
+  "query_transform langchainquerytransform": [
+    "4"
+  ],
+  "query_transform query_transform": [
+    "4"
+  ],
+  "query_transform response": [
+    "4"
+  ],
+  "question answering": [
+    "2",
+    "4"
+  ],
+  "question based": [
+    "4"
+  ],
+  "question question": [
+    "4"
+  ],
+  "question set": [
+    "4"
+  ],
+  "question what": [
+    "4"
+  ],
+  "quick reference": [
+    "3"
+  ],
+  "quick setup": [
+    "4"
+  ],
+  "quick start": [
+    "3"
+  ],
+  "quickstart start": [
+    "1"
+  ],
+  "r requirements": [
+    "4"
+  ],
+  "rag architecture": [
+    "2"
+  ],
+  "rag system": [
+    "2"
+  ],
+  "range 0": [
+    "4"
+  ],
+  "range of": [
+    "3"
+  ],
+  "rare or": [
+    "3"
+  ],
+  "re adding": [
+    "1"
+  ],
+  "re developing": [
+    "3"
+  ],
+  "re modifying": [
+    "1"
+  ],
+  "re on": [
+    "1"
+  ],
+  "re ready": [
+    "3"
+  ],
+  "read more": [
+    "3"
+  ],
+  "read next": [
+    "4"
+  ],
+  "reading how": [
+    "3"
+  ],
+  "reading this": [
+    "4"
+  ],
+  "ready to": [
+    "3"
+  ],
+  "reason search": [
+    "4"
+  ],
+  "recall summarization": [
+    "2"
+  ],
+  "recognize linting": [
+    "1"
+  ],
+  "recommended api": [
+    "4"
+  ],
+  "recommended tech": [
+    "3"
+  ],
+  "recommended to": [
+    "3"
+  ],
+  "recommended uv": [
+    "1"
+  ],
+  "recursivecharactertextsplitter chunk_size": [
+    "4"
+  ],
+  "recursivecharactertextsplitter from": [
+    "4"
+  ],
+  "recursivecharactertextsplitter text_splitter": [
+    "4"
+  ],
+  "reddit hackernews": [
+    "3"
+  ],
+  "refer to": [
+    "3"
+  ],
+  "reference faq": [
+    "1"
+  ],
+  "reference how": [
+    "3"
+  ],
+  "reference more": [
+    "1"
+  ],
+  "reference tutorials": [
+    "3"
+  ],
+  "reformulate this": [
+    "4"
+  ],
+  "reject accept": [
+    "3"
+  ],
+  "relative libs": [
+    "1"
+  ],
+  "release flows": [
+    "1"
+  ],
+  "release of": [
+    "1"
+  ],
+  "relevant library": [
+    "1"
+  ],
+  "rely on": [
+    "1"
+  ],
+  "replace your": [
+    "3"
+  ],
+  "repository contains": [
+    "1"
+  ],
+  "repository locally": [
+    "1"
+  ],
+  "requests read": [
+    "3"
+  ],
+  "require api": [
+    "3",
+    "4"
+  ],
+  "require calls": [
+    "1"
+  ],
+  "require giving": [
+    "1"
+  ],
+  "require the": [
+    "1"
+  ],
+  "requirements for": [
+    "1"
+  ],
+  "requirements openai": [
+    "4"
+  ],
+  "requirements txt": [
+    "4"
+  ],
+  "requires package_name": [
+    "1"
+  ],
+  "requires python": [
+    "3"
+  ],
+  "reserved resources": [
+    "3"
+  ],
+  "resources docs": [
+    "3"
+  ],
+  "resources will": [
+    "3"
+  ],
+  "respective sdks": [
+    "3"
+  ],
+  "response add": [
+    "4"
+  ],
+  "response answer": [
+    "4"
+  ],
+  "response chain": [
+    "4"
+  ],
+  "response langchain": [
+    "4"
+  ],
+  "response query_engine": [
+    "4"
+  ],
+  "response retrieval_chain": [
+    "4"
+  ],
+  "response run": [
+    "4"
+  ],
+  "response to": [
+    "4"
+  ],
+  "response with": [
+    "4"
+  ],
+  "rest of": [
+    "1"
+  ],
+  "results automated": [
+    "4"
+  ],
+  "results creating": [
+    "4"
+  ],
+  "results db": [
+    "4"
+  ],
+  "results vectorstore": [
+    "4"
+  ],
+  "retrieval augmented": [
+    "2"
+  ],
+  "retrieval chain": [
+    "4"
+  ],
+  "retrieval logic": [
+    "1"
+  ],
+  "retrieval_chain create_retrieval_chain": [
+    "4"
+  ],
+  "retrieval_chain invoke": [
+    "4"
+  ],
+  "retriever document_chain": [
+    "4"
+  ],
+  "retriever vectorstore": [
+    "4"
+  ],
+  "retrievers building": [
+    "2"
+  ],
+  "right embedding": [
+    "3"
+  ],
+  "rights reserved": [
+    "3"
+  ],
+  "robots ensure": [
+    "3"
+  ],
+  "robust set": [
+    "3"
+  ],
+  "role assistant": [
+    "4"
+  ],
+  "role st": [
+    "4"
+  ],
+  "role user": [
+    "4"
+  ],
+  "root directory": [
+    "4"
+  ],
+  "ros installation": [
+    "4"
+  ],
+  "router chains": [
+    "2"
+  ],
+  "ruff and": [
+    "1"
+  ],
+  "ruff check": [
+    "1"
+  ],
+  "ruff for": [
+    "1"
+  ],
+  "ruff format": [
+    "1"
+  ],
+  "ruff to": [
+    "1"
+  ],
+  "rules working": [
+    "1"
+  ],
+  "run all": [
+    "1"
+  ],
+  "run app": [
+    "4"
+  ],
+  "run formatting": [
+    "1"
+  ],
+  "run from": [
+    "1"
+  ],
+  "run group": [
+    "1"
+  ],
+  "run linting": [
+    "1"
+  ],
+  "run on": [
+    "1"
+  ],
+  "run tests": [
+    "1"
+  ],
+  "run the": [
+    "1",
+    "4"
+  ],
+  "run these": [
+    "1"
+  ],
+  "run unit": [
+    "1"
+  ],
+  "run uv": [
+    "1"
+  ],
+  "run with": [
+    "1"
+  ],
+  "running examples": [
+    "1"
+  ],
+  "running in": [
+    "3"
+  ],
+  "running langchain": [
+    "1"
+  ],
+  "running python": [
+    "3"
+  ],
+  "s a": [
+    "3"
+  ],
+  "s always": [
+    "4"
+  ],
+  "s build": [
+    "4"
+  ],
+  "s built": [
+    "4"
+  ],
+  "s core": [
+    "2"
+  ],
+  "s create": [
+    "4"
+  ],
+  "s gpt": [
+    "3"
+  ],
+  "s how": [
+    "4"
+  ],
+  "s package": [
+    "3"
+  ],
+  "s recommended": [
+    "3"
+  ],
+  "safety in": [
+    "3"
+  ],
+  "same command": [
+    "1"
+  ],
+  "same formatting": [
+    "1"
+  ],
+  "sangbeom park": [
+    "4"
+  ],
+  "scoop install": [
+    "1"
+  ],
+  "scoop scoop": [
+    "1"
+  ],
+  "scripts activate": [
+    "3",
+    "4"
+  ],
+  "scripts pre": [
+    "1"
+  ],
+  "sdk pip": [
+    "3"
+  ],
+  "sdks for": [
+    "3"
+  ],
+  "search for": [
+    "4"
+  ],
+  "search results": [
+    "4"
+  ],
+  "search vs": [
+    "3"
+  ],
+  "search which": [
+    "3"
+  ],
+  "search write": [
+    "5"
+  ],
+  "searcher claude": [
+    "3"
+  ],
+  "searching agent": [
+    "2"
+  ],
+  "searching embeddings": [
+    "4"
+  ],
+  "section about": [
+    "1"
+  ],
+  "section helpful": [
+    "2"
+  ],
+  "sections below": [
+    "1"
+  ],
+  "see for": [
+    "1"
+  ],
+  "see the": [
+    "1"
+  ],
+  "seek advice": [
+    "3"
+  ],
+  "semantic search": [
+    "3"
+  ],
+  "sense that": [
+    "1"
+  ],
+  "separate test": [
+    "1"
+  ],
+  "sequential chains": [
+    "2"
+  ],
+  "sequential operations": [
+    "2"
+  ],
+  "service vts": [
+    "3"
+  ],
+  "services langchain": [
+    "4"
+  ],
+  "session state": [
+    "4"
+  ],
+  "session_state messages": [
+    "4"
+  ],
+  "session_state st": [
+    "4"
+  ],
+  "sessions consider": [
+    "3"
+  ],
+  "set import": [
+    "4"
+  ],
+  "set of": [
+    "3"
+  ],
+  "set them": [
+    "4"
+  ],
+  "set up": [
+    "3",
+    "4"
+  ],
+  "setting up": [
+    "2",
+    "3",
+    "4"
+  ],
+  "setup ai": [
+    "4"
+  ],
+  "setup docker": [
+    "4"
+  ],
+  "setup february": [
+    "4"
+  ],
+  "setup guide": [
+    "4"
+  ],
+  "setup here": [
+    "4"
+  ],
+  "setup langchain": [
+    "4"
+  ],
+  "setup of": [
+    "4"
+  ],
+  "setup process": [
+    "3"
+  ],
+  "setup python": [
+    "4"
+  ],
+  "setup this": [
+    "1"
+  ],
+  "share experiences": [
+    "3"
+  ],
+  "shell by": [
+    "3"
+  ],
+  "shell configuration": [
+    "3"
+  ],
+  "short joke": [
+    "4"
+  ],
+  "short term": [
+    "2"
+  ],
+  "shot prompting": [
+    "2"
+  ],
+  "should be": [
+    "1"
+  ],
+  "should print": [
+    "4"
+  ],
+  "shown in": [
+    "1"
+  ],
+  "side effects": [
+    "1"
+  ],
+  "sign in": [
+    "5"
+  ],
+  "sign up": [
+    "5"
+  ],
+  "silicon pip": [
+    "4"
+  ],
+  "similar documents": [
+    "4"
+  ],
+  "similarity_search what": [
+    "4"
+  ],
+  "simple application": [
+    "4"
+  ],
+  "simple chain": [
+    "4"
+  ],
+  "simple langchain": [
+    "4"
+  ],
+  "simple llmchain": [
+    "2"
+  ],
+  "simple question": [
+    "4"
+  ],
+  "simple streamlit": [
+    "4"
+  ],
+  "simpledirectoryreader data": [
+    "4"
+  ],
+  "simpledirectoryreader from": [
+    "4"
+  ],
+  "simplify the": [
+    "3",
+    "4"
+  ],
+  "simply install": [
+    "1"
+  ],
+  "site experience": [
+    "3"
+  ],
+  "site uses": [
+    "2"
+  ],
+  "sizing tool": [
+    "3"
+  ],
+  "skip pre": [
+    "1"
+  ],
+  "skip to": [
+    "1"
+  ],
+  "skipping pre": [
+    "1"
+  ],
+  "sla compliance": [
+    "3"
+  ],
+  "slack github": [
+    "1"
+  ],
+  "so it": [
+    "3"
+  ],
+  "so your": [
+    "1"
+  ],
+  "socket allow": [
+    "1"
+  ],
+  "socket tests": [
+    "1"
+  ],
+  "some langchain": [
+    "1"
+  ],
+  "some language": [
+    "3"
+  ],
+  "some more": [
+    "4"
+  ],
+  "some test": [
+    "1"
+  ],
+  "sophisticated llm": [
+    "4"
+  ],
+  "source for": [
+    "4"
+  ],
+  "source langchain": [
+    "4"
+  ],
+  "source myenv": [
+    "3"
+  ],
+  "source new_env": [
+    "4"
+  ],
+  "sources and": [
+    "3"
+  ],
+  "specific integrations": [
+    "4"
+  ],
+  "specific library": [
+    "1"
+  ],
+  "specific query": [
+    "4"
+  ],
+  "specific use": [
+    "3"
+  ],
+  "specific versions": [
+    "4"
+  ],
+  "specified in": [
+    "1"
+  ],
+  "spinner thinking": [
+    "4"
+  ],
+  "split across": [
+    "1"
+  ],
+  "split the": [
+    "4"
+  ],
+  "split_documents documents": [
+    "4"
+  ],
+  "splits batch_size": [
+    "4"
+  ],
+  "splits embedding": [
+    "4"
+  ],
+  "splits i": [
+    "4"
+  ],
+  "splits text_splitter": [
+    "4"
+  ],
+  "splitting documents": [
+    "2"
+  ],
+  "st chat_input": [
+    "4"
+  ],
+  "st chat_message": [
+    "4"
+  ],
+  "st from": [
+    "4"
+  ],
+  "st markdown": [
+    "4"
+  ],
+  "st session_state": [
+    "4"
+  ],
+  "st spinner": [
+    "4"
+  ],
+  "st title": [
+    "4"
+  ],
+  "standardized interface": [
+    "4"
+  ],
+  "standards without": [
+    "1"
+  ],
+  "star 37": [
+    "3"
+  ],
+  "start building": [
+    "3",
+    "4"
+  ],
+  "start by": [
+    "3"
+  ],
+  "start for": [
+    "3"
+  ],
+  "start with": [
+    "1"
+  ],
+  "state for": [
+    "4"
+  ],
+  "state in": [
+    "2"
+  ],
+  "steps basic": [
+    "4"
+  ],
+  "steps that": [
+    "3"
+  ],
+  "steps you": [
+    "3"
+  ],
+  "still being": [
+    "1"
+  ],
+  "still enforce": [
+    "1"
+  ],
+  "storage langchain": [
+    "4"
+  ],
+  "store data": [
+    "4"
+  ],
+  "store db": [
+    "4"
+  ],
+  "store embedding": [
+    "4"
+  ],
+  "store embeddings": [
+    "4"
+  ],
+  "stores and": [
+    "2"
+  ],
+  "stores cookies": [
+    "3"
+  ],
+  "storing and": [
+    "4"
+  ],
+  "storing data": [
+    "4"
+  ],
+  "storing embeddings": [
+    "4"
+  ],
+  "storing of": [
+    "3"
+  ],
+  "straightforward steps": [
+    "3"
+  ],
+  "streamline your": [
+    "3"
+  ],
+  "streamlit 1": [
+    "4"
+  ],
+  "streamlit app": [
+    "4"
+  ],
+  "streamlit as": [
+    "4"
+  ],
+  "streamlit create": [
+    "4"
+  ],
+  "streamlit pip": [
+    "4"
+  ],
+  "streamlit pypdf": [
+    "4"
+  ],
+  "streamlit run": [
+    "4"
+  ],
+  "streamlit you": [
+    "4"
+  ],
+  "stroutputparser execute": [
+    "4"
+  ],
+  "stroutputparser generate": [
+    "4"
+  ],
+  "stroutputparser load": [
+    "4"
+  ],
+  "structure a": [
+    "4"
+  ],
+  "structure langchain": [
+    "4"
+  ],
+  "structured data": [
+    "2"
+  ],
+  "structuring output": [
+    "2"
+  ],
+  "submitting a": [
+    "1"
+  ],
+  "subscribe copyright": [
+    "3"
+  ],
+  "subset of": [
+    "1"
+  ],
+  "subsystem for": [
+    "1"
+  ],
+  "successful set": [
+    "3"
+  ],
+  "summarization memory": [
+    "2"
+  ],
+  "support on": [
+    "4"
+  ],
+  "support pip": [
+    "4"
+  ],
+  "sync the": [
+    "1"
+  ],
+  "sync then": [
+    "1"
+  ],
+  "system let": [
+    "4"
+  ],
+  "system loading": [
+    "2"
+  ],
+  "system response": [
+    "4"
+  ],
+  "system using": [
+    "4"
+  ],
+  "system will": [
+    "1"
+  ],
+  "systems each": [
+    "1"
+  ],
+  "t encounter": [
+    "3"
+  ],
+  "t have": [
+    "1"
+  ],
+  "tackle a": [
+    "3"
+  ],
+  "tasks below": [
+    "3"
+  ],
+  "tech blogs": [
+    "3"
+  ],
+  "techniques are": [
+    "1"
+  ],
+  "tell me": [
+    "4"
+  ],
+  "template prompt": [
+    "4"
+  ],
+  "template reformulate": [
+    "4"
+  ],
+  "templates __init__": [
+    "4"
+  ],
+  "templates if": [
+    "1"
+  ],
+  "term recall": [
+    "2"
+  ],
+  "terminal and": [
+    "3"
+  ],
+  "terminal export": [
+    "3"
+  ],
+  "terminal or": [
+    "3"
+  ],
+  "test dependencies": [
+    "1"
+  ],
+  "test if": [
+    "1"
+  ],
+  "test jupyter": [
+    "1"
+  ],
+  "test makes": [
+    "1"
+  ],
+  "test pytest": [
+    "1"
+  ],
+  "test release": [
+    "1"
+  ],
+  "test that": [
+    "1"
+  ],
+  "test the": [
+    "1"
+  ],
+  "test to": [
+    "1"
+  ],
+  "tested or": [
+    "1"
+  ],
+  "testing developing": [
+    "1"
+  ],
+  "testing note": [
+    "1"
+  ],
+  "tests and": [
+    "1"
+  ],
+  "tests cd": [
+    "1"
+  ],
+  "tests cover": [
+    "1"
+  ],
+  "tests if": [
+    "1"
+  ],
+  "tests that": [
+    "1"
+  ],
+  "tests unit_tests": [
+    "1"
+  ],
+  "text analysis": [
+    "3"
+  ],
+  "text search": [
+    "3"
+  ],
+  "text_splitter recursivecharactertextsplitter": [
+    "4"
+  ],
+  "text_splitter split_documents": [
+    "4"
+  ],
+  "texts langchain": [
+    "4"
+  ],
+  "texts vectorstore": [
+    "4"
+  ],
+  "than would": [
+    "1"
+  ],
+  "that are": [
+    "1",
+    "4"
+  ],
+  "that combine": [
+    "4"
+  ],
+  "that does": [
+    "1"
+  ],
+  "that have": [
+    "1"
+  ],
+  "that it": [
+    "1"
+  ],
+  "that langchain": [
+    "3"
+  ],
+  "that makes": [
+    "1"
+  ],
+  "that most": [
+    "1"
+  ],
+  "that pyproject": [
+    "1"
+  ],
+  "that require": [
+    "1"
+  ],
+  "that the": [
+    "1"
+  ],
+  "that will": [
+    "3"
+  ],
+  "that your": [
+    "3"
+  ],
+  "the agent": [
+    "2"
+  ],
+  "the app": [
+    "4"
+  ],
+  "the application": [
+    "4"
+  ],
+  "the blog": [
+    "3"
+  ],
+  "the chain": [
+    "4"
+  ],
+  "the ci": [
+    "1"
+  ],
+  "the code": [
+    "1"
+  ],
+  "the codebase": [
+    "1"
+  ],
+  "the cognitive": [
+    "1"
+  ],
+  "the complete": [
+    "4"
+  ],
+  "the conda": [
+    "4"
+  ],
+  "the creation": [
+    "3"
+  ],
+  "the definitive": [
+    "3"
+  ],
+  "the dependencies": [
+    "1"
+  ],
+  "the dependency": [
+    "1"
+  ],
+  "the devcontainer": [
+    "1"
+  ],
+  "the development": [
+    "4"
+  ],
+  "the devs": [
+    "3"
+  ],
+  "the direct": [
+    "1"
+  ],
+  "the document": [
+    "4"
+  ],
+  "the embedding": [
+    "4"
+  ],
+  "the entire": [
+    "1"
+  ],
+  "the files": [
+    "1"
+  ],
+  "the following": [
+    "1",
+    "3",
+    "4"
+  ],
+  "the format_diff": [
+    "1"
+  ],
+  "the formatter": [
+    "1"
+  ],
+  "the framework": [
+    "3"
+  ],
+  "the full": [
+    "3"
+  ],
+  "the git": [
+    "1"
+  ],
+  "the importance": [
+    "2"
+  ],
+  "the installation": [
+    "3",
+    "4"
+  ],
+  "the key": [
+    "3"
+  ],
+  "the langchain": [
+    "1",
+    "2",
+    "3"
+  ],
+  "the language": [
+    "4"
+  ],
+  "the latest": [
+    "4"
+  ],
+  "the lint_diff": [
+    "1"
+  ],
+  "the linter": [
+    "1"
+  ],
+  "the linting": [
+    "1"
+  ],
+  "the list": [
+    "1"
+  ],
+  "the llm": [
+    "1",
+    "4"
+  ],
+  "the logic": [
+    "1"
+  ],
+  "the main": [
+    "4"
+  ],
+  "the master": [
+    "1"
+  ],
+  "the monorepo": [
+    "1"
+  ],
+  "the most": [
+    "3"
+  ],
+  "the motivation": [
+    "2"
+  ],
+  "the new": [
+    "1"
+  ],
+  "the notebook": [
+    "1"
+  ],
+  "the official": [
+    "3"
+  ],
+  "the openai": [
+    "3"
+  ],
+  "the process": [
+    "3"
+  ],
+  "the project": [
+    "1"
+  ],
+  "the provided": [
+    "4"
+  ],
+  "the pytest": [
+    "1"
+  ],
+  "the python": [
+    "4"
+  ],
+  "the release": [
+    "1"
+  ],
+  "the relevant": [
+    "1"
+  ],
+  "the repository": [
+    "1"
+  ],
+  "the rest": [
+    "1"
+  ],
+  "the right": [
+    "3"
+  ],
+  "the same": [
+    "1"
+  ],
+  "the sections": [
+    "1"
+  ],
+  "the sense": [
+    "1"
+  ],
+  "the simple": [
+    "2"
+  ],
+  "the specific": [
+    "1"
+  ],
+  "the storing": [
+    "3"
+  ],
+  "the streamlit": [
+    "4"
+  ],
+  "the system": [
+    "4"
+  ],
+  "the techniques": [
+    "1"
+  ],
+  "the token": [
+    "3"
+  ],
+  "the top": [
+    "1"
+  ],
+  "the unit": [
+    "1"
+  ],
+  "the v1": [
+    "1"
+  ],
+  "the vector": [
+    "4"
+  ],
+  "the very": [
+    "1"
+  ],
+  "the virtual": [
+    "4"
+  ],
+  "the virtualenv": [
+    "1"
+  ],
+  "their respective": [
+    "3"
+  ],
+  "them in": [
+    "1"
+  ],
+  "them up": [
+    "4"
+  ],
+  "theme hosted": [
+    "4"
+  ],
+  "then install": [
+    "1",
+    "4"
+  ],
+  "then verify": [
+    "1"
+  ],
+  "there are": [
+    "1",
+    "4"
+  ],
+  "these docs": [
+    "1"
+  ],
+  "these has": [
+    "1"
+  ],
+  "these locally": [
+    "1"
+  ],
+  "these packages": [
+    "1"
+  ],
+  "these resources": [
+    "3"
+  ],
+  "these steps": [
+    "3"
+  ],
+  "these variables": [
+    "4"
+  ],
+  "they can": [
+    "1"
+  ],
+  "they require": [
+    "1"
+  ],
+  "thinking response": [
+    "4"
+  ],
+  "third party": [
+    "1"
+  ],
+  "this answer": [
+    "3"
+  ],
+  "this article": [
+    "4"
+  ],
+  "this can": [
+    "1",
+    "3"
+  ],
+  "this content": [
+    "3"
+  ],
+  "this document": [
+    "4"
+  ],
+  "this guide": [
+    "1",
+    "4"
+  ],
+  "this installation": [
+    "3"
+  ],
+  "this is": [
+    "1"
+  ],
+  "this line": [
+    "3"
+  ],
+  "this page": [
+    "1"
+  ],
+  "this project": [
+    "1"
+  ],
+  "this query": [
+    "4"
+  ],
+  "this quickstart": [
+    "1"
+  ],
+  "this repository": [
+    "1"
+  ],
+  "this section": [
+    "2"
+  ],
+  "this site": [
+    "2"
+  ],
+  "this to": [
+    "1"
+  ],
+  "this way": [
+    "1"
+  ],
+  "this website": [
+    "3"
+  ],
+  "this will": [
+    "3"
+  ],
+  "those who": [
+    "4"
+  ],
+  "through how": [
+    "1"
+  ],
+  "through the": [
+    "3",
+    "4"
+  ],
+  "title langchain": [
+    "4"
+  ],
+  "to a": [
+    "1"
+  ],
+  "to access": [
+    "3"
+  ],
+  "to agents": [
+    "2"
+  ],
+  "to an": [
+    "4"
+  ],
+  "to avoid": [
+    "3",
+    "4"
+  ],
+  "to be": [
+    "1",
+    "4"
+  ],
+  "to browse": [
+    "3"
+  ],
+  "to chains": [
+    "2"
+  ],
+  "to chat": [
+    "4"
+  ],
+  "to check": [
+    "1"
+  ],
+  "to choose": [
+    "3"
+  ],
+  "to contribute": [
+    "3"
+  ],
+  "to create": [
+    "4"
+  ],
+  "to do": [
+    "1"
+  ],
+  "to end": [
+    "4"
+  ],
+  "to enhance": [
+    "2",
+    "3"
+  ],
+  "to ensure": [
+    "1",
+    "3",
+    "4"
+  ],
+  "to facilitate": [
+    "3"
+  ],
+  "to fix": [
+    "3"
+  ],
+  "to get": [
+    "3"
+  ],
+  "to guides": [
+    "1"
+  ],
+  "to guidescontribute": [
+    "1"
+  ],
+  "to have": [
+    "3"
+  ],
+  "to import": [
+    "1"
+  ],
+  "to install": [
+    "1",
+    "3"
+  ],
+  "to introduce": [
+    "1"
+  ],
+  "to keep": [
+    "1"
+  ],
+  "to langchain": [
+    "1",
+    "4"
+  ],
+  "to leverage": [
+    "3"
+  ],
+  "to load": [
+    "4"
+  ],
+  "to main": [
+    "1"
+  ],
+  "to milvus": [
+    "3"
+  ],
+  "to only": [
+    "1"
+  ],
+  "to outside": [
+    "1"
+  ],
+  "to perform": [
+    "3"
+  ],
+  "to read": [
+    "4"
+  ],
+  "to ros": [
+    "4"
+  ],
+  "to run": [
+    "1"
+  ],
+  "to seek": [
+    "3"
+  ],
+  "to set": [
+    "3",
+    "4"
+  ],
+  "to simplify": [
+    "3",
+    "4"
+  ],
+  "to start": [
+    "3",
+    "4"
+  ],
+  "to streamline": [
+    "3"
+  ],
+  "to tackle": [
+    "3"
+  ],
+  "to test": [
+    "1"
+  ],
+  "to the": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "to use": [
+    "3"
+  ],
+  "to utilize": [
+    "4"
+  ],
+  "to your": [
+    "3"
+  ],
+  "token based": [
+    "2"
+  ],
+  "token limit": [
+    "3"
+  ],
+  "tokens to": [
+    "3"
+  ],
+  "toml and": [
+    "1"
+  ],
+  "tool and": [
+    "2"
+  ],
+  "tool for": [
+    "3"
+  ],
+  "tool install": [
+    "1"
+  ],
+  "tool milvus": [
+    "3"
+  ],
+  "tool vector": [
+    "3"
+  ],
+  "toolkit architecture": [
+    "2"
+  ],
+  "tools and": [
+    "4"
+  ],
+  "tools attu": [
+    "3"
+  ],
+  "tools blog": [
+    "3"
+  ],
+  "tools creating": [
+    "2"
+  ],
+  "tools exploring": [
+    "2"
+  ],
+  "tools the": [
+    "2"
+  ],
+  "tools whether": [
+    "3"
+  ],
+  "top level": [
+    "1"
+  ],
+  "topic create": [
+    "4"
+  ],
+  "topic of": [
+    "4"
+  ],
+  "topic programming": [
+    "4"
+  ],
+  "torch torchvision": [
+    "4"
+  ],
+  "torchaudio index": [
+    "4"
+  ],
+  "torchaudio troubleshooting": [
+    "4"
+  ],
+  "torchvision torchaudio": [
+    "4"
+  ],
+  "touched when": [
+    "1"
+  ],
+  "transform llm": [
+    "4"
+  ],
+  "transformed query": [
+    "4"
+  ],
+  "transformers configure": [
+    "3"
+  ],
+  "transformers pip": [
+    "3"
+  ],
+  "transformers you": [
+    "3"
+  ],
+  "transport service": [
+    "3"
+  ],
+  "troubleshooting common": [
+    "4"
+  ],
+  "try free": [
+    "3"
+  ],
+  "try importing": [
+    "3"
+  ],
+  "try managed": [
+    "3"
+  ],
+  "ts more": [
+    "1"
+  ],
+  "turbo create": [
+    "4"
+  ],
+  "turbo prompt": [
+    "4"
+  ],
+  "tutorials bootcamps": [
+    "3"
+  ],
+  "tutorials how": [
+    "1"
+  ],
+  "tutorials tools": [
+    "3"
+  ],
+  "tutorials why": [
+    "3"
+  ],
+  "twitter facebook": [
+    "3"
+  ],
+  "twitter slack": [
+    "1"
+  ],
+  "txt and": [
+    "1"
+  ],
+  "txt dependencies": [
+    "4"
+  ],
+  "txt file": [
+    "4"
+  ],
+  "txt langchain": [
+    "4"
+  ],
+  "txt project": [
+    "4"
+  ],
+  "types and": [
+    "2"
+  ],
+  "typing python": [
+    "3"
+  ],
+  "ubuntu how": [
+    "4"
+  ],
+  "ubuntu setup": [
+    "4"
+  ],
+  "understand the": [
+    "3"
+  ],
+  "unit test": [
+    "1"
+  ],
+  "unit tests": [
+    "1"
+  ],
+  "unit_tests formatting": [
+    "1"
+  ],
+  "unit_tests testing": [
+    "1"
+  ],
+  "unit_tests there": [
+    "1"
+  ],
+  "unix or": [
+    "3"
+  ],
+  "unix socket": [
+    "1"
+  ],
+  "unseen data": [
+    "3"
+  ],
+  "unsplash last": [
+    "4"
+  ],
+  "up a": [
+    "4"
+  ],
+  "up additional": [
+    "3"
+  ],
+  "up and": [
+    "3"
+  ],
+  "up api": [
+    "4"
+  ],
+  "up chroma": [
+    "4"
+  ],
+  "up correctly": [
+    "4"
+  ],
+  "up environment": [
+    "4"
+  ],
+  "up langchain": [
+    "3"
+  ],
+  "up persistent": [
+    "4"
+  ],
+  "up sign": [
+    "5"
+  ],
+  "up the": [
+    "1",
+    "4"
+  ],
+  "up your": [
+    "2",
+    "3"
+  ],
+  "updated august": [
+    "4"
+  ],
+  "updates email": [
+    "3"
+  ],
+  "url https": [
+    "4"
+  ],
+  "us ai": [
+    "3"
+  ],
+  "us try": [
+    "3"
+  ],
+  "usage from": [
+    "4"
+  ],
+  "usage import": [
+    "4"
+  ],
+  "use case": [
+    "3"
+  ],
+  "use cookies": [
+    "3"
+  ],
+  "use langchain": [
+    "3"
+  ],
+  "use of": [
+    "1"
+  ],
+  "use optional": [
+    "1"
+  ],
+  "use pre": [
+    "1"
+  ],
+  "use the": [
+    "1"
+  ],
+  "use this": [
+    "3"
+  ],
+  "use various": [
+    "4"
+  ],
+  "use windows": [
+    "1"
+  ],
+  "useful when": [
+    "1"
+  ],
+  "user content": [
+    "4"
+  ],
+  "user input": [
+    "4"
+  ],
+  "user message": [
+    "4"
+  ],
+  "user st": [
+    "4"
+  ],
+  "user_input add": [
+    "4"
+  ],
+  "user_input setup": [
+    "4"
+  ],
+  "user_input st": [
+    "4"
+  ],
+  "user_input with": [
+    "4"
+  ],
+  "users different": [
+    "1"
+  ],
+  "users if": [
+    "1"
+  ],
+  "users who": [
+    "1"
+  ],
+  "users won": [
+    "1"
+  ],
+  "uses cookies": [
+    "2"
+  ],
+  "using a": [
+    "4"
+  ],
+  "using built": [
+    "2"
+  ],
+  "using conda": [
+    "4"
+  ],
+  "using homebrew": [
+    "1"
+  ],
+  "using langchain": [
+    "2",
+    "4"
+  ],
+  "using language": [
+    "3"
+  ],
+  "using large": [
+    "4"
+  ],
+  "using openai": [
+    "3"
+  ],
+  "using pip": [
+    "1",
+    "3",
+    "4"
+  ],
+  "using python": [
+    "3"
+  ],
+  "using ruff": [
+    "1"
+  ],
+  "using streamlit": [
+    "4"
+  ],
+  "using the": [
+    "1",
+    "2"
+  ],
+  "using uv": [
+    "1"
+  ],
+  "using venv": [
+    "4"
+  ],
+  "using windowed": [
+    "2"
+  ],
+  "usually be": [
+    "3"
+  ],
+  "utility functions": [
+    "4"
+  ],
+  "utilize gpu": [
+    "4"
+  ],
+  "utilizes uv": [
+    "1"
+  ],
+  "utils data": [
+    "4"
+  ],
+  "utils utility": [
+    "4"
+  ],
+  "uv and": [
+    "1"
+  ],
+  "uv commands": [
+    "1"
+  ],
+  "uv documentation": [
+    "1"
+  ],
+  "uv lock": [
+    "1"
+  ],
+  "uv recommended": [
+    "1"
+  ],
+  "uv run": [
+    "1"
+  ],
+  "uv sync": [
+    "1"
+  ],
+  "uv tool": [
+    "1"
+  ],
+  "uv v0": [
+    "1"
+  ],
+  "v0 3": [
+    "1"
+  ],
+  "v0 5": [
+    "1"
+  ],
+  "v1 0": [
+    "1"
+  ],
+  "valuable places": [
+    "3"
+  ],
+  "valuable tool": [
+    "3"
+  ],
+  "variable in": [
+    "3"
+  ],
+  "variables create": [
+    "4"
+  ],
+  "variables load_dotenv": [
+    "4"
+  ],
+  "variables pip": [
+    "4"
+  ],
+  "variables requirements": [
+    "4"
+  ],
+  "various databases": [
+    "4"
+  ],
+  "various third": [
+    "1"
+  ],
+  "ve made": [
+    "1"
+  ],
+  "vector database": [
+    "3",
+    "4"
+  ],
+  "vector embeddings": [
+    "4"
+  ],
+  "vector store": [
+    "4"
+  ],
+  "vector stores": [
+    "2"
+  ],
+  "vector transport": [
+    "3"
+  ],
+  "vectordb for": [
+    "3"
+  ],
+  "vectorstore add_documents": [
+    "4"
+  ],
+  "vectorstore add_texts": [
+    "4"
+  ],
+  "vectorstore as_retriever": [
+    "4"
+  ],
+  "vectorstore chroma": [
+    "4"
+  ],
+  "vectorstore pineconevectorstore": [
+    "4"
+  ],
+  "vectorstore similarity_search": [
+    "4"
+  ],
+  "vectorstoreindex from_documents": [
+    "4"
+  ],
+  "vectorstoreindex simpledirectoryreader": [
+    "4"
+  ],
+  "venv langchain": [
+    "4"
+  ],
+  "venv myenv": [
+    "3"
+  ],
+  "venv new_env": [
+    "4"
+  ],
+  "venv python": [
+    "4"
+  ],
+  "verify dependency": [
+    "1"
+  ],
+  "verify however": [
+    "1"
+  ],
+  "verify the": [
+    "3"
+  ],
+  "verify your": [
+    "4"
+  ],
+  "version by": [
+    "3"
+  ],
+  "version controlled": [
+    "1"
+  ],
+  "version in": [
+    "3"
+  ],
+  "version installed": [
+    "3"
+  ],
+  "versions pip": [
+    "4"
+  ],
+  "very helpful": [
+    "1"
+  ],
+  "very least": [
+    "1"
+  ],
+  "via a": [
+    "1"
+  ],
+  "via chocolatey": [
+    "1"
+  ],
+  "via option": [
+    "1"
+  ],
+  "via ruff": [
+    "1"
+  ],
+  "via scoop": [
+    "1"
+  ],
+  "vibe coding": [
+    "3"
+  ],
+  "video tools": [
+    "3"
+  ],
+  "virtual environment": [
+    "3",
+    "4"
+  ],
+  "virtualenv so": [
+    "1"
+  ],
+  "visit the": [
+    "1"
+  ],
+  "vs full": [
+    "3"
+  ],
+  "vts deep": [
+    "3"
+  ],
+  "walk through": [
+    "4"
+  ],
+  "walks through": [
+    "1"
+  ],
+  "want a": [
+    "4"
+  ],
+  "want this": [
+    "1"
+  ],
+  "want to": [
+    "1"
+  ],
+  "warnings no": [
+    "1"
+  ],
+  "was successful": [
+    "3"
+  ],
+  "was this": [
+    "2"
+  ],
+  "way you": [
+    "1"
+  ],
+  "we do": [
+    "1"
+  ],
+  "we ll": [
+    "3",
+    "4"
+  ],
+  "we recognize": [
+    "1"
+  ],
+  "we use": [
+    "1",
+    "3"
+  ],
+  "web applications": [
+    "4"
+  ],
+  "web searching": [
+    "2"
+  ],
+  "website stores": [
+    "3"
+  ],
+  "welcome contributors": [
+    "1"
+  ],
+  "well as": [
+    "1"
+  ],
+  "well organized": [
+    "4"
+  ],
+  "what are": [
+    "4"
+  ],
+  "what exactly": [
+    "3"
+  ],
+  "what is": [
+    "3",
+    "4"
+  ],
+  "when using": [
+    "3"
+  ],
+  "when you": [
+    "1"
+  ],
+  "whether you": [
+    "3"
+  ],
+  "which do": [
+    "3"
+  ],
+  "whl cu118": [
+    "4"
+  ],
+  "who do": [
+    "1"
+  ],
+  "who want": [
+    "4"
+  ],
+  "why milvus": [
+    "3"
+  ],
+  "why your": [
+    "3"
+  ],
+  "wide range": [
+    "3"
+  ],
+  "will automatically": [
+    "1"
+  ],
+  "will be": [
+    "1"
+  ],
+  "will check": [
+    "1"
+  ],
+  "will download": [
+    "3"
+  ],
+  "will enable": [
+    "3"
+  ],
+  "will format": [
+    "1"
+  ],
+  "will help": [
+    "3"
+  ],
+  "will need": [
+    "3"
+  ],
+  "will still": [
+    "1"
+  ],
+  "windowed and": [
+    "2"
+  ],
+  "windows alternative": [
+    "1"
+  ],
+  "windows and": [
+    "1"
+  ],
+  "windows langchain": [
+    "4"
+  ],
+  "windows subsystem": [
+    "1"
+  ],
+  "windows users": [
+    "1"
+  ],
+  "windows verify": [
+    "3"
+  ],
+  "with al": [
+    "4"
+  ],
+  "with all": [
+    "4"
+  ],
+  "with core": [
+    "4"
+  ],
+  "with document": [
+    "2"
+  ],
+  "with git": [
+    "1"
+  ],
+  "with humans": [
+    "3"
+  ],
+  "with it": [
+    "1"
+  ],
+  "with its": [
+    "3"
+  ],
+  "with langchain": [
+    "1",
+    "3",
+    "4"
+  ],
+  "with language": [
+    "3"
+  ],
+  "with large": [
+    "4"
+  ],
+  "with llamaindex": [
+    "4"
+  ],
+  "with llms": [
+    "2"
+  ],
+  "with loveblue": [
+    "3"
+  ],
+  "with memory": [
+    "2"
+  ],
+  "with milvus": [
+    "3"
+  ],
+  "with natural": [
+    "3"
+  ],
+  "with optional": [
+    "1"
+  ],
+  "with other": [
+    "3",
+    "4"
+  ],
+  "with parsers": [
+    "2"
+  ],
+  "with pinecone": [
+    "4"
+  ],
+  "with popular": [
+    "3"
+  ],
+  "with prompttemplates": [
+    "2"
+  ],
+  "with retrievers": [
+    "2"
+  ],
+  "with router": [
+    "2"
+  ],
+  "with source": [
+    "3"
+  ],
+  "with st": [
+    "4"
+  ],
+  "with streamlit": [
+    "4"
+  ],
+  "with test": [
+    "1"
+  ],
+  "with the": [
+    "1"
+  ],
+  "with transformed": [
+    "4"
+  ],
+  "with your": [
+    "3"
+  ],
+  "within a": [
+    "3"
+  ],
+  "without affecting": [
+    "1"
+  ],
+  "without any": [
+    "1"
+  ],
+  "without having": [
+    "1"
+  ],
+  "won t": [
+    "1"
+  ],
+  "work semantic": [
+    "3"
+  ],
+  "workflow consult": [
+    "3"
+  ],
+  "working with": [
+    "1",
+    "3"
+  ],
+  "works once": [
+    "1"
+  ],
+  "would be": [
+    "1"
+  ],
+  "write sign": [
+    "5"
+  ],
+  "wsl option": [
+    "1"
+  ],
+  "xargs uv": [
+    "1"
+  ],
+  "yaml and": [
+    "1"
+  ],
+  "you add": [
+    "1"
+  ],
+  "you agree": [
+    "3"
+  ],
+  "you are": [
+    "1"
+  ],
+  "you begin": [
+    "3"
+  ],
+  "you can": [
+    "1",
+    "3",
+    "4"
+  ],
+  "you do": [
+    "1"
+  ],
+  "you don": [
+    "1",
+    "3"
+  ],
+  "you encounter": [
+    "4"
+  ],
+  "you have": [
+    "1",
+    "4"
+  ],
+  "you ll": [
+    "1",
+    "3"
+  ],
+  "you may": [
+    "3"
+  ],
+  "you might": [
+    "3",
+    "4"
+  ],
+  "you plan": [
+    "3"
+  ],
+  "you re": [
+    "1",
+    "3"
+  ],
+  "you run": [
+    "1"
+  ],
+  "you through": [
+    "3"
+  ],
+  "you to": [
+    "3",
+    "4"
+  ],
+  "you understand": [
+    "3"
+  ],
+  "you ve": [
+    "1"
+  ],
+  "you will": [
+    "3"
+  ],
+  "you with": [
+    "1"
+  ],
+  "your actual": [
+    "3"
+  ],
+  "your api": [
+    "3",
+    "4"
+  ],
+  "your applications": [
+    "1"
+  ],
+  "your changes": [
+    "1"
+  ],
+  "your code": [
+    "1",
+    "4"
+  ],
+  "your computer": [
+    "3"
+  ],
+  "your current": [
+    "1"
+  ],
+  "your development": [
+    "2"
+  ],
+  "your device": [
+    "3"
+  ],
+  "your documents": [
+    "2"
+  ],
+  "your experience": [
+    "2"
+  ],
+  "your first": [
+    "1",
+    "2"
+  ],
+  "your genai": [
+    "3"
+  ],
+  "your needs": [
+    "4"
+  ],
+  "your new": [
+    "1"
+  ],
+  "your preferences": [
+    "2"
+  ],
+  "your project": [
+    "4"
+  ],
+  "your projects": [
+    "4"
+  ],
+  "your python": [
+    "3"
+  ],
+  "your requirements": [
+    "4"
+  ],
+  "your shell": [
+    "3"
+  ],
+  "your site": [
+    "3"
+  ],
+  "your specific": [
+    "3"
+  ],
+  "your terminal": [
+    "3"
+  ],
+  "your vibe": [
+    "3"
+  ],
+  "your workflow": [
+    "3"
+  ],
+  "your_anthropic_api_key huggingfacehub_api_token": [
+    "4"
+  ],
+  "your_document pdf": [
+    "4"
+  ],
+  "your_huggingface_token then": [
+    "4"
+  ],
+  "your_key_here env": [
+    "4"
+  ],
+  "your_openai_api_key anthropic_api_key": [
+    "4"
+  ],
+  "youtube copyright": [
+    "1"
+  ],
+  "zero hassle": [
+    "3"
+  ],
+  "zilliz cloud": [
+    "3"
+  ],
+  "zilliz get": [
+    "3"
+  ],
+  "zilliz made": [
+    "3"
+  ],
+  "zilliz why": [
+    "3"
+  ],
+  "zshrc explore": [
+    "3"
+  ]
+}

@@ -1,0 +1,12686 @@
+{
+  "0 0": [
+    "4"
+  ],
+  "0 1": [
+    "4"
+  ],
+  "0 2": [
+    "4"
+  ],
+  "0 3": [
+    "4"
+  ],
+  "0 5": [
+    "4",
+    "5"
+  ],
+  "0 59": [
+    "4"
+  ],
+  "0 6": [
+    "4"
+  ],
+  "0 7": [
+    "5"
+  ],
+  "0 alpha": [
+    "2",
+    "3"
+  ],
+  "0 audio_tokens": [
+    "2"
+  ],
+  "0 cache_read": [
+    "2"
+  ],
+  "0 cached_tokens": [
+    "2"
+  ],
+  "0 chains": [
+    "2"
+  ],
+  "0 in": [
+    "2",
+    "3"
+  ],
+  "0 indicates": [
+    "5"
+  ],
+  "0 jump": [
+    "5"
+  ],
+  "0 langchainhub": [
+    "4"
+  ],
+  "0 model_name": [
+    "2"
+  ],
+  "0 output_token_details": [
+    "2"
+  ],
+  "0 prompt_tokens_details": [
+    "2"
+  ],
+  "0 psycopg2": [
+    "4"
+  ],
+  "0 reasoning": [
+    "2"
+  ],
+  "0 reasoning_tokens": [
+    "2"
+  ],
+  "0 rejected_prediction_tokens": [
+    "2"
+  ],
+  "0 save": [
+    "5"
+  ],
+  "0 subscribe": [
+    "5"
+  ],
+  "0 tip": [
+    "2"
+  ],
+  "0 to": [
+    "5"
+  ],
+  "0 usage_metadata": [
+    "2"
+  ],
+  "000 world": [
+    "1"
+  ],
+  "037 already": [
+    "1"
+  ],
+  "07 18": [
+    "2"
+  ],
+  "1 0": [
+    "4"
+  ],
+  "1 1": [
+    "4"
+  ],
+  "1 17": [
+    "4"
+  ],
+  "1 30": [
+    "4"
+  ],
+  "1 34": [
+    "4"
+  ],
+  "1 5": [
+    "4"
+  ],
+  "1 8": [
+    "4"
+  ],
+  "1 bs4": [
+    "4"
+  ],
+  "1 create": [
+    "5"
+  ],
+  "1 get": [
+    "5"
+  ],
+  "1 indicates": [
+    "5"
+  ],
+  "1 install": [
+    "3",
+    "4"
+  ],
+  "1 it": [
+    "5"
+  ],
+  "1 langchain": [
+    "4"
+  ],
+  "1 pyspark": [
+    "4"
+  ],
+  "1 using": [
+    "3"
+  ],
+  "10 000": [
+    "1"
+  ],
+  "10 hours": [
+    "1"
+  ],
+  "100 online": [
+    "1"
+  ],
+  "11 3": [
+    "4"
+  ],
+  "11 assignments": [
+    "1"
+  ],
+  "130 learners": [
+    "1"
+  ],
+  "14 2024": [
+    "5"
+  ],
+  "14 reviews": [
+    "1"
+  ],
+  "15 llm": [
+    "1"
+  ],
+  "15 real": [
+    "1"
+  ],
+  "17 2024": [
+    "4"
+  ],
+  "17 we": [
+    "4"
+  ],
+  "18 system_fingerprint": [
+    "2"
+  ],
+  "2 0": [
+    "4"
+  ],
+  "2 037": [
+    "1"
+  ],
+  "2 1": [
+    "4"
+  ],
+  "2 2": [
+    "4"
+  ],
+  "2 3": [
+    "4"
+  ],
+  "2 5": [
+    "2"
+  ],
+  "2 9": [
+    "4"
+  ],
+  "2 adnan": [
+    "4"
+  ],
+  "2 boto3": [
+    "4"
+  ],
+  "2 create": [
+    "4"
+  ],
+  "2 how": [
+    "5"
+  ],
+  "2 install": [
+    "3",
+    "5"
+  ],
+  "2 jupyterlab": [
+    "4"
+  ],
+  "2 keras": [
+    "4"
+  ],
+  "2 min": [
+    "4"
+  ],
+  "2 part": [
+    "5"
+  ],
+  "2 pydantic": [
+    "2"
+  ],
+  "2 using": [
+    "3"
+  ],
+  "2 weeks": [
+    "1"
+  ],
+  "2 years": [
+    "5"
+  ],
+  "2 you": [
+    "1"
+  ],
+  "20 output_tokens": [
+    "2"
+  ],
+  "20 total_tokens": [
+    "2"
+  ],
+  "2016 2025": [
+    "5"
+  ],
+  "2018 to": [
+    "1"
+  ],
+  "2020 i": [
+    "1"
+  ],
+  "2021 when": [
+    "1"
+  ],
+  "2023 more": [
+    "5"
+  ],
+  "2024 07": [
+    "2"
+  ],
+  "2024 4": [
+    "5"
+  ],
+  "2024 before": [
+    "4"
+  ],
+  "2024 edited": [
+    "5"
+  ],
+  "2025 coursera": [
+    "1"
+  ],
+  "2025 langchain": [
+    "2",
+    "3"
+  ],
+  "2025 visit": [
+    "2",
+    "3"
+  ],
+  "21 24": [
+    "5"
+  ],
+  "220 130": [
+    "1"
+  ],
+  "23 completion_tokens_details": [
+    "2"
+  ],
+  "23 input_token_details": [
+    "2"
+  ],
+  "24 langchain": [
+    "5"
+  ],
+  "25 modules": [
+    "1"
+  ],
+  "27 2024": [
+    "5"
+  ],
+  "3 0": [
+    "4"
+  ],
+  "3 1": [
+    "4"
+  ],
+  "3 11": [
+    "4"
+  ],
+  "3 400": [
+    "1"
+  ],
+  "3 5": [
+    "1",
+    "4"
+  ],
+  "3 clone": [
+    "4"
+  ],
+  "3 conda": [
+    "4"
+  ],
+  "3 create": [
+    "5"
+  ],
+  "3 google": [
+    "4"
+  ],
+  "3 introduction": [
+    "2"
+  ],
+  "3 langchain": [
+    "4"
+  ],
+  "3 once": [
+    "4"
+  ],
+  "3 parts": [
+    "5"
+  ],
+  "3 prompt_tokens": [
+    "2"
+  ],
+  "3 total_tokens": [
+    "2"
+  ],
+  "3 use": [
+    "3"
+  ],
+  "3 using": [
+    "3"
+  ],
+  "3 v0": [
+    "2"
+  ],
+  "3 welcome": [
+    "3"
+  ],
+  "3 works": [
+    "4"
+  ],
+  "30 5": [
+    "4"
+  ],
+  "31 2023": [
+    "5"
+  ],
+  "32654a56 627c": [
+    "2"
+  ],
+  "34 99": [
+    "4"
+  ],
+  "4 1": [
+    "4"
+  ],
+  "4 create": [
+    "5"
+  ],
+  "4 get": [
+    "5"
+  ],
+  "4 start": [
+    "4"
+  ],
+  "4 use": [
+    "3"
+  ],
+  "400 global": [
+    "1"
+  ],
+  "40e1 a141": [
+    "2"
+  ],
+  "4o mini": [
+    "2"
+  ],
+  "5 1": [
+    "4"
+  ],
+  "5 14": [
+    "1"
+  ],
+  "5 as": [
+    "3"
+  ],
+  "5 flash": [
+    "2"
+  ],
+  "5 followers": [
+    "4"
+  ],
+  "5 langchain": [
+    "4"
+  ],
+  "5 openai_api_key": [
+    "5"
+  ],
+  "5 pandas": [
+    "4"
+  ],
+  "5 pymysql": [
+    "4"
+  ],
+  "5 to": [
+    "5"
+  ],
+  "59 langchain": [
+    "4"
+  ],
+  "6 2": [
+    "4"
+  ],
+  "627c 40e1": [
+    "2"
+  ],
+  "7 as": [
+    "5"
+  ],
+  "7 following": [
+    "4"
+  ],
+  "8 langchain": [
+    "4"
+  ],
+  "8 spylon": [
+    "4"
+  ],
+  "8888 with": [
+    "4"
+  ],
+  "9 24": [
+    "5"
+  ],
+  "9 9": [
+    "4"
+  ],
+  "9 flask": [
+    "4"
+  ],
+  "971 courses": [
+    "1"
+  ],
+  "99 langchain": [
+    "4"
+  ],
+  "__main__ skill": [
+    "5"
+  ],
+  "__name__ __main__": [
+    "5"
+  ],
+  "a basic": [
+    "1"
+  ],
+  "a blocker": [
+    "3"
+  ],
+  "a brief": [
+    "5"
+  ],
+  "a career": [
+    "1"
+  ],
+  "a chat": [
+    "2"
+  ],
+  "a chatpromptvalue": [
+    "2"
+  ],
+  "a combination": [
+    "2",
+    "3"
+  ],
+  "a concept": [
+    "2"
+  ],
+  "a conda": [
+    "4"
+  ],
+  "a degree": [
+    "1"
+  ],
+  "a dependency": [
+    "3"
+  ],
+  "a development": [
+    "3"
+  ],
+  "a dictionary": [
+    "2"
+  ],
+  "a different": [
+    "5"
+  ],
+  "a diverse": [
+    "1"
+  ],
+  "a env": [
+    "5"
+  ],
+  "a few": [
+    "4"
+  ],
+  "a file": [
+    "5"
+  ],
+  "a foundational": [
+    "1"
+  ],
+  "a fully": [
+    "5"
+  ],
+  "a function": [
+    "5"
+  ],
+  "a git": [
+    "4"
+  ],
+  "a good": [
+    "5"
+  ],
+  "a great": [
+    "2"
+  ],
+  "a high": [
+    "2"
+  ],
+  "a jupyter": [
+    "2",
+    "3"
+  ],
+  "a language": [
+    "2"
+  ],
+  "a learning": [
+    "1"
+  ],
+  "a library": [
+    "3"
+  ],
+  "a list": [
+    "2",
+    "4"
+  ],
+  "a long": [
+    "5"
+  ],
+  "a look": [
+    "2"
+  ],
+  "a lot": [
+    "2"
+  ],
+  "a main": [
+    "5"
+  ],
+  "a new": [
+    "3",
+    "4",
+    "5"
+  ],
+  "a notebook": [
+    "2"
+  ],
+  "a partner": [
+    "1"
+  ],
+  "a pr": [
+    "3"
+  ],
+  "a proficient": [
+    "2"
+  ],
+  "a project": [
+    "3",
+    "5"
+  ],
+  "a prompt": [
+    "2",
+    "5"
+  ],
+  "a rag": [
+    "5"
+  ],
+  "a relatively": [
+    "2"
+  ],
+  "a response": [
+    "4"
+  ],
+  "a setting": [
+    "5"
+  ],
+  "a shareable": [
+    "1"
+  ],
+  "a short": [
+    "4"
+  ],
+  "a simple": [
+    "2",
+    "5"
+  ],
+  "a single": [
+    "2"
+  ],
+  "a smarter": [
+    "1"
+  ],
+  "a space": [
+    "5"
+  ],
+  "a specific": [
+    "2"
+  ],
+  "a standard": [
+    "2"
+  ],
+  "a step": [
+    "5"
+  ],
+  "a subject": [
+    "1"
+  ],
+  "a subset": [
+    "3"
+  ],
+  "a support": [
+    "1"
+  ],
+  "a system": [
+    "2"
+  ],
+  "a tailored": [
+    "5"
+  ],
+  "a template": [
+    "2"
+  ],
+  "a topic": [
+    "1"
+  ],
+  "a tutorial": [
+    "5"
+  ],
+  "a unique": [
+    "1"
+  ],
+  "a unit": [
+    "3"
+  ],
+  "a user": [
+    "2"
+  ],
+  "a variable": [
+    "5"
+  ],
+  "a vector": [
+    "5"
+  ],
+  "a very": [
+    "5"
+  ],
+  "a virtual": [
+    "5"
+  ],
+  "a week": [
+    "1"
+  ],
+  "a weekly": [
+    "5"
+  ],
+  "a youtube": [
+    "1"
+  ],
+  "a141 ad9350bbfd3e": [
+    "2"
+  ],
+  "able to": [
+    "1",
+    "2",
+    "3"
+  ],
+  "about ai": [
+    "5"
+  ],
+  "about being": [
+    "1"
+  ],
+  "about careers": [
+    "4"
+  ],
+  "about contact": [
+    "5"
+  ],
+  "about coursera": [
+    "1"
+  ],
+  "about optional": [
+    "3"
+  ],
+  "about outcomes": [
+    "1"
+  ],
+  "about the": [
+    "5"
+  ],
+  "about what": [
+    "1"
+  ],
+  "above make": [
+    "2"
+  ],
+  "abstractions as": [
+    "3"
+  ],
+  "abstractions that": [
+    "3"
+  ],
+  "abuse dev": [
+    "5"
+  ],
+  "accepted_prediction_tokens 0": [
+    "2"
+  ],
+  "accepts skill": [
+    "5"
+  ],
+  "accepts the": [
+    "5"
+  ],
+  "access than": [
+    "3"
+  ],
+  "access the": [
+    "2"
+  ],
+  "access to": [
+    "1"
+  ],
+  "accessibility contact": [
+    "1"
+  ],
+  "accessible at": [
+    "4"
+  ],
+  "account 0": [
+    "5"
+  ],
+  "across separate": [
+    "3"
+  ],
+  "activate gen_ai_envs": [
+    "4"
+  ],
+  "activate it": [
+    "4"
+  ],
+  "activate script": [
+    "5"
+  ],
+  "activate the": [
+    "5"
+  ],
+  "activated create": [
+    "5"
+  ],
+  "ad9350bbfd3e 0": [
+    "2"
+  ],
+  "add a": [
+    "3"
+  ],
+  "add new": [
+    "3"
+  ],
+  "add optional": [
+    "3"
+  ],
+  "add the": [
+    "3"
+  ],
+  "add this": [
+    "1"
+  ],
+  "add to": [
+    "1",
+    "5"
+  ],
+  "added in": [
+    "5"
+  ],
+  "adding a": [
+    "2",
+    "3"
+  ],
+  "addition to": [
+    "2"
+  ],
+  "addition you": [
+    "3"
+  ],
+  "additional dependencies": [
+    "4"
+  ],
+  "additional structure": [
+    "2"
+  ],
+  "additional_kwargs refusal": [
+    "2"
+  ],
+  "additional_kwargs response_metadata": [
+    "2"
+  ],
+  "additionally also": [
+    "5"
+  ],
+  "additionally you": [
+    "3"
+  ],
+  "adnan rahin": [
+    "4"
+  ],
+  "adnanrahin genai": [
+    "4"
+  ],
+  "advance your": [
+    "1"
+  ],
+  "affecting the": [
+    "3"
+  ],
+  "affiliates modern": [
+    "1"
+  ],
+  "after an": [
+    "1"
+  ],
+  "after confirming": [
+    "4"
+  ],
+  "after reading": [
+    "2"
+  ],
+  "after testing": [
+    "4"
+  ],
+  "after the": [
+    "5"
+  ],
+  "after you": [
+    "2"
+  ],
+  "agent the": [
+    "2"
+  ],
+  "agents and": [
+    "1",
+    "3"
+  ],
+  "agents text": [
+    "1"
+  ],
+  "ai agents": [
+    "1"
+  ],
+  "ai build": [
+    "1"
+  ],
+  "ai cybersecurity": [
+    "1"
+  ],
+  "ai development": [
+    "1"
+  ],
+  "ai education": [
+    "5"
+  ],
+  "ai engineer": [
+    "2"
+  ],
+  "ai enthusiasts": [
+    "1"
+  ],
+  "ai exploring": [
+    "5"
+  ],
+  "ai genai": [
+    "1"
+  ],
+  "ai generativelanguage": [
+    "4"
+  ],
+  "ai is": [
+    "5"
+  ],
+  "ai llm": [
+    "5"
+  ],
+  "ai model": [
+    "5"
+  ],
+  "ai official": [
+    "5"
+  ],
+  "ai part": [
+    "4"
+  ],
+  "ai powered": [
+    "1",
+    "5"
+  ],
+  "ai related": [
+    "5"
+  ],
+  "ai skills": [
+    "1"
+  ],
+  "ai studio": [
+    "5"
+  ],
+  "ai tools": [
+    "4"
+  ],
+  "aid available": [
+    "1"
+  ],
+  "aimessage content": [
+    "2"
+  ],
+  "algolia is": [
+    "5"
+  ],
+  "algolia log": [
+    "5"
+  ],
+  "algolia official": [
+    "5"
+  ],
+  "algorithms shape": [
+    "5"
+  ],
+  "all groups": [
+    "3"
+  ],
+  "all included": [
+    "1"
+  ],
+  "all of": [
+    "4"
+  ],
+  "all rights": [
+    "1"
+  ],
+  "all skill": [
+    "5"
+  ],
+  "all the": [
+    "4",
+    "5"
+  ],
+  "allow llm": [
+    "5"
+  ],
+  "allow unix": [
+    "3"
+  ],
+  "allowed to": [
+    "5"
+  ],
+  "allows me": [
+    "1"
+  ],
+  "allows us": [
+    "2"
+  ],
+  "along with": [
+    "2",
+    "5"
+  ],
+  "alpha docs": [
+    "2",
+    "3"
+  ],
+  "already enrolled": [
+    "1"
+  ],
+  "also be": [
+    "1"
+  ],
+  "also code": [
+    "3"
+  ],
+  "also create": [
+    "4"
+  ],
+  "also integration": [
+    "3"
+  ],
+  "also mention": [
+    "5"
+  ],
+  "also need": [
+    "5"
+  ],
+  "also supports": [
+    "2"
+  ],
+  "alternative first": [
+    "3"
+  ],
+  "alternative uv": [
+    "3"
+  ],
+  "amazing experience": [
+    "1"
+  ],
+  "amount of": [
+    "5"
+  ],
+  "an amazing": [
+    "1"
+  ],
+  "an app": [
+    "5"
+  ],
+  "an exciting": [
+    "1"
+  ],
+  "an instance": [
+    "5"
+  ],
+  "an interactive": [
+    "2",
+    "4"
+  ],
+  "an interview": [
+    "1"
+  ],
+  "an llm": [
+    "2"
+  ],
+  "an online": [
+    "1"
+  ],
+  "an optional": [
+    "3"
+  ],
+  "analysis and": [
+    "1"
+  ],
+  "analysis seneca": [
+    "5"
+  ],
+  "analysis tools": [
+    "1"
+  ],
+  "analyst certificate": [
+    "1"
+  ],
+  "analytics certificate": [
+    "1"
+  ],
+  "analytics digital": [
+    "1"
+  ],
+  "analyze and": [
+    "1"
+  ],
+  "analyzing python": [
+    "4"
+  ],
+  "analyzing the": [
+    "5"
+  ],
+  "and 1": [
+    "5"
+  ],
+  "and a": [
+    "1"
+  ],
+  "and add": [
+    "3"
+  ],
+  "and ai": [
+    "1"
+  ],
+  "and an": [
+    "2"
+  ],
+  "and analysis": [
+    "5"
+  ],
+  "and application": [
+    "2"
+  ],
+  "and can": [
+    "2"
+  ],
+  "and chain": [
+    "1"
+  ],
+  "and chatgpt": [
+    "1"
+  ],
+  "and check": [
+    "3"
+  ],
+  "and code": [
+    "3"
+  ],
+  "and content": [
+    "2"
+  ],
+  "and coverage": [
+    "3"
+  ],
+  "and create": [
+    "5"
+  ],
+  "and csv": [
+    "1"
+  ],
+  "and customer": [
+    "1"
+  ],
+  "and data": [
+    "1"
+  ],
+  "and deepen": [
+    "1"
+  ],
+  "and don": [
+    "3"
+  ],
+  "and expand": [
+    "5"
+  ],
+  "and experience": [
+    "5"
+  ],
+  "and forges": [
+    "5"
+  ],
+  "and generate": [
+    "2"
+  ],
+  "and getting": [
+    "5"
+  ],
+  "and gradually": [
+    "1"
+  ],
+  "and hold": [
+    "2"
+  ],
+  "and how": [
+    "2"
+  ],
+  "and in": [
+    "1"
+  ],
+  "and install": [
+    "4"
+  ],
+  "and installing": [
+    "4"
+  ],
+  "and job": [
+    "1"
+  ],
+  "and keep": [
+    "5"
+  ],
+  "and l": [
+    "1"
+  ],
+  "and langchain": [
+    "3"
+  ],
+  "and langgraph": [
+    "1"
+  ],
+  "and large": [
+    "1"
+  ],
+  "and learn": [
+    "1"
+  ],
+  "and linting": [
+    "3"
+  ],
+  "and llama": [
+    "1"
+  ],
+  "and llamaindex": [
+    "5"
+  ],
+  "and llm": [
+    "5"
+  ],
+  "and manage": [
+    "5"
+  ],
+  "and mood": [
+    "1"
+  ],
+  "and more": [
+    "1",
+    "2"
+  ],
+  "and mypy": [
+    "3"
+  ],
+  "and no": [
+    "1",
+    "2",
+    "3"
+  ],
+  "and now": [
+    "5"
+  ],
+  "and openai": [
+    "5"
+  ],
+  "and other": [
+    "2",
+    "3",
+    "5"
+  ],
+  "and partner": [
+    "3"
+  ],
+  "and platform": [
+    "5"
+  ],
+  "and practical": [
+    "1"
+  ],
+  "and prints": [
+    "5"
+  ],
+  "and prompt": [
+    "2",
+    "5"
+  ],
+  "and retrieval": [
+    "3"
+  ],
+  "and return": [
+    "2",
+    "5"
+  ],
+  "and rhythm": [
+    "1"
+  ],
+  "and ruby": [
+    "5"
+  ],
+  "and run": [
+    "3"
+  ],
+  "and skills": [
+    "1"
+  ],
+  "and sql": [
+    "1"
+  ],
+  "and still": [
+    "3"
+  ],
+  "and store": [
+    "5"
+  ],
+  "and stored": [
+    "5"
+  ],
+  "and streaming": [
+    "2"
+  ],
+  "and streamline": [
+    "1"
+  ],
+  "and templates": [
+    "3"
+  ],
+  "and that": [
+    "3"
+  ],
+  "and the": [
+    "2",
+    "4",
+    "5"
+  ],
+  "and they": [
+    "3"
+  ],
+  "and token": [
+    "2"
+  ],
+  "and tracing": [
+    "2"
+  ],
+  "and transforms": [
+    "2"
+  ],
+  "and try": [
+    "5"
+  ],
+  "and tv": [
+    "5"
+  ],
+  "and uv": [
+    "3"
+  ],
+  "and want": [
+    "3"
+  ],
+  "and weaknesses": [
+    "1"
+  ],
+  "and will": [
+    "3"
+  ],
+  "and youtube": [
+    "5"
+  ],
+  "annoying if": [
+    "3"
+  ],
+  "another language": [
+    "2"
+  ],
+  "answering systems": [
+    "1"
+  ],
+  "any additional": [
+    "4"
+  ],
+  "any level": [
+    "5"
+  ],
+  "any other": [
+    "2"
+  ],
+  "any questions": [
+    "5"
+  ],
+  "any side": [
+    "3"
+  ],
+  "any unit": [
+    "3"
+  ],
+  "anyone with": [
+    "5"
+  ],
+  "api key": [
+    "2"
+  ],
+  "api keys": [
+    "5"
+  ],
+  "api reference": [
+    "2",
+    "3"
+  ],
+  "apis if": [
+    "3"
+  ],
+  "app py": [
+    "5"
+  ],
+  "app store": [
+    "1"
+  ],
+  "application check": [
+    "5"
+  ],
+  "application development": [
+    "1"
+  ],
+  "application in": [
+    "5"
+  ],
+  "application it": [
+    "2"
+  ],
+  "application large": [
+    "1"
+  ],
+  "application logic": [
+    "2"
+  ],
+  "application using": [
+    "2"
+  ],
+  "application will": [
+    "2"
+  ],
+  "application with": [
+    "2"
+  ],
+  "application you": [
+    "2"
+  ],
+  "applications get": [
+    "2"
+  ],
+  "applications in": [
+    "1"
+  ],
+  "applications including": [
+    "1"
+  ],
+  "applications it": [
+    "1"
+  ],
+  "applications let": [
+    "5"
+  ],
+  "applications like": [
+    "1"
+  ],
+  "applications partner": [
+    "3"
+  ],
+  "applications that": [
+    "1"
+  ],
+  "applications with": [
+    "1"
+  ],
+  "applications you": [
+    "2"
+  ],
+  "applied the": [
+    "1"
+  ],
+  "apps and": [
+    "1"
+  ],
+  "apps with": [
+    "1",
+    "5"
+  ],
+  "aptitude test": [
+    "1"
+  ],
+  "architecture of": [
+    "3"
+  ],
+  "are 25": [
+    "1"
+  ],
+  "are a": [
+    "2",
+    "5"
+  ],
+  "are adding": [
+    "3"
+  ],
+  "are also": [
+    "3"
+  ],
+  "are building": [
+    "5"
+  ],
+  "are chained": [
+    "5"
+  ],
+  "are equivalent": [
+    "2"
+  ],
+  "are experimental": [
+    "3"
+  ],
+  "are formatted": [
+    "3"
+  ],
+  "are independently": [
+    "3"
+  ],
+  "are installed": [
+    "5"
+  ],
+  "are instances": [
+    "2"
+  ],
+  "are mastering": [
+    "1"
+  ],
+  "are not": [
+    "3"
+  ],
+  "are novel": [
+    "3"
+  ],
+  "are only": [
+    "3"
+  ],
+  "are optional": [
+    "3"
+  ],
+  "are passing": [
+    "2"
+  ],
+  "are perhaps": [
+    "2"
+  ],
+  "are properly": [
+    "3"
+  ],
+  "are required": [
+    "4"
+  ],
+  "are run": [
+    "3"
+  ],
+  "are runnables": [
+    "2"
+  ],
+  "are specified": [
+    "3"
+  ],
+  "are the": [
+    "5"
+  ],
+  "are unaware": [
+    "5"
+  ],
+  "are your": [
+    "4"
+  ],
+  "areas which": [
+    "5"
+  ],
+  "around practical": [
+    "1"
+  ],
+  "around with": [
+    "2"
+  ],
+  "articles directory": [
+    "1"
+  ],
+  "artificial intelligence": [
+    "1"
+  ],
+  "as a": [
+    "3",
+    "5"
+  ],
+  "as compared": [
+    "3"
+  ],
+  "as editable": [
+    "3"
+  ],
+  "as follows": [
+    "5"
+  ],
+  "as implementing": [
+    "1"
+  ],
+  "as input": [
+    "2",
+    "5"
+  ],
+  "as it": [
+    "4",
+    "5"
+  ],
+  "as logic": [
+    "3"
+  ],
+  "as much": [
+    "5"
+  ],
+  "as output": [
+    "2"
+  ],
+  "as per": [
+    "5"
+  ],
+  "as prerequisites": [
+    "5"
+  ],
+  "as setting": [
+    "4"
+  ],
+  "as temperature": [
+    "2"
+  ],
+  "as the": [
+    "3"
+  ],
+  "as these": [
+    "2"
+  ],
+  "as tool": [
+    "2"
+  ],
+  "as we": [
+    "4"
+  ],
+  "as well": [
+    "3"
+  ],
+  "as you": [
+    "1"
+  ],
+  "asked questions": [
+    "1"
+  ],
+  "assessments 11": [
+    "1"
+  ],
+  "assignments taught": [
+    "1"
+  ],
+  "assist with": [
+    "2"
+  ],
+  "assume that": [
+    "3"
+  ],
+  "assumptions and": [
+    "1"
+  ],
+  "async and": [
+    "2"
+  ],
+  "at 10": [
+    "1"
+  ],
+  "at dev": [
+    "5"
+  ],
+  "at http": [
+    "4"
+  ],
+  "at my": [
+    "1"
+  ],
+  "at the": [
+    "2"
+  ],
+  "at top": [
+    "1"
+  ],
+  "at work": [
+    "1"
+  ],
+  "at your": [
+    "1"
+  ],
+  "attempts to": [
+    "3"
+  ],
+  "audio 0": [
+    "2"
+  ],
+  "audio_tokens 0": [
+    "2"
+  ],
+  "auto disable": [
+    "3"
+  ],
+  "automated marketing": [
+    "1"
+  ],
+  "automatically run": [
+    "3"
+  ],
+  "available developing": [
+    "3"
+  ],
+  "available learn": [
+    "1"
+  ],
+  "away this": [
+    "4"
+  ],
+  "b corporation": [
+    "1"
+  ],
+  "back to": [
+    "5"
+  ],
+  "badge this": [
+    "5"
+  ],
+  "balance you": [
+    "5"
+  ],
+  "base interfaces": [
+    "3"
+  ],
+  "based on": [
+    "5"
+  ],
+  "basic operations": [
+    "5"
+  ],
+  "basic understanding": [
+    "1"
+  ],
+  "basically a": [
+    "5"
+  ],
+  "be a": [
+    "3"
+  ],
+  "be able": [
+    "1",
+    "2",
+    "3"
+  ],
+  "be accessible": [
+    "4"
+  ],
+  "be an": [
+    "3"
+  ],
+  "be annoying": [
+    "3"
+  ],
+  "be as": [
+    "5"
+  ],
+  "be built": [
+    "2"
+  ],
+  "be creative": [
+    "5"
+  ],
+  "be deprecated": [
+    "2",
+    "3"
+  ],
+  "be done": [
+    "5"
+  ],
+  "be enrolled": [
+    "1"
+  ],
+  "be happy": [
+    "5"
+  ],
+  "be imported": [
+    "3"
+  ],
+  "be possible": [
+    "3"
+  ],
+  "be under": [
+    "5"
+  ],
+  "be very": [
+    "3"
+  ],
+  "because chat": [
+    "2"
+  ],
+  "become a": [
+    "1",
+    "2"
+  ],
+  "becomes crucial": [
+    "2"
+  ],
+  "been an": [
+    "1"
+  ],
+  "been modified": [
+    "3"
+  ],
+  "before diving": [
+    "4"
+  ],
+  "before explaining": [
+    "5"
+  ],
+  "before submitting": [
+    "3"
+  ],
+  "begin coding": [
+    "4"
+  ],
+  "beginner to": [
+    "5"
+  ],
+  "beginners 2": [
+    "5"
+  ],
+  "beginners dev": [
+    "5"
+  ],
+  "beginners langchain": [
+    "5"
+  ],
+  "being better": [
+    "1"
+  ],
+  "being tested": [
+    "3"
+  ],
+  "below at": [
+    "5"
+  ],
+  "below different": [
+    "3"
+  ],
+  "below if": [
+    "3"
+  ],
+  "best places": [
+    "1"
+  ],
+  "best way": [
+    "2"
+  ],
+  "beta testers": [
+    "1"
+  ],
+  "better at": [
+    "1"
+  ],
+  "better llm": [
+    "5"
+  ],
+  "better understand": [
+    "2"
+  ],
+  "between 0": [
+    "5"
+  ],
+  "bi data": [
+    "1"
+  ],
+  "bi project": [
+    "1"
+  ],
+  "bin directory": [
+    "5"
+  ],
+  "binary 2": [
+    "4"
+  ],
+  "blocker for": [
+    "3"
+  ],
+  "blocks with": [
+    "2"
+  ],
+  "blog busycaesar": [
+    "5"
+  ],
+  "blog more": [
+    "1"
+  ],
+  "blog on": [
+    "5"
+  ],
+  "blog privacy": [
+    "4"
+  ],
+  "blog the": [
+    "1"
+  ],
+  "blog youtube": [
+    "2",
+    "3"
+  ],
+  "blogger dev": [
+    "5"
+  ],
+  "blogs and": [
+    "5"
+  ],
+  "boost cover": [
+    "5"
+  ],
+  "bot and": [
+    "1"
+  ],
+  "both text": [
+    "2"
+  ],
+  "boto3 1": [
+    "4"
+  ],
+  "branch as": [
+    "3"
+  ],
+  "branch using": [
+    "3"
+  ],
+  "break while": [
+    "4"
+  ],
+  "brew install": [
+    "3"
+  ],
+  "brief note": [
+    "5"
+  ],
+  "browse computer": [
+    "1"
+  ],
+  "bs4 0": [
+    "4"
+  ],
+  "build 15": [
+    "1"
+  ],
+  "build a": [
+    "2",
+    "5"
+  ],
+  "build apps": [
+    "5"
+  ],
+  "build llm": [
+    "1"
+  ],
+  "build with": [
+    "2"
+  ],
+  "build your": [
+    "1"
+  ],
+  "builder badge": [
+    "5"
+  ],
+  "building a": [
+    "5"
+  ],
+  "building generative": [
+    "1"
+  ],
+  "building language": [
+    "1"
+  ],
+  "building sophisticated": [
+    "1"
+  ],
+  "built a": [
+    "1"
+  ],
+  "built on": [
+    "5"
+  ],
+  "built with": [
+    "2"
+  ],
+  "business computer": [
+    "1"
+  ],
+  "business logos": [
+    "1"
+  ],
+  "business upskill": [
+    "1"
+  ],
+  "businesses for": [
+    "1"
+  ],
+  "busycaesar exploring": [
+    "5"
+  ],
+  "busycaesar how": [
+    "5"
+  ],
+  "but development": [
+    "3"
+  ],
+  "by adnan": [
+    "4"
+  ],
+  "by algolia": [
+    "5"
+  ],
+  "by analyzing": [
+    "5"
+  ],
+  "by executing": [
+    "5"
+  ],
+  "by itself": [
+    "2"
+  ],
+  "by llm": [
+    "5"
+  ],
+  "by packt": [
+    "1"
+  ],
+  "by passing": [
+    "5"
+  ],
+  "by running": [
+    "4"
+  ],
+  "by step": [
+    "5"
+  ],
+  "by the": [
+    "1",
+    "5"
+  ],
+  "by understanding": [
+    "1"
+  ],
+  "c iao": [
+    "2"
+  ],
+  "cache dir": [
+    "3"
+  ],
+  "cache_read 0": [
+    "2"
+  ],
+  "cached_tokens 0": [
+    "2"
+  ],
+  "call after": [
+    "2"
+  ],
+  "call it": [
+    "5"
+  ],
+  "call plus": [
+    "2"
+  ],
+  "call the": [
+    "2"
+  ],
+  "called by": [
+    "5"
+  ],
+  "called gen_ai_envs": [
+    "4"
+  ],
+  "calls and": [
+    "2"
+  ],
+  "calls as": [
+    "2"
+  ],
+  "calls the": [
+    "5"
+  ],
+  "calls to": [
+    "3"
+  ],
+  "campus become": [
+    "1"
+  ],
+  "can be": [
+    "2",
+    "3",
+    "5"
+  ],
+  "can contain": [
+    "2"
+  ],
+  "can contribute": [
+    "5"
+  ],
+  "can do": [
+    "5"
+  ],
+  "can find": [
+    "2"
+  ],
+  "can follow": [
+    "4"
+  ],
+  "can help": [
+    "3",
+    "5"
+  ],
+  "can install": [
+    "3",
+    "4"
+  ],
+  "can invoke": [
+    "2"
+  ],
+  "can learn": [
+    "1"
+  ],
+  "can leverage": [
+    "5"
+  ],
+  "can pass": [
+    "2"
+  ],
+  "can play": [
+    "2"
+  ],
+  "can run": [
+    "3"
+  ],
+  "can see": [
+    "2"
+  ],
+  "can set": [
+    "2"
+  ],
+  "can simply": [
+    "3"
+  ],
+  "can skip": [
+    "3"
+  ],
+  "can start": [
+    "4"
+  ],
+  "can turn": [
+    "5"
+  ],
+  "can update": [
+    "5"
+  ],
+  "can use": [
+    "2"
+  ],
+  "cancel respond": [
+    "4"
+  ],
+  "capgemini p": [
+    "1"
+  ],
+  "career aptitude": [
+    "1"
+  ],
+  "career certificate": [
+    "1"
+  ],
+  "career felipe": [
+    "1"
+  ],
+  "career home": [
+    "5"
+  ],
+  "career in": [
+    "1"
+  ],
+  "career resources": [
+    "1"
+  ],
+  "career with": [
+    "1"
+  ],
+  "careers business": [
+    "1"
+  ],
+  "careers catalog": [
+    "1"
+  ],
+  "careers press": [
+    "4"
+  ],
+  "case you": [
+    "5"
+  ],
+  "cases you": [
+    "3"
+  ],
+  "catalog coursera": [
+    "1"
+  ],
+  "cd genai": [
+    "4"
+  ],
+  "cd libs": [
+    "3"
+  ],
+  "center financial": [
+    "1"
+  ],
+  "certain parts": [
+    "3"
+  ],
+  "certificate add": [
+    "1"
+  ],
+  "certificate google": [
+    "1"
+  ],
+  "certificate ibm": [
+    "1"
+  ],
+  "certificate industries": [
+    "1"
+  ],
+  "certificate machine": [
+    "1"
+  ],
+  "certificate microsoft": [
+    "1"
+  ],
+  "certificate programs": [
+    "1"
+  ],
+  "certificate there": [
+    "1"
+  ],
+  "certificate ui": [
+    "1"
+  ],
+  "certificates degrees": [
+    "1"
+  ],
+  "certificates mastertrack": [
+    "1"
+  ],
+  "certificates programs": [
+    "1"
+  ],
+  "certification signs": [
+    "1"
+  ],
+  "certifications preparing": [
+    "1"
+  ],
+  "certified b": [
+    "1"
+  ],
+  "chain and": [
+    "5"
+  ],
+  "chain concepts": [
+    "1"
+  ],
+  "chain generated_response": [
+    "5"
+  ],
+  "chain invoke": [
+    "5"
+  ],
+  "chain is": [
+    "5"
+  ],
+  "chain or": [
+    "2"
+  ],
+  "chain prompt_template": [
+    "5"
+  ],
+  "chain the": [
+    "5"
+  ],
+  "chained together": [
+    "5"
+  ],
+  "chains agents": [
+    "3"
+  ],
+  "chains langchain": [
+    "3"
+  ],
+  "chains upgrading": [
+    "2"
+  ],
+  "chaitanya a": [
+    "1"
+  ],
+  "challenge assumptions": [
+    "1"
+  ],
+  "changed prevent": [
+    "3"
+  ],
+  "changes are": [
+    "3"
+  ],
+  "changes meet": [
+    "3"
+  ],
+  "changes to": [
+    "3"
+  ],
+  "channel to": [
+    "5"
+  ],
+  "chat model": [
+    "2"
+  ],
+  "chat models": [
+    "2"
+  ],
+  "chat_models import": [
+    "2"
+  ],
+  "chatbot invoice": [
+    "1"
+  ],
+  "chatbots data": [
+    "1"
+  ],
+  "chatgpt with": [
+    "1"
+  ],
+  "chatmodels are": [
+    "2"
+  ],
+  "chatmodels receive": [
+    "2"
+  ],
+  "chatprompttemplate from_messages": [
+    "2"
+  ],
+  "chatprompttemplate note": [
+    "2"
+  ],
+  "chatprompttemplate supports": [
+    "2"
+  ],
+  "chatprompttemplate system_template": [
+    "2"
+  ],
+  "chatpromptvalue messages": [
+    "2"
+  ],
+  "chatpromptvalue that": [
+    "2"
+  ],
+  "check also": [
+    "3"
+  ],
+  "check fix": [
+    "3"
+  ],
+  "check git": [
+    "3"
+  ],
+  "check in": [
+    "3"
+  ],
+  "check out": [
+    "2",
+    "5"
+  ],
+  "check the": [
+    "3"
+  ],
+  "check uv": [
+    "3"
+  ],
+  "checkout my": [
+    "5"
+  ],
+  "choco install": [
+    "3"
+  ],
+  "chocolatey choco": [
+    "3"
+  ],
+  "choose coursera": [
+    "1"
+  ],
+  "chroma 0": [
+    "4"
+  ],
+  "ci system": [
+    "3"
+  ],
+  "ciao additional_kwargs": [
+    "2"
+  ],
+  "ciao tip": [
+    "2"
+  ],
+  "class courses": [
+    "1"
+  ],
+  "class universities": [
+    "1"
+  ],
+  "click to": [
+    "4"
+  ],
+  "clone https": [
+    "4"
+  ],
+  "clone the": [
+    "4"
+  ],
+  "coach a": [
+    "1"
+  ],
+  "code course": [
+    "1"
+  ],
+  "code coverage": [
+    "3"
+  ],
+  "code for": [
+    "3"
+  ],
+  "code formatting": [
+    "3"
+  ],
+  "code getting": [
+    "3"
+  ],
+  "code ideally": [
+    "3"
+  ],
+  "code of": [
+    "5"
+  ],
+  "code please": [
+    "3"
+  ],
+  "code using": [
+    "3"
+  ],
+  "code without": [
+    "3"
+  ],
+  "codebase linting": [
+    "3"
+  ],
+  "codebase we": [
+    "3"
+  ],
+  "codesetup open": [
+    "3"
+  ],
+  "coding forem": [
+    "5"
+  ],
+  "coding jupyter": [
+    "4"
+  ],
+  "cognitive architecture": [
+    "3"
+  ],
+  "colab open": [
+    "2"
+  ],
+  "collaborative learning": [
+    "5"
+  ],
+  "com adnanrahin": [
+    "4"
+  ],
+  "combination of": [
+    "2",
+    "3"
+  ],
+  "combining them": [
+    "3"
+  ],
+  "come from": [
+    "2"
+  ],
+  "coming back": [
+    "5"
+  ],
+  "command from": [
+    "3"
+  ],
+  "command if": [
+    "3"
+  ],
+  "command python": [
+    "5"
+  ],
+  "commands git": [
+    "4"
+  ],
+  "commands shown": [
+    "3"
+  ],
+  "comments 0": [
+    "5"
+  ],
+  "commit config": [
+    "3"
+  ],
+  "commit first": [
+    "3"
+  ],
+  "commit hooks": [
+    "3"
+  ],
+  "commit in": [
+    "3"
+  ],
+  "commit install": [
+    "3"
+  ],
+  "commit no": [
+    "3"
+  ],
+  "commit option": [
+    "3"
+  ],
+  "commit then": [
+    "3"
+  ],
+  "commit to": [
+    "3"
+  ],
+  "commit we": [
+    "3"
+  ],
+  "commit will": [
+    "3"
+  ],
+  "commit working": [
+    "3"
+  ],
+  "commit works": [
+    "3"
+  ],
+  "commits are": [
+    "3"
+  ],
+  "commits if": [
+    "3"
+  ],
+  "common transformations": [
+    "2"
+  ],
+  "communities made": [
+    "5"
+  ],
+  "community 0": [
+    "4"
+  ],
+  "community 2016": [
+    "5"
+  ],
+  "community a": [
+    "5"
+  ],
+  "community and": [
+    "3"
+  ],
+  "community find": [
+    "5"
+  ],
+  "community for": [
+    "3"
+  ],
+  "community google": [
+    "5"
+  ],
+  "community langchain": [
+    "2",
+    "3"
+  ],
+  "community learners": [
+    "1"
+  ],
+  "community logo": [
+    "5"
+  ],
+  "community tech": [
+    "5"
+  ],
+  "companies are": [
+    "1"
+  ],
+  "companies that": [
+    "1"
+  ],
+  "compared to": [
+    "3",
+    "4"
+  ],
+  "compatibility migrating": [
+    "2"
+  ],
+  "complete all": [
+    "5"
+  ],
+  "complete at": [
+    "1"
+  ],
+  "complete langchain": [
+    "1"
+  ],
+  "complete some": [
+    "4"
+  ],
+  "complete we": [
+    "4"
+  ],
+  "completion_tokens 3": [
+    "2"
+  ],
+  "completion_tokens_details accepted_prediction_tokens": [
+    "2"
+  ],
+  "complex it": [
+    "2"
+  ],
+  "computer programming": [
+    "5"
+  ],
+  "computer science": [
+    "1"
+  ],
+  "concept in": [
+    "2"
+  ],
+  "concepts and": [
+    "1"
+  ],
+  "concepts check": [
+    "2"
+  ],
+  "concepts from": [
+    "1"
+  ],
+  "concepts in": [
+    "1"
+  ],
+  "concepts of": [
+    "2"
+  ],
+  "concepts with": [
+    "1"
+  ],
+  "conceptual guide": [
+    "2"
+  ],
+  "conceptual guides": [
+    "2"
+  ],
+  "conclusion community": [
+    "2"
+  ],
+  "conclusion that": [
+    "2"
+  ],
+  "conda activate": [
+    "4"
+  ],
+  "conda create": [
+    "4"
+  ],
+  "conda environment": [
+    "4"
+  ],
+  "conda pip": [
+    "2"
+  ],
+  "conda version": [
+    "4"
+  ],
+  "conduct privacy": [
+    "5"
+  ],
+  "conduct report": [
+    "5"
+  ],
+  "config yaml": [
+    "3"
+  ],
+  "confirming that": [
+    "4"
+  ],
+  "connections if": [
+    "5"
+  ],
+  "consideration the": [
+    "5"
+  ],
+  "consists of": [
+    "2"
+  ],
+  "constructed from": [
+    "2"
+  ],
+  "contact a": [
+    "3"
+  ],
+  "contact articles": [
+    "1"
+  ],
+  "contact code": [
+    "5"
+  ],
+  "contagious explore": [
+    "5"
+  ],
+  "contain both": [
+    "2"
+  ],
+  "contain multiple": [
+    "2"
+  ],
+  "container see": [
+    "3"
+  ],
+  "containing the": [
+    "5"
+  ],
+  "contains multiple": [
+    "3"
+  ],
+  "contains the": [
+    "5"
+  ],
+  "contains what": [
+    "5"
+  ],
+  "content blocks": [
+    "2"
+  ],
+  "content can": [
+    "2"
+  ],
+  "content ciao": [
+    "2"
+  ],
+  "content dev": [
+    "5"
+  ],
+  "content end": [
+    "2"
+  ],
+  "content hello": [
+    "2"
+  ],
+  "content hi": [
+    "2"
+  ],
+  "content message": [
+    "2"
+  ],
+  "content these": [
+    "2",
+    "3"
+  ],
+  "content translate": [
+    "2"
+  ],
+  "contribute documentation": [
+    "3"
+  ],
+  "contribute insights": [
+    "5"
+  ],
+  "contributed pre": [
+    "3"
+  ],
+  "contributors tutorials": [
+    "3"
+  ],
+  "controlled note": [
+    "3"
+  ],
+  "conveniently run": [
+    "2"
+  ],
+  "conversational agents": [
+    "1"
+  ],
+  "conversational roles": [
+    "2"
+  ],
+  "conversations that": [
+    "1"
+  ],
+  "convey conversational": [
+    "2"
+  ],
+  "cookbook and": [
+    "3"
+  ],
+  "cookie preferences": [
+    "1"
+  ],
+  "copyright 2025": [
+    "2",
+    "3"
+  ],
+  "core 0": [
+    "4"
+  ],
+  "core and": [
+    "3"
+  ],
+  "core base": [
+    "3"
+  ],
+  "core concepts": [
+    "2"
+  ],
+  "core if": [
+    "3"
+  ],
+  "core logo": [
+    "5"
+  ],
+  "corporation 2025": [
+    "1"
+  ],
+  "correct python": [
+    "4"
+  ],
+  "cosine similarity": [
+    "5"
+  ],
+  "counts langchain": [
+    "2"
+  ],
+  "course features": [
+    "1"
+  ],
+  "course instructors": [
+    "1"
+  ],
+  "course is": [
+    "1"
+  ],
+  "course status": [
+    "1"
+  ],
+  "course this": [
+    "1"
+  ],
+  "course unlock": [
+    "1"
+  ],
+  "course why": [
+    "1"
+  ],
+  "course will": [
+    "1"
+  ],
+  "course you": [
+    "1"
+  ],
+  "coursera about": [
+    "1"
+  ],
+  "coursera allows": [
+    "1"
+  ],
+  "coursera coach": [
+    "1"
+  ],
+  "coursera facebook": [
+    "1"
+  ],
+  "coursera footer": [
+    "1"
+  ],
+  "coursera for": [
+    "1"
+  ],
+  "coursera inc": [
+    "1"
+  ],
+  "coursera instagram": [
+    "1"
+  ],
+  "coursera is": [
+    "1"
+  ],
+  "coursera learning": [
+    "1"
+  ],
+  "coursera linkedin": [
+    "1"
+  ],
+  "coursera plus": [
+    "1"
+  ],
+  "coursera podcast": [
+    "1"
+  ],
+  "coursera tiktok": [
+    "1"
+  ],
+  "coursera twitter": [
+    "1"
+  ],
+  "coursera what": [
+    "1"
+  ],
+  "coursera youtube": [
+    "1"
+  ],
+  "courses 220": [
+    "1"
+  ],
+  "courses at": [
+    "1"
+  ],
+  "courses hands": [
+    "1"
+  ],
+  "courses on": [
+    "1"
+  ],
+  "courses share": [
+    "1"
+  ],
+  "courses to": [
+    "1"
+  ],
+  "cover image": [
+    "5"
+  ],
+  "cover modular": [
+    "3"
+  ],
+  "coverage available": [
+    "3"
+  ],
+  "coverage uv": [
+    "3"
+  ],
+  "create a": [
+    "2",
+    "4",
+    "5"
+  ],
+  "create account": [
+    "5"
+  ],
+  "create an": [
+    "5"
+  ],
+  "create innovative": [
+    "1"
+  ],
+  "create main": [
+    "5"
+  ],
+  "create n": [
+    "4"
+  ],
+  "create prompt_llm": [
+    "5"
+  ],
+  "create virtual": [
+    "5"
+  ],
+  "create with": [
+    "2"
+  ],
+  "create your": [
+    "2"
+  ],
+  "created activate": [
+    "4"
+  ],
+  "creative and": [
+    "5"
+  ],
+  "creative responses": [
+    "5"
+  ],
+  "creative while": [
+    "5"
+  ],
+  "creators let": [
+    "5"
+  ],
+  "credential to": [
+    "1"
+  ],
+  "crucial to": [
+    "2"
+  ],
+  "crypto forem": [
+    "5"
+  ],
+  "cryptocurrency work": [
+    "1"
+  ],
+  "csv processing": [
+    "1"
+  ],
+  "current branch": [
+    "3"
+  ],
+  "current experience": [
+    "5"
+  ],
+  "customer support": [
+    "1"
+  ],
+  "cv share": [
+    "1"
+  ],
+  "cybersecurity certificate": [
+    "1"
+  ],
+  "cybersecurity certifications": [
+    "1"
+  ],
+  "cybersecurity data": [
+    "1"
+  ],
+  "d master": [
+    "3"
+  ],
+  "danone capgemini": [
+    "1"
+  ],
+  "data a": [
+    "2"
+  ],
+  "data about": [
+    "5"
+  ],
+  "data analysis": [
+    "1"
+  ],
+  "data analyst": [
+    "1"
+  ],
+  "data analytics": [
+    "1"
+  ],
+  "data extraction": [
+    "1"
+  ],
+  "data once": [
+    "5"
+  ],
+  "data processing": [
+    "1"
+  ],
+  "data science": [
+    "1"
+  ],
+  "data scientists": [
+    "1"
+  ],
+  "data such": [
+    "2"
+  ],
+  "database partner": [
+    "5"
+  ],
+  "database with": [
+    "5"
+  ],
+  "debugging and": [
+    "2"
+  ],
+  "dec 14": [
+    "5"
+  ],
+  "dec 21": [
+    "5"
+  ],
+  "dec 27": [
+    "5"
+  ],
+  "declare an": [
+    "5"
+  ],
+  "declare the": [
+    "5"
+  ],
+  "declared they": [
+    "5"
+  ],
+  "declares the": [
+    "5"
+  ],
+  "decorator for": [
+    "3"
+  ],
+  "deepen your": [
+    "1"
+  ],
+  "deeper into": [
+    "1"
+  ],
+  "deeplearning ai": [
+    "1"
+  ],
+  "def prompt_llm": [
+    "5"
+  ],
+  "default default": [
+    "2"
+  ],
+  "default if": [
+    "2"
+  ],
+  "default or": [
+    "2"
+  ],
+  "default using": [
+    "2"
+  ],
+  "degree earn": [
+    "1"
+  ],
+  "degree from": [
+    "1"
+  ],
+  "degrees for": [
+    "1"
+  ],
+  "degrees join": [
+    "1"
+  ],
+  "demand skills": [
+    "1"
+  ],
+  "dependencies adding": [
+    "3"
+  ],
+  "dependencies are": [
+    "3",
+    "4"
+  ],
+  "dependencies below": [
+    "3"
+  ],
+  "dependencies for": [
+    "3"
+  ],
+  "dependencies further": [
+    "5"
+  ],
+  "dependencies here": [
+    "4"
+  ],
+  "dependencies i": [
+    "4"
+  ],
+  "dependencies in": [
+    "3"
+  ],
+  "dependencies install": [
+    "3"
+  ],
+  "dependencies langchain": [
+    "3"
+  ],
+  "dependencies once": [
+    "5"
+  ],
+  "dependencies required": [
+    "5"
+  ],
+  "dependencies run": [
+    "4"
+  ],
+  "dependencies testing": [
+    "3"
+  ],
+  "dependencies to": [
+    "3"
+  ],
+  "dependencies unit": [
+    "3"
+  ],
+  "dependencies uv": [
+    "3"
+  ],
+  "dependencies we": [
+    "4"
+  ],
+  "dependency add": [
+    "3"
+  ],
+  "dependency adding": [
+    "3"
+  ],
+  "dependency and": [
+    "3"
+  ],
+  "dependency installation": [
+    "3"
+  ],
+  "dependency installed": [
+    "3"
+  ],
+  "dependency management": [
+    "3"
+  ],
+  "dependency manager": [
+    "3"
+  ],
+  "dependency managers": [
+    "3"
+  ],
+  "dependency python": [
+    "5"
+  ],
+  "dependency to": [
+    "3"
+  ],
+  "deployed web": [
+    "5"
+  ],
+  "deprecated and": [
+    "2",
+    "3"
+  ],
+  "design automated": [
+    "1"
+  ],
+  "design certificate": [
+    "1"
+  ],
+  "design community": [
+    "5"
+  ],
+  "designed to": [
+    "2"
+  ],
+  "detailed conceptual": [
+    "2"
+  ],
+  "details on": [
+    "2"
+  ],
+  "details see": [
+    "2"
+  ],
+  "details to": [
+    "1"
+  ],
+  "dev algolia": [
+    "5"
+  ],
+  "dev and": [
+    "5"
+  ],
+  "dev collaborative": [
+    "5"
+  ],
+  "dev community": [
+    "5"
+  ],
+  "dev dev": [
+    "5"
+  ],
+  "dev diamond": [
+    "5"
+  ],
+  "dev j": [
+    "5"
+  ],
+  "dev neon": [
+    "5"
+  ],
+  "dev to": [
+    "5"
+  ],
+  "devcontainer folder": [
+    "3"
+  ],
+  "develop 15": [
+    "1"
+  ],
+  "develop ai": [
+    "5"
+  ],
+  "develop job": [
+    "1"
+  ],
+  "develop skills": [
+    "1"
+  ],
+  "developer with": [
+    "5"
+  ],
+  "developers data": [
+    "1"
+  ],
+  "developing langchain_core": [
+    "3"
+  ],
+  "development and": [
+    "5"
+  ],
+  "development container": [
+    "3"
+  ],
+  "development dependencies": [
+    "3"
+  ],
+  "development environment": [
+    "3"
+  ],
+  "development i": [
+    "4"
+  ],
+  "development is": [
+    "3"
+  ],
+  "development jupyter": [
+    "1"
+  ],
+  "development packt": [
+    "1"
+  ],
+  "development requirements": [
+    "3"
+  ],
+  "development status": [
+    "1"
+  ],
+  "development this": [
+    "1"
+  ],
+  "devops experience": [
+    "5"
+  ],
+  "diamond sponsors": [
+    "5"
+  ],
+  "dictionary we": [
+    "2"
+  ],
+  "diff filter": [
+    "3"
+  ],
+  "diff git": [
+    "3"
+  ],
+  "diff relative": [
+    "3"
+  ],
+  "diff uv": [
+    "3"
+  ],
+  "different language": [
+    "2"
+  ],
+  "different packages": [
+    "3"
+  ],
+  "different profile": [
+    "5"
+  ],
+  "different versions": [
+    "4"
+  ],
+  "digital economy": [
+    "1"
+  ],
+  "digital marketing": [
+    "1"
+  ],
+  "dir mypy_cache": [
+    "3"
+  ],
+  "direct uv": [
+    "3"
+  ],
+  "directly applied": [
+    "1"
+  ],
+  "directly chatmodels": [
+    "2"
+  ],
+  "directly into": [
+    "2"
+  ],
+  "directly we": [
+    "2"
+  ],
+  "directory affiliates": [
+    "1"
+  ],
+  "directory cd": [
+    "3"
+  ],
+  "directory step": [
+    "5"
+  ],
+  "disable socket": [
+    "3"
+  ],
+  "discouraged as": [
+    "3"
+  ],
+  "discover how": [
+    "5"
+  ],
+  "discuss and": [
+    "5"
+  ],
+  "discussion below": [
+    "5"
+  ],
+  "discussion code": [
+    "5"
+  ],
+  "dive deeper": [
+    "1"
+  ],
+  "dive in": [
+    "2"
+  ],
+  "dive into": [
+    "4"
+  ],
+  "diverse portfolio": [
+    "1"
+  ],
+  "diving into": [
+    "4"
+  ],
+  "do it": [
+    "3"
+  ],
+  "do not": [
+    "3"
+  ],
+  "do prompt": [
+    "2"
+  ],
+  "do the": [
+    "3"
+  ],
+  "do this": [
+    "2"
+  ],
+  "do to": [
+    "5"
+  ],
+  "do with": [
+    "5"
+  ],
+  "do you": [
+    "1"
+  ],
+  "docker image": [
+    "5"
+  ],
+  "docker postgres": [
+    "5"
+  ],
+  "docs are": [
+    "3"
+  ],
+  "docs cookbook": [
+    "3"
+  ],
+  "docs langchain": [
+    "2",
+    "3"
+  ],
+  "docs langsmith": [
+    "2"
+  ],
+  "docs will": [
+    "2",
+    "3"
+  ],
+  "document embeddings": [
+    "5"
+  ],
+  "documentation dependency": [
+    "3"
+  ],
+  "documentation on": [
+    "3"
+  ],
+  "does by": [
+    "2"
+  ],
+  "does cryptocurrency": [
+    "1"
+  ],
+  "does not": [
+    "3"
+  ],
+  "does this": [
+    "2"
+  ],
+  "doesn t": [
+    "1"
+  ],
+  "don t": [
+    "3"
+  ],
+  "done using": [
+    "5"
+  ],
+  "done via": [
+    "3"
+  ],
+  "doors with": [
+    "1"
+  ],
+  "dotenv from": [
+    "2"
+  ],
+  "dotenv import": [
+    "2",
+    "5"
+  ],
+  "dotenv langchain": [
+    "5"
+  ],
+  "download on": [
+    "1"
+  ],
+  "dumb dev": [
+    "5"
+  ],
+  "duplicates in": [
+    "1"
+  ],
+  "e py": [
+    "3"
+  ],
+  "each of": [
+    "3"
+  ],
+  "each project": [
+    "1"
+  ],
+  "each week": [
+    "5"
+  ],
+  "earn a": [
+    "1"
+  ],
+  "earn the": [
+    "5"
+  ],
+  "easier compared": [
+    "4"
+  ],
+  "economy learn": [
+    "1"
+  ],
+  "ecosystem langsmith": [
+    "2"
+  ],
+  "edit this": [
+    "2",
+    "3"
+  ],
+  "editable in": [
+    "3"
+  ],
+  "edited on": [
+    "5"
+  ],
+  "education computer": [
+    "5"
+  ],
+  "education teaching": [
+    "1"
+  ],
+  "education track": [
+    "5"
+  ],
+  "effects no": [
+    "3"
+  ],
+  "either in": [
+    "3"
+  ],
+  "embeddings cosine": [
+    "5"
+  ],
+  "embeddings hyde": [
+    "5"
+  ],
+  "embeddings prompt": [
+    "1"
+  ],
+  "embraced by": [
+    "5"
+  ],
+  "employees at": [
+    "1"
+  ],
+  "employees to": [
+    "1"
+  ],
+  "enabled langsmith": [
+    "2"
+  ],
+  "end c": [
+    "2"
+  ],
+  "end of": [
+    "1"
+  ],
+  "enforce the": [
+    "3"
+  ],
+  "engineer luckily": [
+    "2"
+  ],
+  "engineering and": [
+    "1"
+  ],
+  "engineering details": [
+    "1"
+  ],
+  "engineering finance": [
+    "1"
+  ],
+  "english into": [
+    "2"
+  ],
+  "english see": [
+    "1"
+  ],
+  "english speaking": [
+    "1"
+  ],
+  "enhance your": [
+    "1"
+  ],
+  "enroll in": [
+    "1"
+  ],
+  "enrolled in": [
+    "1"
+  ],
+  "enrolled included": [
+    "1"
+  ],
+  "ensure commits": [
+    "3"
+  ],
+  "ensure our": [
+    "4"
+  ],
+  "ensure your": [
+    "3"
+  ],
+  "enter api": [
+    "2"
+  ],
+  "enter or": [
+    "4"
+  ],
+  "enter your": [
+    "2"
+  ],
+  "enterprise for": [
+    "1"
+  ],
+  "enthusiasts looking": [
+    "1"
+  ],
+  "enthusiasts of": [
+    "5"
+  ],
+  "entire codebase": [
+    "3"
+  ],
+  "env app": [
+    "5"
+  ],
+  "env dependency": [
+    "3"
+  ],
+  "env file": [
+    "2",
+    "5"
+  ],
+  "environ get": [
+    "2"
+  ],
+  "environ google_api_key": [
+    "2"
+  ],
+  "environ langsmith_api_key": [
+    "2"
+  ],
+  "environ langsmith_project": [
+    "2"
+  ],
+  "environ langsmith_tracing": [
+    "2"
+  ],
+  "environ os": [
+    "2"
+  ],
+  "environment after": [
+    "4"
+  ],
+  "environment by": [
+    "5"
+  ],
+  "environment called": [
+    "4"
+  ],
+  "environment docs": [
+    "3"
+  ],
+  "environment for": [
+    "4",
+    "5"
+  ],
+  "environment is": [
+    "2",
+    "4",
+    "5"
+  ],
+  "environment openai": [
+    "4"
+  ],
+  "environment set": [
+    "4"
+  ],
+  "environment that": [
+    "4"
+  ],
+  "environment variables": [
+    "2"
+  ],
+  "equivalent model": [
+    "2"
+  ],
+  "errors no": [
+    "3"
+  ],
+  "especially useful": [
+    "3"
+  ],
+  "etc i": [
+    "5"
+  ],
+  "evangelist speaker": [
+    "5"
+  ],
+  "every git": [
+    "3"
+  ],
+  "everyone this": [
+    "5"
+  ],
+  "exact same": [
+    "5"
+  ],
+  "exactly is": [
+    "2"
+  ],
+  "exactly what": [
+    "2"
+  ],
+  "example langchain": [
+    "3"
+  ],
+  "example you": [
+    "3"
+  ],
+  "examples linting": [
+    "3"
+  ],
+  "examples of": [
+    "1"
+  ],
+  "excel in": [
+    "1"
+  ],
+  "excel microsoft": [
+    "1"
+  ],
+  "except importerror": [
+    "2"
+  ],
+  "exceptional cases": [
+    "3"
+  ],
+  "exceptions to": [
+    "3"
+  ],
+  "exciting new": [
+    "1"
+  ],
+  "exclusive google": [
+    "5"
+  ],
+  "executing the": [
+    "5"
+  ],
+  "expand our": [
+    "5"
+  ],
+  "expected output": [
+    "5"
+  ],
+  "expected to": [
+    "5"
+  ],
+  "experience 2": [
+    "1"
+  ],
+  "experience chain": [
+    "5"
+  ],
+  "experience declare": [
+    "5"
+  ],
+  "experience experience": [
+    "5"
+  ],
+  "experience full": [
+    "5"
+  ],
+  "experience i": [
+    "1"
+  ],
+  "experience in": [
+    "5"
+  ],
+  "experience level": [
+    "5"
+  ],
+  "experience of": [
+    "5"
+  ],
+  "experience print": [
+    "5"
+  ],
+  "experience return": [
+    "5"
+  ],
+  "experience template": [
+    "5"
+  ],
+  "experience the": [
+    "5"
+  ],
+  "experience tutorial": [
+    "5"
+  ],
+  "experience with": [
+    "1"
+  ],
+  "experience working": [
+    "5"
+  ],
+  "experience you": [
+    "1"
+  ],
+  "experienced professional": [
+    "5"
+  ],
+  "experimental 0": [
+    "4"
+  ],
+  "experimental either": [
+    "3"
+  ],
+  "experimental for": [
+    "3"
+  ],
+  "experimental rely": [
+    "3"
+  ],
+  "experimental some": [
+    "3"
+  ],
+  "expertise this": [
+    "1"
+  ],
+  "experts gain": [
+    "1"
+  ],
+  "explained simply": [
+    "5"
+  ],
+  "explaining this": [
+    "5"
+  ],
+  "explanation of": [
+    "5"
+  ],
+  "explore degrees": [
+    "1"
+  ],
+  "explore more": [
+    "1"
+  ],
+  "explore this": [
+    "5"
+  ],
+  "explore topics": [
+    "1"
+  ],
+  "exploring rag": [
+    "5"
+  ],
+  "export langsmith_api_key": [
+    "2"
+  ],
+  "export langsmith_project": [
+    "2"
+  ],
+  "export langsmith_tracing": [
+    "2"
+  ],
+  "expose a": [
+    "2"
+  ],
+  "expression language": [
+    "3"
+  ],
+  "extended_testing_deps txt": [
+    "3"
+  ],
+  "extraction and": [
+    "1"
+  ],
+  "extraction bot": [
+    "1"
+  ],
+  "face and": [
+    "1"
+  ],
+  "facebook coursera": [
+    "1"
+  ],
+  "fails skipping": [
+    "3"
+  ],
+  "faq how": [
+    "3"
+  ],
+  "feature of": [
+    "1"
+  ],
+  "feature where": [
+    "5"
+  ],
+  "features can": [
+    "2"
+  ],
+  "features coursera": [
+    "1"
+  ],
+  "felipe m": [
+    "1"
+  ],
+  "few minutes": [
+    "4"
+  ],
+  "file and": [
+    "5"
+  ],
+  "file as": [
+    "5"
+  ],
+  "file coming": [
+    "5"
+  ],
+  "file following": [
+    "5"
+  ],
+  "file import": [
+    "5"
+  ],
+  "file requires": [
+    "2"
+  ],
+  "file structure": [
+    "5"
+  ],
+  "file to": [
+    "5"
+  ],
+  "file using": [
+    "5"
+  ],
+  "files git": [
+    "3"
+  ],
+  "files that": [
+    "3"
+  ],
+  "filter d": [
+    "3"
+  ],
+  "final words": [
+    "5"
+  ],
+  "finally prompt_llm": [
+    "5"
+  ],
+  "finally we": [
+    "2"
+  ],
+  "finance healthcare": [
+    "1"
+  ],
+  "financial aid": [
+    "1"
+  ],
+  "find more": [
+    "2"
+  ],
+  "find related": [
+    "5"
+  ],
+  "finish_reason stop": [
+    "2"
+  ],
+  "first code": [
+    "3"
+  ],
+  "first get": [
+    "3"
+  ],
+  "first install": [
+    "3"
+  ],
+  "first simple": [
+    "2"
+  ],
+  "first step": [
+    "5"
+  ],
+  "first up": [
+    "2"
+  ],
+  "first use": [
+    "2"
+  ],
+  "firstly open": [
+    "5"
+  ],
+  "fits my": [
+    "1"
+  ],
+  "fix additionally": [
+    "3"
+  ],
+  "fix this": [
+    "3"
+  ],
+  "fix to": [
+    "3"
+  ],
+  "fixtures to": [
+    "3"
+  ],
+  "flash model_provider": [
+    "2"
+  ],
+  "flask 3": [
+    "4"
+  ],
+  "flexible schedule": [
+    "1"
+  ],
+  "flows for": [
+    "3"
+  ],
+  "focus on": [
+    "5"
+  ],
+  "folder and": [
+    "5"
+  ],
+  "folder dependency": [
+    "3"
+  ],
+  "follow me": [
+    "4"
+  ],
+  "follow my": [
+    "5"
+  ],
+  "follow swe": [
+    "5"
+  ],
+  "follow the": [
+    "4"
+  ],
+  "followers 7": [
+    "4"
+  ],
+  "following are": [
+    "2",
+    "5"
+  ],
+  "following blog": [
+    "5"
+  ],
+  "following command": [
+    "5"
+  ],
+  "following commands": [
+    "4"
+  ],
+  "following from": [
+    "2"
+  ],
+  "following import": [
+    "5"
+  ],
+  "following is": [
+    "5"
+  ],
+  "following no": [
+    "4"
+  ],
+  "following open": [
+    "3"
+  ],
+  "following section": [
+    "3"
+  ],
+  "following sections": [
+    "2"
+  ],
+  "following skills": [
+    "5"
+  ],
+  "following such": [
+    "5"
+  ],
+  "follows if": [
+    "5"
+  ],
+  "follows openai_api_key": [
+    "5"
+  ],
+  "footer skills": [
+    "1"
+  ],
+  "for a": [
+    "3"
+  ],
+  "for abstractions": [
+    "3"
+  ],
+  "for any": [
+    "3"
+  ],
+  "for beginners": [
+    "5"
+  ],
+  "for business": [
+    "1"
+  ],
+  "for businesses": [
+    "1"
+  ],
+  "for campus": [
+    "1"
+  ],
+  "for combining": [
+    "3"
+  ],
+  "for details": [
+    "2"
+  ],
+  "for developers": [
+    "1"
+  ],
+  "for development": [
+    "4"
+  ],
+  "for docs": [
+    "3"
+  ],
+  "for enterprise": [
+    "1"
+  ],
+  "for example": [
+    "3"
+  ],
+  "for further": [
+    "2"
+  ],
+  "for generative": [
+    "4"
+  ],
+  "for get": [
+    "5"
+  ],
+  "for good": [
+    "3"
+  ],
+  "for google": [
+    "2"
+  ],
+  "for government": [
+    "1"
+  ],
+  "for governments": [
+    "1"
+  ],
+  "for individuals": [
+    "1"
+  ],
+  "for installing": [
+    "5"
+  ],
+  "for instructions": [
+    "2"
+  ],
+  "for interacting": [
+    "2"
+  ],
+  "for job": [
+    "1"
+  ],
+  "for key": [
+    "3"
+  ],
+  "for linux": [
+    "3"
+  ],
+  "for macos": [
+    "3"
+  ],
+  "for more": [
+    "2"
+  ],
+  "for python": [
+    "5"
+  ],
+  "for running": [
+    "3"
+  ],
+  "for someone": [
+    "5"
+  ],
+  "for supporting": [
+    "5"
+  ],
+  "for the": [
+    "1",
+    "3",
+    "5"
+  ],
+  "for their": [
+    "1"
+  ],
+  "for this": [
+    "3",
+    "5"
+  ],
+  "for those": [
+    "1"
+  ],
+  "for token": [
+    "2"
+  ],
+  "for universities": [
+    "1"
+  ],
+  "for various": [
+    "3"
+  ],
+  "forem core": [
+    "5"
+  ],
+  "forem logo": [
+    "5"
+  ],
+  "forem the": [
+    "5"
+  ],
+  "forges stronger": [
+    "5"
+  ],
+  "format code": [
+    "3"
+  ],
+  "format diff": [
+    "3"
+  ],
+  "format git": [
+    "3"
+  ],
+  "format if": [
+    "3"
+  ],
+  "format the": [
+    "2"
+  ],
+  "format uv": [
+    "3"
+  ],
+  "format_diff command": [
+    "3"
+  ],
+  "format_diff if": [
+    "3"
+  ],
+  "formatted linted": [
+    "3"
+  ],
+  "formatted prompt": [
+    "2"
+  ],
+  "formatted without": [
+    "3"
+  ],
+  "formatter only": [
+    "3"
+  ],
+  "formatting a": [
+    "2"
+  ],
+  "formatting and": [
+    "3"
+  ],
+  "formatting fails": [
+    "3"
+  ],
+  "formatting for": [
+    "3"
+  ],
+  "formatting formatting": [
+    "3"
+  ],
+  "formatting pre": [
+    "3"
+  ],
+  "formatting rules": [
+    "3"
+  ],
+  "formatting tests": [
+    "3"
+  ],
+  "forum twitter": [
+    "2",
+    "3"
+  ],
+  "forward now": [
+    "5"
+  ],
+  "found that": [
+    "4"
+  ],
+  "foundational understanding": [
+    "1"
+  ],
+  "fp_0705bf87c0 finish_reason": [
+    "2"
+  ],
+  "framework we": [
+    "4"
+  ],
+  "frameworks response": [
+    "5"
+  ],
+  "free courses": [
+    "1"
+  ],
+  "free deeplearning": [
+    "1"
+  ],
+  "free free": [
+    "1"
+  ],
+  "free trial": [
+    "1"
+  ],
+  "frequently asked": [
+    "1"
+  ],
+  "from 0": [
+    "5"
+  ],
+  "from a": [
+    "2"
+  ],
+  "from dev": [
+    "5"
+  ],
+  "from dotenv": [
+    "2",
+    "5"
+  ],
+  "from english": [
+    "2"
+  ],
+  "from env": [
+    "2"
+  ],
+  "from industry": [
+    "1"
+  ],
+  "from langchain": [
+    "2",
+    "5"
+  ],
+  "from langchain_core": [
+    "2"
+  ],
+  "from langchain_openai": [
+    "5"
+  ],
+  "from my": [
+    "1"
+  ],
+  "from software": [
+    "1"
+  ],
+  "from the": [
+    "3",
+    "4",
+    "5"
+  ],
+  "from usually": [
+    "2"
+  ],
+  "from v0": [
+    "2"
+  ],
+  "from world": [
+    "1"
+  ],
+  "from_messages system": [
+    "2"
+  ],
+  "fuels growth": [
+    "5"
+  ],
+  "full size": [
+    "4"
+  ],
+  "full stack": [
+    "5"
+  ],
+  "fully functional": [
+    "5"
+  ],
+  "fully prepared": [
+    "4"
+  ],
+  "function as": [
+    "5"
+  ],
+  "function by": [
+    "5"
+  ],
+  "function finally": [
+    "5"
+  ],
+  "function further": [
+    "5"
+  ],
+  "function in": [
+    "5"
+  ],
+  "function is": [
+    "5"
+  ],
+  "function prompt_llm": [
+    "5"
+  ],
+  "function therefore": [
+    "5"
+  ],
+  "function we": [
+    "5"
+  ],
+  "functional deployed": [
+    "5"
+  ],
+  "fundamentals 3": [
+    "1"
+  ],
+  "fundamentals of": [
+    "1"
+  ],
+  "further activate": [
+    "5"
+  ],
+  "further create": [
+    "5"
+  ],
+  "further declare": [
+    "5"
+  ],
+  "further reading": [
+    "2"
+  ],
+  "further the": [
+    "5"
+  ],
+  "future logo": [
+    "5"
+  ],
+  "g and": [
+    "1"
+  ],
+  "gain a": [
+    "1"
+  ],
+  "gain generative": [
+    "1"
+  ],
+  "gain insight": [
+    "1"
+  ],
+  "gamers forem": [
+    "5"
+  ],
+  "gemini 2": [
+    "2"
+  ],
+  "gemini feature": [
+    "5"
+  ],
+  "gemini from": [
+    "2"
+  ],
+  "gen_ai_envs python": [
+    "4"
+  ],
+  "gen_ai_envs step": [
+    "4"
+  ],
+  "gen_ai_envs using": [
+    "4"
+  ],
+  "genai 1": [
+    "4"
+  ],
+  "genai evangelist": [
+    "5"
+  ],
+  "genai import": [
+    "2"
+  ],
+  "genai microsoft": [
+    "1"
+  ],
+  "genai with": [
+    "4"
+  ],
+  "general guidelines": [
+    "3"
+  ],
+  "generate creative": [
+    "5"
+  ],
+  "generate message": [
+    "2"
+  ],
+  "generated response": [
+    "5"
+  ],
+  "generated_response before": [
+    "5"
+  ],
+  "generated_response chain": [
+    "5"
+  ],
+  "generates a": [
+    "5"
+  ],
+  "generating the": [
+    "5"
+  ],
+  "generative ai": [
+    "1",
+    "4"
+  ],
+  "generativelanguage 0": [
+    "4"
+  ],
+  "generator whether": [
+    "1"
+  ],
+  "get google_api_key": [
+    "2"
+  ],
+  "get great": [
+    "2"
+  ],
+  "get hands": [
+    "5"
+  ],
+  "get into": [
+    "5"
+  ],
+  "get it": [
+    "1"
+  ],
+  "get langsmith_project": [
+    "2"
+  ],
+  "get more": [
+    "2"
+  ],
+  "get started": [
+    "2",
+    "4",
+    "5"
+  ],
+  "get the": [
+    "1",
+    "3",
+    "5"
+  ],
+  "getenv openai_api_key": [
+    "5"
+  ],
+  "getpass enter": [
+    "2"
+  ],
+  "getpass getpass": [
+    "2"
+  ],
+  "getpass import": [
+    "2"
+  ],
+  "getpass prompt": [
+    "2"
+  ],
+  "getting contributed": [
+    "3"
+  ],
+  "getting started": [
+    "2"
+  ],
+  "getting the": [
+    "5"
+  ],
+  "git cd": [
+    "4"
+  ],
+  "git clone": [
+    "4"
+  ],
+  "git commit": [
+    "3"
+  ],
+  "git diff": [
+    "3"
+  ],
+  "git hook": [
+    "3"
+  ],
+  "git repository": [
+    "4"
+  ],
+  "github build": [
+    "2"
+  ],
+  "github com": [
+    "4"
+  ],
+  "github langchain": [
+    "4"
+  ],
+  "github organization": [
+    "2",
+    "3"
+  ],
+  "github setup": [
+    "3"
+  ],
+  "given data": [
+    "5"
+  ],
+  "giving the": [
+    "3"
+  ],
+  "giving you": [
+    "1"
+  ],
+  "global companies": [
+    "1"
+  ],
+  "globally for": [
+    "3"
+  ],
+  "go chaitanya": [
+    "1"
+  ],
+  "go step": [
+    "4"
+  ],
+  "goes a": [
+    "5"
+  ],
+  "going on": [
+    "2"
+  ],
+  "going through": [
+    "2"
+  ],
+  "good balance": [
+    "5"
+  ],
+  "good code": [
+    "3"
+  ],
+  "google ai": [
+    "4",
+    "5"
+  ],
+  "google cybersecurity": [
+    "1"
+  ],
+  "google data": [
+    "1"
+  ],
+  "google gemini": [
+    "2"
+  ],
+  "google genai": [
+    "2",
+    "4"
+  ],
+  "google it": [
+    "1"
+  ],
+  "google play": [
+    "1"
+  ],
+  "google project": [
+    "1"
+  ],
+  "google sheets": [
+    "1"
+  ],
+  "google ux": [
+    "1"
+  ],
+  "google_api_key getpass": [
+    "2"
+  ],
+  "google_api_key os": [
+    "2"
+  ],
+  "google_genai let": [
+    "2"
+  ],
+  "got a": [
+    "2"
+  ],
+  "got detailed": [
+    "2"
+  ],
+  "government for": [
+    "1"
+  ],
+  "governments coursera": [
+    "1"
+  ],
+  "gpt 4o": [
+    "2"
+  ],
+  "gradually move": [
+    "1"
+  ],
+  "great observability": [
+    "2"
+  ],
+  "great way": [
+    "2"
+  ],
+  "grep e": [
+    "3"
+  ],
+  "group test": [
+    "3"
+  ],
+  "groups mypy": [
+    "3"
+  ],
+  "groups ruff": [
+    "3"
+  ],
+  "growth and": [
+    "5"
+  ],
+  "guide course": [
+    "1"
+  ],
+  "guide ecosystem": [
+    "2"
+  ],
+  "guide for": [
+    "2"
+  ],
+  "guide langsmith": [
+    "2"
+  ],
+  "guide once": [
+    "4"
+  ],
+  "guide prompt": [
+    "2"
+  ],
+  "guide walks": [
+    "3"
+  ],
+  "guide you": [
+    "5"
+  ],
+  "guidelines next": [
+    "3"
+  ],
+  "guides chat": [
+    "2"
+  ],
+  "guides conceptual": [
+    "2"
+  ],
+  "guides if": [
+    "2"
+  ],
+  "guides in": [
+    "2"
+  ],
+  "guides reference": [
+    "3"
+  ],
+  "guidescontribute codesetup": [
+    "3"
+  ],
+  "hands on": [
+    "1",
+    "5"
+  ],
+  "happy to": [
+    "5"
+  ],
+  "harnessing open": [
+    "1"
+  ],
+  "has been": [
+    "1"
+  ],
+  "has its": [
+    "3"
+  ],
+  "has please": [
+    "5"
+  ],
+  "have a": [
+    "2",
+    "5"
+  ],
+  "have any": [
+    "5"
+  ],
+  "have been": [
+    "3"
+  ],
+  "have built": [
+    "1"
+  ],
+  "have changed": [
+    "3"
+  ],
+  "have it": [
+    "3"
+  ],
+  "have made": [
+    "3"
+  ],
+  "have make": [
+    "3"
+  ],
+  "have more": [
+    "2"
+  ],
+  "have the": [
+    "3"
+  ],
+  "having to": [
+    "3"
+  ],
+  "he him": [
+    "5"
+  ],
+  "healthcare human": [
+    "1"
+  ],
+  "hello model": [
+    "2"
+  ],
+  "hello streaming": [
+    "2"
+  ],
+  "help accessibility": [
+    "1"
+  ],
+  "help anyone": [
+    "5"
+  ],
+  "help center": [
+    "1"
+  ],
+  "help lastly": [
+    "5"
+  ],
+  "help status": [
+    "4"
+  ],
+  "help you": [
+    "1",
+    "3"
+  ],
+  "helpful when": [
+    "3"
+  ],
+  "helps user": [
+    "5"
+  ],
+  "hence create": [
+    "5"
+  ],
+  "here for": [
+    "2"
+  ],
+  "here it": [
+    "2"
+  ],
+  "here s": [
+    "4"
+  ],
+  "hi additional_kwargs": [
+    "2"
+  ],
+  "hi model": [
+    "2"
+  ],
+  "hi prompt": [
+    "2"
+  ],
+  "high income": [
+    "1"
+  ],
+  "high level": [
+    "2"
+  ],
+  "highlight duplicates": [
+    "1"
+  ],
+  "him work": [
+    "5"
+  ],
+  "hold important": [
+    "2"
+  ],
+  "home welcome": [
+    "5"
+  ],
+  "homebrew globally": [
+    "3"
+  ],
+  "homepage blog": [
+    "2",
+    "3"
+  ],
+  "hook scripts": [
+    "3"
+  ],
+  "hooks are": [
+    "3"
+  ],
+  "hooks with": [
+    "3"
+  ],
+  "hope you": [
+    "5"
+  ],
+  "hours a": [
+    "1"
+  ],
+  "hours which": [
+    "5"
+  ],
+  "how does": [
+    "1"
+  ],
+  "how employees": [
+    "1"
+  ],
+  "how langchain": [
+    "5"
+  ],
+  "how pre": [
+    "3"
+  ],
+  "how retrieval": [
+    "5"
+  ],
+  "how to": [
+    "1",
+    "2",
+    "3",
+    "5"
+  ],
+  "how you": [
+    "5"
+  ],
+  "how your": [
+    "5"
+  ],
+  "however this": [
+    "3"
+  ],
+  "hr information": [
+    "1"
+  ],
+  "http localhost": [
+    "4"
+  ],
+  "https github": [
+    "4"
+  ],
+  "hugging face": [
+    "1"
+  ],
+  "human resources": [
+    "1"
+  ],
+  "humanmessage content": [
+    "2"
+  ],
+  "humanmessage hello": [
+    "2"
+  ],
+  "humanmessage systemmessage": [
+    "2"
+  ],
+  "hyde rag": [
+    "5"
+  ],
+  "hypothetical document": [
+    "5"
+  ],
+  "i can": [
+    "1"
+  ],
+  "i directly": [
+    "1"
+  ],
+  "i found": [
+    "4"
+  ],
+  "i hope": [
+    "5"
+  ],
+  "i learned": [
+    "1"
+  ],
+  "i ll": [
+    "4"
+  ],
+  "i need": [
+    "1"
+  ],
+  "i prefer": [
+    "5"
+  ],
+  "i recommend": [
+    "4"
+  ],
+  "i will": [
+    "4",
+    "5"
+  ],
+  "i would": [
+    "5"
+  ],
+  "iao you": [
+    "2"
+  ],
+  "ibm building": [
+    "1"
+  ],
+  "ibm data": [
+    "1"
+  ],
+  "id run": [
+    "2"
+  ],
+  "idea which": [
+    "5"
+  ],
+  "ideal for": [
+    "1"
+  ],
+  "ideally the": [
+    "3"
+  ],
+  "if __name__": [
+    "5"
+  ],
+  "if any": [
+    "4"
+  ],
+  "if formatting": [
+    "3"
+  ],
+  "if in": [
+    "2"
+  ],
+  "if langsmith_api_key": [
+    "2"
+  ],
+  "if langsmith_project": [
+    "2"
+  ],
+  "if not": [
+    "2"
+  ],
+  "if this": [
+    "5"
+  ],
+  "if we": [
+    "2"
+  ],
+  "if you": [
+    "2",
+    "3",
+    "5"
+  ],
+  "image build": [
+    "5"
+  ],
+  "image for": [
+    "5"
+  ],
+  "image in": [
+    "4"
+  ],
+  "image with": [
+    "5"
+  ],
+  "image work": [
+    "5"
+  ],
+  "impact free": [
+    "1"
+  ],
+  "implementing question": [
+    "1"
+  ],
+  "import chatprompttemplate": [
+    "2"
+  ],
+  "import getpass": [
+    "2"
+  ],
+  "import humanmessage": [
+    "2"
+  ],
+  "import init_chat_model": [
+    "2"
+  ],
+  "import load_dotenv": [
+    "2",
+    "5"
+  ],
+  "import openai": [
+    "5"
+  ],
+  "import os": [
+    "2",
+    "5"
+  ],
+  "import prompttemplate": [
+    "5"
+  ],
+  "import statements": [
+    "5"
+  ],
+  "import the": [
+    "3"
+  ],
+  "import your": [
+    "3"
+  ],
+  "important data": [
+    "2"
+  ],
+  "imported into": [
+    "3"
+  ],
+  "importerror pass": [
+    "2"
+  ],
+  "in a": [
+    "2",
+    "5"
+  ],
+  "in addition": [
+    "2",
+    "3"
+  ],
+  "in ai": [
+    "1"
+  ],
+  "in an": [
+    "2"
+  ],
+  "in app": [
+    "5"
+  ],
+  "in case": [
+    "5"
+  ],
+  "in chains": [
+    "3"
+  ],
+  "in colab": [
+    "2"
+  ],
+  "in consideration": [
+    "5"
+  ],
+  "in create": [
+    "5"
+  ],
+  "in demand": [
+    "1"
+  ],
+  "in english": [
+    "1"
+  ],
+  "in env": [
+    "5"
+  ],
+  "in exceptional": [
+    "3"
+  ],
+  "in full": [
+    "4"
+  ],
+  "in google": [
+    "1"
+  ],
+  "in invoice": [
+    "1"
+  ],
+  "in it": [
+    "5"
+  ],
+  "in langchain": [
+    "2",
+    "3"
+  ],
+  "in libs": [
+    "3"
+  ],
+  "in minutes": [
+    "5"
+  ],
+  "in model": [
+    "2"
+  ],
+  "in most": [
+    "3"
+  ],
+  "in october": [
+    "2",
+    "3"
+  ],
+  "in os": [
+    "2"
+  ],
+  "in pre": [
+    "3"
+  ],
+  "in raw": [
+    "2"
+  ],
+  "in sequential": [
+    "1"
+  ],
+  "in setting": [
+    "4"
+  ],
+  "in setup": [
+    "2"
+  ],
+  "in the": [
+    "1",
+    "3",
+    "5"
+  ],
+  "in this": [
+    "1",
+    "2",
+    "3"
+  ],
+  "in two": [
+    "2"
+  ],
+  "in your": [
+    "1",
+    "3"
+  ],
+  "inc all": [
+    "1"
+  ],
+  "include adding": [
+    "2"
+  ],
+  "included in": [
+    "1"
+  ],
+  "included with": [
+    "1"
+  ],
+  "includes async": [
+    "2"
+  ],
+  "including a": [
+    "1"
+  ],
+  "inclusive communities": [
+    "5"
+  ],
+  "inclusive dev": [
+    "5"
+  ],
+  "income skills": [
+    "1"
+  ],
+  "independently version": [
+    "3"
+  ],
+  "indicates the": [
+    "5"
+  ],
+  "individual tokens": [
+    "2"
+  ],
+  "individuals for": [
+    "1"
+  ],
+  "industries careers": [
+    "1"
+  ],
+  "industry experts": [
+    "1"
+  ],
+  "information conclusion": [
+    "2"
+  ],
+  "information if": [
+    "2"
+  ],
+  "information latency": [
+    "2"
+  ],
+  "information note": [
+    "2"
+  ],
+  "information technology": [
+    "1"
+  ],
+  "init_chat_model gemini": [
+    "2"
+  ],
+  "init_chat_model model": [
+    "2"
+  ],
+  "innovative applications": [
+    "1"
+  ],
+  "input and": [
+    "2"
+  ],
+  "input prompt": [
+    "2"
+  ],
+  "input to": [
+    "2"
+  ],
+  "input variables": [
+    "5"
+  ],
+  "input_token_details audio": [
+    "2"
+  ],
+  "input_tokens 20": [
+    "2"
+  ],
+  "input_variables skill": [
+    "5"
+  ],
+  "inputs via": [
+    "2"
+  ],
+  "inside your": [
+    "2"
+  ],
+  "insight into": [
+    "1"
+  ],
+  "insightful write": [
+    "5"
+  ],
+  "insights and": [
+    "5"
+  ],
+  "inspect what": [
+    "2"
+  ],
+  "instagram coursera": [
+    "1"
+  ],
+  "install dependency": [
+    "5"
+  ],
+  "install development": [
+    "3"
+  ],
+  "install how": [
+    "3"
+  ],
+  "install installation": [
+    "2"
+  ],
+  "install it": [
+    "3"
+  ],
+  "install langchain": [
+    "2"
+  ],
+  "install make": [
+    "3"
+  ],
+  "install miniconda": [
+    "4"
+  ],
+  "install pre": [
+    "3"
+  ],
+  "install qu": [
+    "2"
+  ],
+  "install r": [
+    "4"
+  ],
+  "install required": [
+    "5"
+  ],
+  "install step": [
+    "4"
+  ],
+  "install the": [
+    "3",
+    "4"
+  ],
+  "install them": [
+    "4",
+    "5"
+  ],
+  "install these": [
+    "4"
+  ],
+  "install uv": [
+    "3"
+  ],
+  "install via": [
+    "3"
+  ],
+  "installation by": [
+    "4"
+  ],
+  "installation guide": [
+    "2",
+    "4"
+  ],
+  "installation if": [
+    "3"
+  ],
+  "installation is": [
+    "4"
+  ],
+  "installation langsmith": [
+    "2"
+  ],
+  "installation process": [
+    "4"
+  ],
+  "installation to": [
+    "2"
+  ],
+  "installed all": [
+    "5"
+  ],
+  "installed as": [
+    "3"
+  ],
+  "installed make": [
+    "3"
+  ],
+  "installed pre": [
+    "3"
+  ],
+  "installed should": [
+    "3"
+  ],
+  "installed the": [
+    "4"
+  ],
+  "installed users": [
+    "3"
+  ],
+  "installed verify": [
+    "4"
+  ],
+  "installed you": [
+    "3",
+    "4"
+  ],
+  "installing pre": [
+    "3"
+  ],
+  "installing python": [
+    "5"
+  ],
+  "installing the": [
+    "4"
+  ],
+  "instance of": [
+    "5"
+  ],
+  "instances of": [
+    "2"
+  ],
+  "instructions for": [
+    "5"
+  ],
+  "instructions from": [
+    "4"
+  ],
+  "instructions on": [
+    "2"
+  ],
+  "instructor packt": [
+    "1"
+  ],
+  "instructors 2": [
+    "1"
+  ],
+  "instructors instructor": [
+    "1"
+  ],
+  "instructors packt": [
+    "1"
+  ],
+  "integrate a": [
+    "5"
+  ],
+  "integrate llms": [
+    "1"
+  ],
+  "integrate pgvector": [
+    "5"
+  ],
+  "integration tests": [
+    "3"
+  ],
+  "integrations and": [
+    "3"
+  ],
+  "integrations api": [
+    "2",
+    "3"
+  ],
+  "integrations partner": [
+    "3"
+  ],
+  "integrations select": [
+    "2"
+  ],
+  "intelligence ai": [
+    "1"
+  ],
+  "intelligence coursera": [
+    "1"
+  ],
+  "intelligence popular": [
+    "1"
+  ],
+  "interacting with": [
+    "2"
+  ],
+  "interactive environment": [
+    "2",
+    "4"
+  ],
+  "interactive real": [
+    "1"
+  ],
+  "interchangeably for": [
+    "2"
+  ],
+  "interface for": [
+    "2"
+  ],
+  "interface that": [
+    "2"
+  ],
+  "interfaces for": [
+    "3"
+  ],
+  "intermediate level": [
+    "1"
+  ],
+  "interview what": [
+    "1"
+  ],
+  "interviews high": [
+    "1"
+  ],
+  "into a": [
+    "1",
+    "2",
+    "5"
+  ],
+  "into another": [
+    "2"
+  ],
+  "into applications": [
+    "2"
+  ],
+  "into building": [
+    "1"
+  ],
+  "into italian": [
+    "2"
+  ],
+  "into langchain": [
+    "4"
+  ],
+  "into language": [
+    "2"
+  ],
+  "into text": [
+    "2"
+  ],
+  "into the": [
+    "2",
+    "3",
+    "4"
+  ],
+  "introduce key": [
+    "1"
+  ],
+  "introduce the": [
+    "3"
+  ],
+  "introduction tutorials": [
+    "2"
+  ],
+  "introduction whats": [
+    "5"
+  ],
+  "investors terms": [
+    "1"
+  ],
+  "invocation this": [
+    "2"
+  ],
+  "invocations of": [
+    "2"
+  ],
+  "invoice data": [
+    "1"
+  ],
+  "invoice extraction": [
+    "1"
+  ],
+  "invoke hello": [
+    "2"
+  ],
+  "invoke humanmessage": [
+    "2"
+  ],
+  "invoke language": [
+    "2"
+  ],
+  "invoke messages": [
+    "2"
+  ],
+  "invoke method": [
+    "2",
+    "5"
+  ],
+  "invoke prompt": [
+    "2"
+  ],
+  "invoke role": [
+    "2"
+  ],
+  "invoke skill": [
+    "5"
+  ],
+  "invoke the": [
+    "2",
+    "5"
+  ],
+  "ipynb xargs": [
+    "3"
+  ],
+  "is a": [
+    "2",
+    "5"
+  ],
+  "is activated": [
+    "5"
+  ],
+  "is added": [
+    "5"
+  ],
+  "is artificial": [
+    "1"
+  ],
+  "is basically": [
+    "5"
+  ],
+  "is beginner": [
+    "5"
+  ],
+  "is called": [
+    "5"
+  ],
+  "is complete": [
+    "4"
+  ],
+  "is constructed": [
+    "2"
+  ],
+  "is contagious": [
+    "5"
+  ],
+  "is created": [
+    "4"
+  ],
+  "is declared": [
+    "5"
+  ],
+  "is discouraged": [
+    "3"
+  ],
+  "is done": [
+    "3"
+  ],
+  "is especially": [
+    "3"
+  ],
+  "is expected": [
+    "5"
+  ],
+  "is fully": [
+    "4"
+  ],
+  "is going": [
+    "2"
+  ],
+  "is ideal": [
+    "1"
+  ],
+  "is installed": [
+    "3",
+    "4"
+  ],
+  "is logged": [
+    "2"
+  ],
+  "is necessary": [
+    "1"
+  ],
+  "is not": [
+    "5"
+  ],
+  "is one": [
+    "1"
+  ],
+  "is part": [
+    "1"
+  ],
+  "is prompting": [
+    "5"
+  ],
+  "is properly": [
+    "4"
+  ],
+  "is ready": [
+    "2",
+    "5"
+  ],
+  "is returned": [
+    "5"
+  ],
+  "is split": [
+    "3"
+  ],
+  "is structured": [
+    "1"
+  ],
+  "is suitable": [
+    "1"
+  ],
+  "is the": [
+    "5"
+  ],
+  "is to": [
+    "5"
+  ],
+  "is with": [
+    "2"
+  ],
+  "isn t": [
+    "1"
+  ],
+  "it becomes": [
+    "2"
+  ],
+  "it between": [
+    "5"
+  ],
+  "it declares": [
+    "5"
+  ],
+  "it does": [
+    "2"
+  ],
+  "it fits": [
+    "1"
+  ],
+  "it from": [
+    "5"
+  ],
+  "it in": [
+    "2",
+    "5"
+  ],
+  "it installed": [
+    "3"
+  ],
+  "it into": [
+    "2"
+  ],
+  "it is": [
+    "1",
+    "2",
+    "5"
+  ],
+  "it marketing": [
+    "1"
+  ],
+  "it on": [
+    "1"
+  ],
+  "it please": [
+    "3"
+  ],
+  "it provides": [
+    "4"
+  ],
+  "it returns": [
+    "2"
+  ],
+  "it s": [
+    "1",
+    "2"
+  ],
+  "it support": [
+    "1"
+  ],
+  "it takes": [
+    "5"
+  ],
+  "it to": [
+    "5"
+  ],
+  "it via": [
+    "3"
+  ],
+  "it we": [
+    "3"
+  ],
+  "it who": [
+    "5"
+  ],
+  "it will": [
+    "2",
+    "3"
+  ],
+  "it windows": [
+    "3"
+  ],
+  "it with": [
+    "4"
+  ],
+  "it would": [
+    "5"
+  ],
+  "it you": [
+    "5"
+  ],
+  "italian additional_kwargs": [
+    "2"
+  ],
+  "italian humanmessage": [
+    "2"
+  ],
+  "italian text": [
+    "2"
+  ],
+  "its own": [
+    "3"
+  ],
+  "its time": [
+    "5"
+  ],
+  "itself langchain": [
+    "2"
+  ],
+  "itself prompt": [
+    "2"
+  ],
+  "itself to": [
+    "2"
+  ],
+  "j learner": [
+    "1"
+  ],
+  "j shah": [
+    "5"
+  ],
+  "jan 31": [
+    "5"
+  ],
+  "jennifer j": [
+    "1"
+  ],
+  "job after": [
+    "1"
+  ],
+  "job interviews": [
+    "1"
+  ],
+  "job is": [
+    "5"
+  ],
+  "job it": [
+    "1"
+  ],
+  "job ready": [
+    "1"
+  ],
+  "job relevant": [
+    "1"
+  ],
+  "join over": [
+    "1"
+  ],
+  "joined jan": [
+    "5"
+  ],
+  "js frameworks": [
+    "5"
+  ],
+  "js project": [
+    "1"
+  ],
+  "js ts": [
+    "2",
+    "3"
+  ],
+  "jump to": [
+    "5"
+  ],
+  "jumpstart your": [
+    "1"
+  ],
+  "jupyter notebook": [
+    "2",
+    "3",
+    "4"
+  ],
+  "jupyter notebooks": [
+    "2"
+  ],
+  "jupyter prompt": [
+    "1"
+  ],
+  "jupyterlab 4": [
+    "4"
+  ],
+  "just a": [
+    "2"
+  ],
+  "just about": [
+    "1"
+  ],
+  "just scratches": [
+    "2"
+  ],
+  "just some": [
+    "2"
+  ],
+  "keep it": [
+    "5"
+  ],
+  "keep these": [
+    "3"
+  ],
+  "keep up": [
+    "5"
+  ],
+  "keep updating": [
+    "4"
+  ],
+  "keeping in": [
+    "5"
+  ],
+  "keras 3": [
+    "4"
+  ],
+  "kernel 0": [
+    "4"
+  ],
+  "key abstractions": [
+    "3"
+  ],
+  "key concepts": [
+    "1"
+  ],
+  "key for": [
+    "2"
+  ],
+  "key optional": [
+    "2"
+  ],
+  "keys and": [
+    "5"
+  ],
+  "keys as": [
+    "5"
+  ],
+  "keys hence": [
+    "5"
+  ],
+  "keys the": [
+    "5"
+  ],
+  "kindness is": [
+    "5"
+  ],
+  "know if": [
+    "5"
+  ],
+  "know more": [
+    "5"
+  ],
+  "know python": [
+    "5"
+  ],
+  "know shareable": [
+    "1"
+  ],
+  "know your": [
+    "5"
+  ],
+  "knowledge and": [
+    "1"
+  ],
+  "knowledge challenge": [
+    "1"
+  ],
+  "knowledge spreading": [
+    "5"
+  ],
+  "l oreal": [
+    "1"
+  ],
+  "langchain 0": [
+    "4"
+  ],
+  "langchain 2": [
+    "5"
+  ],
+  "langchain a": [
+    "2",
+    "5"
+  ],
+  "langchain also": [
+    "2"
+  ],
+  "langchain and": [
+    "1",
+    "5"
+  ],
+  "langchain as": [
+    "5"
+  ],
+  "langchain assume": [
+    "3"
+  ],
+  "langchain cd": [
+    "3"
+  ],
+  "langchain chains": [
+    "3"
+  ],
+  "langchain chat_models": [
+    "2"
+  ],
+  "langchain chroma": [
+    "4"
+  ],
+  "langchain community": [
+    "3",
+    "4"
+  ],
+  "langchain core": [
+    "3",
+    "4"
+  ],
+  "langchain designed": [
+    "2"
+  ],
+  "langchain dev": [
+    "5"
+  ],
+  "langchain docker": [
+    "5"
+  ],
+  "langchain environment": [
+    "4"
+  ],
+  "langchain experimental": [
+    "3",
+    "4"
+  ],
+  "langchain expression": [
+    "3"
+  ],
+  "langchain follow": [
+    "4"
+  ],
+  "langchain for": [
+    "2",
+    "4"
+  ],
+  "langchain forum": [
+    "2",
+    "3"
+  ],
+  "langchain framework": [
+    "4"
+  ],
+  "langchain git": [
+    "4"
+  ],
+  "langchain google": [
+    "2",
+    "4"
+  ],
+  "langchain inc": [
+    "2",
+    "3"
+  ],
+  "langchain integrations": [
+    "2",
+    "3"
+  ],
+  "langchain introduction": [
+    "5"
+  ],
+  "langchain is": [
+    "1"
+  ],
+  "langchain js": [
+    "1"
+  ],
+  "langchain langchain": [
+    "3"
+  ],
+  "langchain langchain_openai": [
+    "5"
+  ],
+  "langchain llamaindex": [
+    "5"
+  ],
+  "langchain llms": [
+    "1"
+  ],
+  "langchain local": [
+    "3"
+  ],
+  "langchain masterclass": [
+    "1"
+  ],
+  "langchain name": [
+    "3"
+  ],
+  "langchain openai": [
+    "4",
+    "5"
+  ],
+  "langchain package": [
+    "3"
+  ],
+  "langchain packages": [
+    "3"
+  ],
+  "langchain pip": [
+    "4"
+  ],
+  "langchain prompt": [
+    "5"
+  ],
+  "langchain prompts": [
+    "5"
+  ],
+  "langchain run": [
+    "2"
+  ],
+  "langchain runnables": [
+    "2"
+  ],
+  "langchain running": [
+    "3"
+  ],
+  "langchain such": [
+    "1"
+  ],
+  "langchain supports": [
+    "2"
+  ],
+  "langchain text": [
+    "4"
+  ],
+  "langchain this": [
+    "2",
+    "5"
+  ],
+  "langchain to": [
+    "5"
+  ],
+  "langchain v1": [
+    "2",
+    "3"
+  ],
+  "langchain we": [
+    "2"
+  ],
+  "langchain will": [
+    "2"
+  ],
+  "langchain_core formatting": [
+    "3"
+  ],
+  "langchain_core if": [
+    "3"
+  ],
+  "langchain_core messages": [
+    "2"
+  ],
+  "langchain_core prompts": [
+    "2"
+  ],
+  "langchain_core you": [
+    "3"
+  ],
+  "langchain_openai import": [
+    "5"
+  ],
+  "langchain_openai once": [
+    "5"
+  ],
+  "langchainhub 0": [
+    "4"
+  ],
+  "langgraph memory": [
+    "2"
+  ],
+  "langgraph specialization": [
+    "1"
+  ],
+  "langgraph versions": [
+    "2"
+  ],
+  "langsmith after": [
+    "2"
+  ],
+  "langsmith and": [
+    "2"
+  ],
+  "langsmith api": [
+    "2"
+  ],
+  "langsmith docs": [
+    "2"
+  ],
+  "langsmith edit": [
+    "2"
+  ],
+  "langsmith langgraph": [
+    "2"
+  ],
+  "langsmith let": [
+    "2"
+  ],
+  "langsmith many": [
+    "2"
+  ],
+  "langsmith project": [
+    "2"
+  ],
+  "langsmith this": [
+    "2"
+  ],
+  "langsmith trace": [
+    "2"
+  ],
+  "langsmith using": [
+    "2"
+  ],
+  "langsmith we": [
+    "2"
+  ],
+  "langsmith_api_key export": [
+    "2"
+  ],
+  "langsmith_api_key getpass": [
+    "2"
+  ],
+  "langsmith_api_key not": [
+    "2"
+  ],
+  "langsmith_project default": [
+    "2"
+  ],
+  "langsmith_project getpass": [
+    "2"
+  ],
+  "langsmith_project not": [
+    "2"
+  ],
+  "langsmith_project os": [
+    "2"
+  ],
+  "langsmith_tracing true": [
+    "2"
+  ],
+  "language italian": [
+    "2"
+  ],
+  "language langchain": [
+    "3"
+  ],
+  "language model": [
+    "1",
+    "2"
+  ],
+  "language modeling": [
+    "1"
+  ],
+  "language models": [
+    "1",
+    "2",
+    "4"
+  ],
+  "language parameter": [
+    "2"
+  ],
+  "language processing": [
+    "1"
+  ],
+  "language prompt_template": [
+    "2"
+  ],
+  "language the": [
+    "2"
+  ],
+  "language this": [
+    "2"
+  ],
+  "language to": [
+    "2"
+  ],
+  "large language": [
+    "1",
+    "4"
+  ],
+  "larry w": [
+    "1"
+  ],
+  "lastly follow": [
+    "5"
+  ],
+  "lastly in": [
+    "5"
+  ],
+  "latency standard": [
+    "2"
+  ],
+  "later we": [
+    "4"
+  ],
+  "leadership careers": [
+    "1"
+  ],
+  "learn and": [
+    "5"
+  ],
+  "learn artificial": [
+    "1"
+  ],
+  "learn at": [
+    "1"
+  ],
+  "learn browse": [
+    "1"
+  ],
+  "learn design": [
+    "1"
+  ],
+  "learn how": [
+    "1",
+    "2",
+    "5"
+  ],
+  "learn more": [
+    "1"
+  ],
+  "learn new": [
+    "1"
+  ],
+  "learn the": [
+    "1"
+  ],
+  "learn to": [
+    "1",
+    "2"
+  ],
+  "learn whenever": [
+    "1"
+  ],
+  "learn while": [
+    "5"
+  ],
+  "learn with": [
+    "1"
+  ],
+  "learn without": [
+    "1"
+  ],
+  "learned from": [
+    "1"
+  ],
+  "learned how": [
+    "2"
+  ],
+  "learner help": [
+    "1"
+  ],
+  "learner since": [
+    "1"
+  ],
+  "learners offered": [
+    "1"
+  ],
+  "learners partners": [
+    "1"
+  ],
+  "learning adnan": [
+    "4"
+  ],
+  "learning certificate": [
+    "1"
+  ],
+  "learning fuels": [
+    "5"
+  ],
+  "learning isn": [
+    "1"
+  ],
+  "learning story": [
+    "1"
+  ],
+  "learning the": [
+    "5"
+  ],
+  "least attempts": [
+    "3"
+  ],
+  "let me": [
+    "5"
+  ],
+  "let s": [
+    "2"
+  ],
+  "let them": [
+    "5"
+  ],
+  "level makefile": [
+    "3"
+  ],
+  "level of": [
+    "5"
+  ],
+  "level overview": [
+    "2"
+  ],
+  "level recommended": [
+    "1"
+  ],
+  "level which": [
+    "5"
+  ],
+  "levels can": [
+    "5"
+  ],
+  "leverage langchain": [
+    "5"
+  ],
+  "library directory": [
+    "3"
+  ],
+  "library if": [
+    "3"
+  ],
+  "library package": [
+    "3"
+  ],
+  "library please": [
+    "3"
+  ],
+  "library run": [
+    "3"
+  ],
+  "libs core": [
+    "3"
+  ],
+  "libs langchain": [
+    "3"
+  ],
+  "libs library": [
+    "3"
+  ],
+  "libs partners": [
+    "3"
+  ],
+  "lightweight fixtures": [
+    "3"
+  ],
+  "lightweight langchain": [
+    "3"
+  ],
+  "like chatbots": [
+    "1"
+  ],
+  "like memory": [
+    "1"
+  ],
+  "like openai": [
+    "1"
+  ],
+  "like venv": [
+    "5"
+  ],
+  "limits coursera": [
+    "1"
+  ],
+  "link above": [
+    "2"
+  ],
+  "linkedin coursera": [
+    "1"
+  ],
+  "linkedin profile": [
+    "1"
+  ],
+  "lint if": [
+    "3"
+  ],
+  "lint_diff command": [
+    "3"
+  ],
+  "lint_diff if": [
+    "3"
+  ],
+  "linted installing": [
+    "3"
+  ],
+  "linter only": [
+    "3"
+  ],
+  "linting can": [
+    "3"
+  ],
+  "linting code": [
+    "3"
+  ],
+  "linting for": [
+    "3"
+  ],
+  "linting formatting": [
+    "3"
+  ],
+  "linting linting": [
+    "3"
+  ],
+  "linting run": [
+    "3"
+  ],
+  "linting standards": [
+    "3"
+  ],
+  "linux brew": [
+    "3"
+  ],
+  "linux wsl": [
+    "3"
+  ],
+  "list of": [
+    "2",
+    "3",
+    "4"
+  ],
+  "live outside": [
+    "3"
+  ],
+  "ll also": [
+    "1",
+    "4"
+  ],
+  "ll clone": [
+    "4"
+  ],
+  "ll create": [
+    "4"
+  ],
+  "ll explore": [
+    "1"
+  ],
+  "ll gain": [
+    "1"
+  ],
+  "ll have": [
+    "1",
+    "2"
+  ],
+  "ll install": [
+    "4"
+  ],
+  "ll learn": [
+    "1"
+  ],
+  "ll master": [
+    "1"
+  ],
+  "ll need": [
+    "4"
+  ],
+  "ll notice": [
+    "3"
+  ],
+  "ll show": [
+    "2"
+  ],
+  "ll want": [
+    "3"
+  ],
+  "llama 2": [
+    "1"
+  ],
+  "llamaindex prompttemplate": [
+    "5"
+  ],
+  "llamaindex transform": [
+    "5"
+  ],
+  "llm and": [
+    "5"
+  ],
+  "llm application": [
+    "1",
+    "2"
+  ],
+  "llm apps": [
+    "1"
+  ],
+  "llm call": [
+    "2"
+  ],
+  "llm calls": [
+    "2"
+  ],
+  "llm dev": [
+    "5"
+  ],
+  "llm expected": [
+    "5"
+  ],
+  "llm invoke": [
+    "5"
+  ],
+  "llm is": [
+    "5"
+  ],
+  "llm more": [
+    "3"
+  ],
+  "llm openai": [
+    "5"
+  ],
+  "llm openai_api_key": [
+    "5"
+  ],
+  "llm rag": [
+    "5"
+  ],
+  "llm responses": [
+    "5"
+  ],
+  "llm to": [
+    "5"
+  ],
+  "llm which": [
+    "5"
+  ],
+  "llm with": [
+    "5"
+  ],
+  "llms and": [
+    "1"
+  ],
+  "llms dev": [
+    "5"
+  ],
+  "llms guide": [
+    "1"
+  ],
+  "llms to": [
+    "1"
+  ],
+  "llms using": [
+    "1"
+  ],
+  "load environment": [
+    "2"
+  ],
+  "load_dotenv except": [
+    "2"
+  ],
+  "load_dotenv from": [
+    "5"
+  ],
+  "load_dotenv load_dotenv": [
+    "2"
+  ],
+  "load_dotenv step": [
+    "5"
+  ],
+  "local development": [
+    "3"
+  ],
+  "localhost 8888": [
+    "4"
+  ],
+  "locally and": [
+    "3"
+  ],
+  "locally before": [
+    "3"
+  ],
+  "location toronto": [
+    "5"
+  ],
+  "lock are": [
+    "3"
+  ],
+  "log in": [
+    "5"
+  ],
+  "logged to": [
+    "2"
+  ],
+  "logging traces": [
+    "2"
+  ],
+  "logic can": [
+    "3"
+  ],
+  "logic for": [
+    "3"
+  ],
+  "logic of": [
+    "3"
+  ],
+  "logic please": [
+    "3"
+  ],
+  "logic that": [
+    "3"
+  ],
+  "logic this": [
+    "2"
+  ],
+  "logic usually": [
+    "2"
+  ],
+  "logo crypto": [
+    "5"
+  ],
+  "logo design": [
+    "5"
+  ],
+  "logo dev": [
+    "5"
+  ],
+  "logo dumb": [
+    "5"
+  ],
+  "logo forem": [
+    "5"
+  ],
+  "logo future": [
+    "5"
+  ],
+  "logo gamers": [
+    "5"
+  ],
+  "logo maker": [
+    "5"
+  ],
+  "logo music": [
+    "5"
+  ],
+  "logo of": [
+    "1"
+  ],
+  "logo open": [
+    "5"
+  ],
+  "logo popcorn": [
+    "5"
+  ],
+  "logo scale": [
+    "5"
+  ],
+  "logo security": [
+    "5"
+  ],
+  "logo skip": [
+    "5"
+  ],
+  "logo vibe": [
+    "5"
+  ],
+  "logos of": [
+    "1"
+  ],
+  "logprobs none": [
+    "2"
+  ],
+  "long way": [
+    "5"
+  ],
+  "longer maintained": [
+    "2",
+    "3"
+  ],
+  "look at": [
+    "2"
+  ],
+  "look like": [
+    "5"
+  ],
+  "looking to": [
+    "1"
+  ],
+  "lot of": [
+    "2"
+  ],
+  "love and": [
+    "5"
+  ],
+  "luckily we": [
+    "2"
+  ],
+  "m learner": [
+    "1"
+  ],
+  "m venv": [
+    "5"
+  ],
+  "machine learning": [
+    "1",
+    "4"
+  ],
+  "macos linux": [
+    "3"
+  ],
+  "made changes": [
+    "3"
+  ],
+  "made with": [
+    "5"
+  ],
+  "main content": [
+    "2",
+    "3"
+  ],
+  "main file": [
+    "5"
+  ],
+  "main function": [
+    "5"
+  ],
+  "maintained with": [
+    "2",
+    "3"
+  ],
+  "maintainer and": [
+    "3"
+  ],
+  "make format": [
+    "3"
+  ],
+  "make format_diff": [
+    "3"
+  ],
+  "make installed": [
+    "3"
+  ],
+  "make lint": [
+    "3"
+  ],
+  "make lint_diff": [
+    "3"
+  ],
+  "make option": [
+    "3"
+  ],
+  "make sure": [
+    "2",
+    "4"
+  ],
+  "make test": [
+    "3"
+  ],
+  "make windows": [
+    "3"
+  ],
+  "makefile but": [
+    "3"
+  ],
+  "maker forem": [
+    "5"
+  ],
+  "makes analyzing": [
+    "4"
+  ],
+  "makes up": [
+    "3"
+  ],
+  "makes use": [
+    "3"
+  ],
+  "manage cookie": [
+    "1"
+  ],
+  "manage your": [
+    "5"
+  ],
+  "management certificate": [
+    "1"
+  ],
+  "management python": [
+    "1"
+  ],
+  "management text": [
+    "1"
+  ],
+  "management uv": [
+    "3"
+  ],
+  "manager install": [
+    "3"
+  ],
+  "managers this": [
+    "3"
+  ],
+  "managers windows": [
+    "3"
+  ],
+  "many different": [
+    "2"
+  ],
+  "many of": [
+    "2"
+  ],
+  "mark requires": [
+    "3"
+  ],
+  "marketing and": [
+    "1"
+  ],
+  "marketing career": [
+    "1"
+  ],
+  "marketing english": [
+    "1"
+  ],
+  "master a": [
+    "1"
+  ],
+  "master branch": [
+    "3"
+  ],
+  "master grep": [
+    "3"
+  ],
+  "masterclass build": [
+    "1"
+  ],
+  "mastering in": [
+    "1"
+  ],
+  "mastertrack certificates": [
+    "1"
+  ],
+  "matter expertise": [
+    "1"
+  ],
+  "may take": [
+    "4"
+  ],
+  "me know": [
+    "5"
+  ],
+  "me on": [
+    "4"
+  ],
+  "me to": [
+    "1"
+  ],
+  "means they": [
+    "2"
+  ],
+  "media and": [
+    "1"
+  ],
+  "meet the": [
+    "3"
+  ],
+  "memory management": [
+    "1"
+  ],
+  "memory release": [
+    "2"
+  ],
+  "mention the": [
+    "5"
+  ],
+  "message and": [
+    "2"
+  ],
+  "message content": [
+    "2"
+  ],
+  "message objects": [
+    "2"
+  ],
+  "message or": [
+    "2"
+  ],
+  "message roles": [
+    "2"
+  ],
+  "message the": [
+    "2"
+  ],
+  "messages api": [
+    "2"
+  ],
+  "messages come": [
+    "2"
+  ],
+  "messages directly": [
+    "2"
+  ],
+  "messages if": [
+    "2"
+  ],
+  "messages import": [
+    "2"
+  ],
+  "messages print": [
+    "2"
+  ],
+  "messages ready": [
+    "2"
+  ],
+  "messages systemmessage": [
+    "2"
+  ],
+  "messages to": [
+    "2"
+  ],
+  "method from": [
+    "2"
+  ],
+  "method of": [
+    "5"
+  ],
+  "microsoft excel": [
+    "1"
+  ],
+  "microsoft power": [
+    "1"
+  ],
+  "might not": [
+    "4",
+    "5"
+  ],
+  "migrating from": [
+    "2"
+  ],
+  "min read": [
+    "4"
+  ],
+  "mini 2024": [
+    "2"
+  ],
+  "miniconda installation": [
+    "4"
+  ],
+  "miniconda is": [
+    "4"
+  ],
+  "miniconda to": [
+    "4"
+  ],
+  "minimal code": [
+    "1"
+  ],
+  "mining llm": [
+    "1"
+  ],
+  "minutes read": [
+    "5"
+  ],
+  "minutes so": [
+    "4"
+  ],
+  "model and": [
+    "5"
+  ],
+  "model by": [
+    "2",
+    "5"
+  ],
+  "model common": [
+    "2"
+  ],
+  "model directly": [
+    "2"
+  ],
+  "model for": [
+    "2"
+  ],
+  "model init_chat_model": [
+    "2"
+  ],
+  "model inputs": [
+    "2"
+  ],
+  "model invoke": [
+    "2"
+  ],
+  "model let": [
+    "2"
+  ],
+  "model on": [
+    "2"
+  ],
+  "model outputs": [
+    "2"
+  ],
+  "model parameters": [
+    "2"
+  ],
+  "model pip": [
+    "2"
+  ],
+  "model powered": [
+    "1"
+  ],
+  "model receives": [
+    "2"
+  ],
+  "model refer": [
+    "2"
+  ],
+  "model stream": [
+    "2"
+  ],
+  "model we": [
+    "2"
+  ],
+  "model where": [
+    "2"
+  ],
+  "model_name gpt": [
+    "2"
+  ],
+  "model_provider google_genai": [
+    "2"
+  ],
+  "modeling openai": [
+    "1"
+  ],
+  "models and": [
+    "2"
+  ],
+  "models are": [
+    "2"
+  ],
+  "models first": [
+    "2"
+  ],
+  "models generative": [
+    "4"
+  ],
+  "models how": [
+    "2"
+  ],
+  "models llms": [
+    "1"
+  ],
+  "models prompt": [
+    "2"
+  ],
+  "models streaming": [
+    "2"
+  ],
+  "models that": [
+    "2"
+  ],
+  "models using": [
+    "2"
+  ],
+  "modern slavery": [
+    "1"
+  ],
+  "modes of": [
+    "2"
+  ],
+  "modified files": [
+    "3"
+  ],
+  "modified in": [
+    "3"
+  ],
+  "modifying only": [
+    "3"
+  ],
+  "modular logic": [
+    "3"
+  ],
+  "modules gain": [
+    "1"
+  ],
+  "modules in": [
+    "1"
+  ],
+  "modules recommendations": [
+    "1"
+  ],
+  "modules you": [
+    "1"
+  ],
+  "monorepo see": [
+    "3"
+  ],
+  "mood jennifer": [
+    "1"
+  ],
+  "more 25": [
+    "1"
+  ],
+  "more about": [
+    "1"
+  ],
+  "more access": [
+    "3"
+  ],
+  "more advance": [
+    "1"
+  ],
+  "more and": [
+    "2"
+  ],
+  "more complex": [
+    "2"
+  ],
+  "more coursera": [
+    "1"
+  ],
+  "more details": [
+    "2"
+  ],
+  "more dev": [
+    "5"
+  ],
+  "more frequently": [
+    "1"
+  ],
+  "more from": [
+    "1",
+    "5"
+  ],
+  "more homepage": [
+    "2",
+    "3"
+  ],
+  "more information": [
+    "2"
+  ],
+  "more kindness": [
+    "5"
+  ],
+  "more press": [
+    "1"
+  ],
+  "more questions": [
+    "1"
+  ],
+  "more read": [
+    "5"
+  ],
+  "more specific": [
+    "2"
+  ],
+  "more than": [
+    "1"
+  ],
+  "more the": [
+    "1"
+  ],
+  "more top": [
+    "5"
+  ],
+  "more updates": [
+    "5"
+  ],
+  "more v0": [
+    "2",
+    "3"
+  ],
+  "most conveniently": [
+    "2"
+  ],
+  "most production": [
+    "3"
+  ],
+  "most users": [
+    "3"
+  ],
+  "move towards": [
+    "1"
+  ],
+  "movies and": [
+    "5"
+  ],
+  "moving forward": [
+    "5"
+  ],
+  "much creative": [
+    "5"
+  ],
+  "much easier": [
+    "4"
+  ],
+  "much more": [
+    "1"
+  ],
+  "multiple invocations": [
+    "2"
+  ],
+  "multiple message": [
+    "2"
+  ],
+  "multiple packages": [
+    "3"
+  ],
+  "multiple steps": [
+    "2"
+  ],
+  "music forem": [
+    "5"
+  ],
+  "my blogs": [
+    "5"
+  ],
+  "my courses": [
+    "1"
+  ],
+  "my own": [
+    "1"
+  ],
+  "my previous": [
+    "5"
+  ],
+  "my schedule": [
+    "1"
+  ],
+  "my university": [
+    "1"
+  ],
+  "mypy cache": [
+    "3"
+  ],
+  "mypy to": [
+    "3"
+  ],
+  "mypy_cache in": [
+    "3"
+  ],
+  "mypy_cache this": [
+    "3"
+  ],
+  "mypy_cache to": [
+    "3"
+  ],
+  "n auto": [
+    "3"
+  ],
+  "n gen_ai_envs": [
+    "4"
+  ],
+  "name default": [
+    "2"
+  ],
+  "name only": [
+    "3"
+  ],
+  "name or": [
+    "2"
+  ],
+  "natural language": [
+    "1"
+  ],
+  "necessary dependencies": [
+    "4"
+  ],
+  "necessary earn": [
+    "1"
+  ],
+  "need all": [
+    "4"
+  ],
+  "need courses": [
+    "1"
+  ],
+  "need this": [
+    "1"
+  ],
+  "need to": [
+    "4",
+    "5"
+  ],
+  "neon is": [
+    "5"
+  ],
+  "neon official": [
+    "5"
+  ],
+  "new build": [
+    "5"
+  ],
+  "new code": [
+    "3"
+  ],
+  "new concepts": [
+    "1"
+  ],
+  "new dependency": [
+    "3"
+  ],
+  "new doors": [
+    "1"
+  ],
+  "new environment": [
+    "4"
+  ],
+  "new folder": [
+    "5"
+  ],
+  "new logic": [
+    "3"
+  ],
+  "new project": [
+    "1"
+  ],
+  "new role": [
+    "5"
+  ],
+  "next contribute": [
+    "3"
+  ],
+  "next we": [
+    "4"
+  ],
+  "no errors": [
+    "3"
+  ],
+  "no exceptions": [
+    "3"
+  ],
+  "no longer": [
+    "2",
+    "3"
+  ],
+  "no prior": [
+    "1"
+  ],
+  "no responses": [
+    "4"
+  ],
+  "no verify": [
+    "3"
+  ],
+  "no warnings": [
+    "3"
+  ],
+  "none id": [
+    "2"
+  ],
+  "none response_metadata": [
+    "2"
+  ],
+  "not allowed": [
+    "5"
+  ],
+  "not get": [
+    "5"
+  ],
+  "not have": [
+    "3"
+  ],
+  "not in": [
+    "2"
+  ],
+  "not need": [
+    "4"
+  ],
+  "not os": [
+    "2"
+  ],
+  "not require": [
+    "3"
+  ],
+  "not touched": [
+    "3"
+  ],
+  "not use": [
+    "3"
+  ],
+  "not want": [
+    "3"
+  ],
+  "note i": [
+    "5"
+  ],
+  "note in": [
+    "3"
+  ],
+  "note of": [
+    "5"
+  ],
+  "note some": [
+    "3"
+  ],
+  "note that": [
+    "2"
+  ],
+  "notebook as": [
+    "4"
+  ],
+  "notebook community": [
+    "3"
+  ],
+  "notebook edit": [
+    "3"
+  ],
+  "notebook example": [
+    "3"
+  ],
+  "notebook if": [
+    "3"
+  ],
+  "notebook installation": [
+    "2"
+  ],
+  "notebook jupyter": [
+    "4"
+  ],
+  "notebook once": [
+    "4"
+  ],
+  "notebook press": [
+    "4"
+  ],
+  "notebook running": [
+    "4"
+  ],
+  "notebook server": [
+    "4"
+  ],
+  "notebook this": [
+    "2"
+  ],
+  "notebook when": [
+    "3"
+  ],
+  "notebook you": [
+    "2"
+  ],
+  "notebooks going": [
+    "2"
+  ],
+  "notice that": [
+    "3"
+  ],
+  "nov 9": [
+    "5"
+  ],
+  "novel and": [
+    "3"
+  ],
+  "now its": [
+    "5"
+  ],
+  "now ready": [
+    "4"
+  ],
+  "now we": [
+    "2"
+  ],
+  "objects as": [
+    "2"
+  ],
+  "objects convey": [
+    "2"
+  ],
+  "observability into": [
+    "2"
+  ],
+  "oct 17": [
+    "4"
+  ],
+  "october 2025": [
+    "2",
+    "3"
+  ],
+  "of a": [
+    "1"
+  ],
+  "of all": [
+    "5"
+  ],
+  "of applications": [
+    "1"
+  ],
+  "of certified": [
+    "1"
+  ],
+  "of conduct": [
+    "5"
+  ],
+  "of dev": [
+    "5"
+  ],
+  "of experience": [
+    "5"
+  ],
+  "of features": [
+    "2"
+  ],
+  "of hours": [
+    "5"
+  ],
+  "of how": [
+    "5"
+  ],
+  "of invocation": [
+    "2"
+  ],
+  "of langchain": [
+    "1",
+    "2",
+    "3"
+  ],
+  "of lightweight": [
+    "3"
+  ],
+  "of llm": [
+    "2",
+    "5"
+  ],
+  "of messages": [
+    "2"
+  ],
+  "of modified": [
+    "3"
+  ],
+  "of openai": [
+    "5"
+  ],
+  "of other": [
+    "2"
+  ],
+  "of petrobras": [
+    "1"
+  ],
+  "of prompt_llm": [
+    "5"
+  ],
+  "of python": [
+    "1"
+  ],
+  "of ruff": [
+    "3"
+  ],
+  "of strengths": [
+    "1"
+  ],
+  "of thanks": [
+    "5"
+  ],
+  "of that": [
+    "5"
+  ],
+  "of the": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "of them": [
+    "4"
+  ],
+  "of these": [
+    "3"
+  ],
+  "of this": [
+    "5"
+  ],
+  "of two": [
+    "2"
+  ],
+  "of use": [
+    "5"
+  ],
+  "of user": [
+    "2"
+  ],
+  "of using": [
+    "2"
+  ],
+  "of what": [
+    "2"
+  ],
+  "of your": [
+    "3"
+  ],
+  "offer coursera": [
+    "1"
+  ],
+  "offer leadership": [
+    "1"
+  ],
+  "offered by": [
+    "1"
+  ],
+  "official ai": [
+    "5"
+  ],
+  "official database": [
+    "5"
+  ],
+  "official miniconda": [
+    "4"
+  ],
+  "official search": [
+    "5"
+  ],
+  "okay dev": [
+    "5"
+  ],
+  "on dec": [
+    "5"
+  ],
+  "on each": [
+    "5"
+  ],
+  "on education": [
+    "5"
+  ],
+  "on every": [
+    "3"
+  ],
+  "on experience": [
+    "1",
+    "5"
+  ],
+  "on files": [
+    "3"
+  ],
+  "on forem": [
+    "5"
+  ],
+  "on getting": [
+    "2"
+  ],
+  "on github": [
+    "2",
+    "3",
+    "4"
+  ],
+  "on google": [
+    "1"
+  ],
+  "on how": [
+    "2",
+    "3",
+    "5"
+  ],
+  "on inside": [
+    "2"
+  ],
+  "on learning": [
+    "5"
+  ],
+  "on optional": [
+    "3"
+  ],
+  "on projects": [
+    "1"
+  ],
+  "on rails": [
+    "5"
+  ],
+  "on social": [
+    "1"
+  ],
+  "on streaming": [
+    "2"
+  ],
+  "on the": [
+    "1",
+    "2",
+    "3"
+  ],
+  "on their": [
+    "5"
+  ],
+  "on these": [
+    "2"
+  ],
+  "on this": [
+    "5"
+  ],
+  "on topics": [
+    "1"
+  ],
+  "on windows": [
+    "3"
+  ],
+  "once installed": [
+    "3",
+    "4"
+  ],
+  "once the": [
+    "4",
+    "5"
+  ],
+  "once they": [
+    "5"
+  ],
+  "one of": [
+    "1"
+  ],
+  "online degree": [
+    "1"
+  ],
+  "online explore": [
+    "1"
+  ],
+  "only certain": [
+    "3"
+  ],
+  "only developing": [
+    "3"
+  ],
+  "only diff": [
+    "3"
+  ],
+  "only on": [
+    "3"
+  ],
+  "only run": [
+    "3"
+  ],
+  "open a": [
+    "5"
+  ],
+  "open extended_testing_deps": [
+    "3"
+  ],
+  "open forem": [
+    "5"
+  ],
+  "open in": [
+    "2"
+  ],
+  "open new": [
+    "1"
+  ],
+  "open on": [
+    "2",
+    "3"
+  ],
+  "open source": [
+    "1",
+    "5"
+  ],
+  "openai 0": [
+    "4"
+  ],
+  "openai 1": [
+    "4"
+  ],
+  "openai format": [
+    "2"
+  ],
+  "openai from": [
+    "5"
+  ],
+  "openai hugging": [
+    "1"
+  ],
+  "openai large": [
+    "4"
+  ],
+  "openai natural": [
+    "1"
+  ],
+  "openai rag": [
+    "5"
+  ],
+  "openai s": [
+    "5"
+  ],
+  "openai temperature": [
+    "5"
+  ],
+  "openai_api_key declare": [
+    "5"
+  ],
+  "openai_api_key llm": [
+    "5"
+  ],
+  "openai_api_key openai_api_key": [
+    "5"
+  ],
+  "openai_api_key os": [
+    "5"
+  ],
+  "openai_api_key xxxxxxxxxxxxxxxxxxxxxxxx": [
+    "5"
+  ],
+  "operations that": [
+    "5"
+  ],
+  "option 1": [
+    "3"
+  ],
+  "option 2": [
+    "3"
+  ],
+  "option 3": [
+    "3"
+  ],
+  "option 4": [
+    "3"
+  ],
+  "optional dependencies": [
+    "3"
+  ],
+  "optional dependency": [
+    "3"
+  ],
+  "optional if": [
+    "2"
+  ],
+  "optional see": [
+    "3"
+  ],
+  "or agent": [
+    "2"
+  ],
+  "or any": [
+    "2"
+  ],
+  "or click": [
+    "4"
+  ],
+  "or cv": [
+    "1"
+  ],
+  "or formatting": [
+    "2"
+  ],
+  "or if": [
+    "2"
+  ],
+  "or jumpstart": [
+    "1"
+  ],
+  "or openai": [
+    "2"
+  ],
+  "or they": [
+    "3"
+  ],
+  "or tool": [
+    "1"
+  ],
+  "or venv": [
+    "5"
+  ],
+  "oreal build": [
+    "1"
+  ],
+  "organization python": [
+    "2",
+    "3"
+  ],
+  "os environ": [
+    "2"
+  ],
+  "os from": [
+    "5"
+  ],
+  "os getenv": [
+    "5"
+  ],
+  "os if": [
+    "2"
+  ],
+  "os try": [
+    "2"
+  ],
+  "other env": [
+    "3"
+  ],
+  "other inclusive": [
+    "5"
+  ],
+  "other information": [
+    "2"
+  ],
+  "other project": [
+    "2"
+  ],
+  "other resources": [
+    "2"
+  ],
+  "other tutorials": [
+    "2"
+  ],
+  "our diamond": [
+    "5"
+  ],
+  "our environment": [
+    "4"
+  ],
+  "our installation": [
+    "2"
+  ],
+  "our shared": [
+    "5"
+  ],
+  "out the": [
+    "2",
+    "5"
+  ],
+  "outcomes modules": [
+    "1"
+  ],
+  "output in": [
+    "2"
+  ],
+  "output note": [
+    "5"
+  ],
+  "output_token_details audio": [
+    "2"
+  ],
+  "output_tokens 3": [
+    "2"
+  ],
+  "outputs in": [
+    "2"
+  ],
+  "outputs much": [
+    "4"
+  ],
+  "outside apis": [
+    "3"
+  ],
+  "outside the": [
+    "3"
+  ],
+  "over 3": [
+    "1"
+  ],
+  "overview of": [
+    "2"
+  ],
+  "own development": [
+    "3"
+  ],
+  "own pace": [
+    "1"
+  ],
+  "p g": [
+    "1"
+  ],
+  "pace about": [
+    "1"
+  ],
+  "pace and": [
+    "1"
+  ],
+  "package is": [
+    "3"
+  ],
+  "package you": [
+    "3"
+  ],
+  "package_name decorator": [
+    "3"
+  ],
+  "packages do": [
+    "3"
+  ],
+  "packages in": [
+    "3"
+  ],
+  "packages install": [
+    "4"
+  ],
+  "packages langchain": [
+    "3"
+  ],
+  "packages lightweight": [
+    "3"
+  ],
+  "packages live": [
+    "3"
+  ],
+  "packages local": [
+    "3"
+  ],
+  "packages that": [
+    "4"
+  ],
+  "packages this": [
+    "3"
+  ],
+  "packages upfront": [
+    "4"
+  ],
+  "packt 971": [
+    "1"
+  ],
+  "packt course": [
+    "1"
+  ],
+  "packt explore": [
+    "1"
+  ],
+  "packt harnessing": [
+    "1"
+  ],
+  "packt langchain": [
+    "1"
+  ],
+  "packt the": [
+    "1"
+  ],
+  "page previous": [
+    "3"
+  ],
+  "page setup": [
+    "2"
+  ],
+  "pandas 2": [
+    "4"
+  ],
+  "parameter into": [
+    "2"
+  ],
+  "parameters such": [
+    "2"
+  ],
+  "part 2": [
+    "4"
+  ],
+  "part of": [
+    "1"
+  ],
+  "part series": [
+    "5"
+  ],
+  "partner algolia": [
+    "5"
+  ],
+  "partner google": [
+    "5"
+  ],
+  "partner integrations": [
+    "3"
+  ],
+  "partner neon": [
+    "5"
+  ],
+  "partner of": [
+    "5"
+  ],
+  "partner packages": [
+    "3"
+  ],
+  "partner social": [
+    "1"
+  ],
+  "partners beta": [
+    "1"
+  ],
+  "partners that": [
+    "3"
+  ],
+  "parts of": [
+    "3"
+  ],
+  "parts to": [
+    "5"
+  ],
+  "party integrations": [
+    "3"
+  ],
+  "pass in": [
+    "2"
+  ],
+  "pass into": [
+    "2"
+  ],
+  "pass os": [
+    "2"
+  ],
+  "pass to": [
+    "2"
+  ],
+  "passing a": [
+    "2"
+  ],
+  "passing the": [
+    "5"
+  ],
+  "people choose": [
+    "1"
+  ],
+  "per the": [
+    "5"
+  ],
+  "per week": [
+    "5"
+  ],
+  "performance review": [
+    "1"
+  ],
+  "perhaps most": [
+    "2"
+  ],
+  "petrobras tata": [
+    "1"
+  ],
+  "pgvector s": [
+    "5"
+  ],
+  "pic add": [
+    "5"
+  ],
+  "piece resonated": [
+    "5"
+  ],
+  "pip conda": [
+    "2"
+  ],
+  "pip install": [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "pip pip": [
+    "3"
+  ],
+  "places to": [
+    "1"
+  ],
+  "platform partner": [
+    "5"
+  ],
+  "play around": [
+    "2"
+  ],
+  "play logo": [
+    "1"
+  ],
+  "please add": [
+    "3"
+  ],
+  "please contact": [
+    "3"
+  ],
+  "please do": [
+    "3"
+  ],
+  "please install": [
+    "5"
+  ],
+  "please return": [
+    "5"
+  ],
+  "please use": [
+    "3"
+  ],
+  "plus learn": [
+    "1"
+  ],
+  "plus open": [
+    "1"
+  ],
+  "plus professional": [
+    "1"
+  ],
+  "plus some": [
+    "2"
+  ],
+  "plus unlimited": [
+    "1"
+  ],
+  "pmp certification": [
+    "1"
+  ],
+  "podcast tech": [
+    "1"
+  ],
+  "policy security": [
+    "2"
+  ],
+  "policy terms": [
+    "5"
+  ],
+  "policy tutorialsbuild": [
+    "2"
+  ],
+  "polytechnic pronouns": [
+    "5"
+  ],
+  "popcorn movies": [
+    "5"
+  ],
+  "popular cybersecurity": [
+    "1"
+  ],
+  "portfolio of": [
+    "1"
+  ],
+  "possible in": [
+    "3"
+  ],
+  "posted on": [
+    "5"
+  ],
+  "postgres vectordatabase": [
+    "5"
+  ],
+  "posts powered": [
+    "5"
+  ],
+  "power bi": [
+    "1"
+  ],
+  "power of": [
+    "1"
+  ],
+  "powered applications": [
+    "1",
+    "5"
+  ],
+  "powered by": [
+    "5"
+  ],
+  "powers dev": [
+    "5"
+  ],
+  "pr the": [
+    "3"
+  ],
+  "practical experience": [
+    "1"
+  ],
+  "practical projects": [
+    "1"
+  ],
+  "pre commit": [
+    "3"
+  ],
+  "prefer to": [
+    "5"
+  ],
+  "preferences download": [
+    "1"
+  ],
+  "prep work": [
+    "4"
+  ],
+  "prepared if": [
+    "4"
+  ],
+  "preparing for": [
+    "1"
+  ],
+  "prerequisites to": [
+    "5"
+  ],
+  "press blog": [
+    "4"
+  ],
+  "press enter": [
+    "4"
+  ],
+  "press investors": [
+    "1"
+  ],
+  "prevent commits": [
+    "3"
+  ],
+  "previous blog": [
+    "5"
+  ],
+  "previous general": [
+    "3"
+  ],
+  "print response": [
+    "2",
+    "5"
+  ],
+  "print token": [
+    "2"
+  ],
+  "prints the": [
+    "5"
+  ],
+  "prior experience": [
+    "1"
+  ],
+  "privacy help": [
+    "1"
+  ],
+  "privacy policy": [
+    "5"
+  ],
+  "privacy rules": [
+    "4"
+  ],
+  "process may": [
+    "4"
+  ],
+  "processing application": [
+    "1"
+  ],
+  "processing data": [
+    "1"
+  ],
+  "processing develop": [
+    "1"
+  ],
+  "processing tasks": [
+    "1"
+  ],
+  "production systems": [
+    "3"
+  ],
+  "professional certificates": [
+    "1"
+  ],
+  "professional in": [
+    "5"
+  ],
+  "proficient ai": [
+    "2"
+  ],
+  "profile assessments": [
+    "1"
+  ],
+  "profile based": [
+    "5"
+  ],
+  "profile resume": [
+    "1"
+  ],
+  "programming and": [
+    "5"
+  ],
+  "programs all": [
+    "1"
+  ],
+  "programs google": [
+    "1"
+  ],
+  "progress through": [
+    "1"
+  ],
+  "project and": [
+    "3"
+  ],
+  "project at": [
+    "1"
+  ],
+  "project idea": [
+    "5"
+  ],
+  "project is": [
+    "3"
+  ],
+  "project maintainer": [
+    "3"
+  ],
+  "project management": [
+    "1"
+  ],
+  "project name": [
+    "2"
+  ],
+  "project packt": [
+    "1"
+  ],
+  "project please": [
+    "5"
+  ],
+  "project repository": [
+    "4"
+  ],
+  "project requirement": [
+    "5"
+  ],
+  "project should": [
+    "5"
+  ],
+  "project to": [
+    "5"
+  ],
+  "project utilizes": [
+    "3"
+  ],
+  "project which": [
+    "5"
+  ],
+  "project you": [
+    "1"
+  ],
+  "projects after": [
+    "4"
+  ],
+  "projects and": [
+    "1"
+  ],
+  "projects earn": [
+    "1"
+  ],
+  "projects that": [
+    "1"
+  ],
+  "prompt chatpromptvalue": [
+    "2"
+  ],
+  "prompt engineering": [
+    "1"
+  ],
+  "prompt enter": [
+    "2"
+  ],
+  "prompt into": [
+    "5"
+  ],
+  "prompt print": [
+    "2"
+  ],
+  "prompt prompt_template": [
+    "2"
+  ],
+  "prompt response": [
+    "2"
+  ],
+  "prompt template": [
+    "2",
+    "5"
+  ],
+  "prompt templates": [
+    "2"
+  ],
+  "prompt that": [
+    "2"
+  ],
+  "prompt the": [
+    "2"
+  ],
+  "prompt to_messages": [
+    "2"
+  ],
+  "prompt_llm function": [
+    "5"
+  ],
+  "prompt_llm skill": [
+    "5"
+  ],
+  "prompt_llm which": [
+    "5"
+  ],
+  "prompt_template chatprompttemplate": [
+    "2"
+  ],
+  "prompt_template invoke": [
+    "2"
+  ],
+  "prompt_template llm": [
+    "5"
+  ],
+  "prompt_template prompttemplate": [
+    "5"
+  ],
+  "prompt_tokens 20": [
+    "2"
+  ],
+  "prompt_tokens_details audio_tokens": [
+    "2"
+  ],
+  "prompting and": [
+    "2"
+  ],
+  "prompting still": [
+    "2"
+  ],
+  "prompting the": [
+    "5"
+  ],
+  "prompts import": [
+    "2",
+    "5"
+  ],
+  "prompttemplate input_variables": [
+    "5"
+  ],
+  "prompttemplate load_dotenv": [
+    "5"
+  ],
+  "prompttemplate rag": [
+    "5"
+  ],
+  "pronouns he": [
+    "5"
+  ],
+  "properly formatted": [
+    "3"
+  ],
+  "properly set": [
+    "4"
+  ],
+  "provide the": [
+    "1"
+  ],
+  "provides an": [
+    "4"
+  ],
+  "psycopg2 binary": [
+    "4"
+  ],
+  "purpose of": [
+    "5"
+  ],
+  "py file": [
+    "5"
+  ],
+  "py ipynb": [
+    "3"
+  ],
+  "py lastly": [
+    "5"
+  ],
+  "py you": [
+    "5"
+  ],
+  "pydantic compatibility": [
+    "2"
+  ],
+  "pymysql 1": [
+    "4"
+  ],
+  "pyproject toml": [
+    "3"
+  ],
+  "pyspark 3": [
+    "4"
+  ],
+  "pytest mark": [
+    "3"
+  ],
+  "pytest n": [
+    "3"
+  ],
+  "python 3": [
+    "4"
+  ],
+  "python and": [
+    "1"
+  ],
+  "python app": [
+    "5"
+  ],
+  "python certificates": [
+    "1"
+  ],
+  "python course": [
+    "1"
+  ],
+  "python dotenv": [
+    "2",
+    "5"
+  ],
+  "python firstly": [
+    "5"
+  ],
+  "python giving": [
+    "1"
+  ],
+  "python in": [
+    "5"
+  ],
+  "python js": [
+    "2",
+    "3"
+  ],
+  "python m": [
+    "5"
+  ],
+  "python s": [
+    "5"
+  ],
+  "python script": [
+    "4"
+  ],
+  "python scripts": [
+    "4"
+  ],
+  "python this": [
+    "1"
+  ],
+  "python using": [
+    "5"
+  ],
+  "python version": [
+    "4"
+  ],
+  "qu langchain": [
+    "2"
+  ],
+  "query tools": [
+    "1"
+  ],
+  "question answering": [
+    "1"
+  ],
+  "questions i": [
+    "5"
+  ],
+  "questions more": [
+    "1"
+  ],
+  "questions on": [
+    "2"
+  ],
+  "questions visit": [
+    "1"
+  ],
+  "quickstart start": [
+    "3"
+  ],
+  "quickstart we": [
+    "2"
+  ],
+  "quite well": [
+    "4"
+  ],
+  "r requirements": [
+    "4"
+  ],
+  "rag ai": [
+    "5"
+  ],
+  "rag application": [
+    "5"
+  ],
+  "rag beginners": [
+    "5"
+  ],
+  "rag discover": [
+    "5"
+  ],
+  "rag embeddings": [
+    "5"
+  ],
+  "rag for": [
+    "5"
+  ],
+  "rag hypothetical": [
+    "5"
+  ],
+  "rag vectordatabase": [
+    "5"
+  ],
+  "rahin 2": [
+    "4"
+  ],
+  "rahin 5": [
+    "4"
+  ],
+  "rahin adnan": [
+    "4"
+  ],
+  "rahin written": [
+    "4"
+  ],
+  "rails dev": [
+    "5"
+  ],
+  "ranges from": [
+    "5"
+  ],
+  "raw user": [
+    "2"
+  ],
+  "re adding": [
+    "3"
+  ],
+  "re looking": [
+    "1"
+  ],
+  "re modifying": [
+    "3"
+  ],
+  "re now": [
+    "4"
+  ],
+  "re on": [
+    "3"
+  ],
+  "read more": [
+    "5"
+  ],
+  "read oct": [
+    "4"
+  ],
+  "reading on": [
+    "2"
+  ],
+  "reading this": [
+    "2"
+  ],
+  "ready and": [
+    "5"
+  ],
+  "ready certificate": [
+    "1"
+  ],
+  "ready to": [
+    "2",
+    "4"
+  ],
+  "real time": [
+    "1"
+  ],
+  "real world": [
+    "1"
+  ],
+  "reasoning 0": [
+    "2"
+  ],
+  "reasoning_tokens 0": [
+    "2"
+  ],
+  "receive message": [
+    "2"
+  ],
+  "receives along": [
+    "2"
+  ],
+  "recognize linting": [
+    "3"
+  ],
+  "recommend using": [
+    "4"
+  ],
+  "recommend you": [
+    "5"
+  ],
+  "recommendations testimonials": [
+    "1"
+  ],
+  "recommended experience": [
+    "1"
+  ],
+  "recommended uv": [
+    "3"
+  ],
+  "refer to": [
+    "2"
+  ],
+  "reference chatprompttemplate": [
+    "2"
+  ],
+  "reference faq": [
+    "3"
+  ],
+  "reference humanmessage": [
+    "2"
+  ],
+  "reference more": [
+    "2",
+    "3"
+  ],
+  "refusal none": [
+    "2"
+  ],
+  "rejected_prediction_tokens 0": [
+    "2"
+  ],
+  "related posts": [
+    "5"
+  ],
+  "related projects": [
+    "4"
+  ],
+  "related technologies": [
+    "5"
+  ],
+  "relative libs": [
+    "3"
+  ],
+  "relatively simple": [
+    "2"
+  ],
+  "release flows": [
+    "3"
+  ],
+  "release of": [
+    "2",
+    "3"
+  ],
+  "release policy": [
+    "2"
+  ],
+  "relevant library": [
+    "3"
+  ],
+  "relevant skills": [
+    "1"
+  ],
+  "rely on": [
+    "3"
+  ],
+  "report abuse": [
+    "5"
+  ],
+  "reports token": [
+    "2"
+  ],
+  "repository and": [
+    "4"
+  ],
+  "repository contains": [
+    "3"
+  ],
+  "repository locally": [
+    "3"
+  ],
+  "repository next": [
+    "4"
+  ],
+  "repository where": [
+    "4"
+  ],
+  "representation of": [
+    "5"
+  ],
+  "require calls": [
+    "3"
+  ],
+  "require giving": [
+    "3"
+  ],
+  "require the": [
+    "3"
+  ],
+  "required by": [
+    "5"
+  ],
+  "required dependencies": [
+    "4",
+    "5"
+  ],
+  "required for": [
+    "5"
+  ],
+  "required later": [
+    "4"
+  ],
+  "required temperature": [
+    "5"
+  ],
+  "required variables": [
+    "5"
+  ],
+  "requirement moving": [
+    "5"
+  ],
+  "requirements and": [
+    "5"
+  ],
+  "requirements for": [
+    "3"
+  ],
+  "requirements txt": [
+    "4"
+  ],
+  "requires package_name": [
+    "3"
+  ],
+  "requires python": [
+    "2"
+  ],
+  "reserved coursera": [
+    "1"
+  ],
+  "resonated with": [
+    "5"
+  ],
+  "resources career": [
+    "1"
+  ],
+  "resources for": [
+    "2"
+  ],
+  "resources hr": [
+    "1"
+  ],
+  "respond help": [
+    "4"
+  ],
+  "response by": [
+    "5"
+  ],
+  "response containing": [
+    "5"
+  ],
+  "response content": [
+    "2"
+  ],
+  "response def": [
+    "5"
+  ],
+  "response file": [
+    "5"
+  ],
+  "response i": [
+    "5"
+  ],
+  "response is": [
+    "5"
+  ],
+  "response it": [
+    "5"
+  ],
+  "response model": [
+    "2"
+  ],
+  "response prompt_llm": [
+    "5"
+  ],
+  "response return": [
+    "5"
+  ],
+  "response that": [
+    "5"
+  ],
+  "response what": [
+    "4"
+  ],
+  "response when": [
+    "5"
+  ],
+  "response_metadata finally": [
+    "2"
+  ],
+  "response_metadata humanmessage": [
+    "2"
+  ],
+  "response_metadata token_usage": [
+    "2"
+  ],
+  "response_metadata we": [
+    "2"
+  ],
+  "responses 0": [
+    "5"
+  ],
+  "responses ai": [
+    "5"
+  ],
+  "responses yet": [
+    "4"
+  ],
+  "rest of": [
+    "3"
+  ],
+  "resume or": [
+    "1"
+  ],
+  "resume screening": [
+    "1"
+  ],
+  "retrieval algorithms": [
+    "5"
+  ],
+  "retrieval logic": [
+    "3"
+  ],
+  "return data": [
+    "2"
+  ],
+  "return generated_response": [
+    "5"
+  ],
+  "return the": [
+    "5"
+  ],
+  "returned step": [
+    "5"
+  ],
+  "returns a": [
+    "2"
+  ],
+  "review instructor": [
+    "1"
+  ],
+  "reviews intermediate": [
+    "1"
+  ],
+  "rhythm has": [
+    "1"
+  ],
+  "right away": [
+    "4"
+  ],
+  "right now": [
+    "2"
+  ],
+  "rights reserved": [
+    "1"
+  ],
+  "roadmap for": [
+    "5"
+  ],
+  "role user": [
+    "2"
+  ],
+  "role your": [
+    "5"
+  ],
+  "roles and": [
+    "2"
+  ],
+  "roles in": [
+    "2"
+  ],
+  "ruby on": [
+    "5"
+  ],
+  "ruff and": [
+    "3"
+  ],
+  "ruff check": [
+    "3"
+  ],
+  "ruff for": [
+    "3"
+  ],
+  "ruff format": [
+    "3"
+  ],
+  "ruff to": [
+    "3"
+  ],
+  "rules terms": [
+    "4"
+  ],
+  "rules working": [
+    "3"
+  ],
+  "run 32654a56": [
+    "2"
+  ],
+  "run all": [
+    "3"
+  ],
+  "run formatting": [
+    "3"
+  ],
+  "run from": [
+    "3"
+  ],
+  "run group": [
+    "3"
+  ],
+  "run in": [
+    "2"
+  ],
+  "run is": [
+    "2"
+  ],
+  "run linting": [
+    "3"
+  ],
+  "run on": [
+    "3"
+  ],
+  "run pip": [
+    "2"
+  ],
+  "run tests": [
+    "3"
+  ],
+  "run the": [
+    "3",
+    "4",
+    "5"
+  ],
+  "run these": [
+    "3"
+  ],
+  "run unit": [
+    "3"
+  ],
+  "run uv": [
+    "3"
+  ],
+  "run with": [
+    "3"
+  ],
+  "runnables they": [
+    "2"
+  ],
+  "runnables which": [
+    "2"
+  ],
+  "running conda": [
+    "4"
+  ],
+  "running examples": [
+    "3"
+  ],
+  "running langchain": [
+    "3"
+  ],
+  "running we": [
+    "4"
+  ],
+  "s a": [
+    "4"
+  ],
+  "s api": [
+    "5"
+  ],
+  "s create": [
+    "2"
+  ],
+  "s dependencies": [
+    "5"
+  ],
+  "s dive": [
+    "2"
+  ],
+  "s docker": [
+    "5"
+  ],
+  "s experience": [
+    "5"
+  ],
+  "s first": [
+    "2"
+  ],
+  "s it": [
+    "2"
+  ],
+  "s just": [
+    "2"
+  ],
+  "s learn": [
+    "2"
+  ],
+  "s model": [
+    "5"
+  ],
+  "s new": [
+    "5"
+  ],
+  "s so": [
+    "1"
+  ],
+  "s topic": [
+    "5"
+  ],
+  "same command": [
+    "3"
+  ],
+  "same formatting": [
+    "3"
+  ],
+  "same response": [
+    "5"
+  ],
+  "save boost": [
+    "5"
+  ],
+  "scale forem": [
+    "5"
+  ],
+  "schedule and": [
+    "1"
+  ],
+  "schedule learn": [
+    "1"
+  ],
+  "science certificate": [
+    "1"
+  ],
+  "science data": [
+    "1"
+  ],
+  "science education": [
+    "1"
+  ],
+  "science software": [
+    "1"
+  ],
+  "scientists and": [
+    "1"
+  ],
+  "scoop install": [
+    "3"
+  ],
+  "scoop scoop": [
+    "3"
+  ],
+  "scratches the": [
+    "2"
+  ],
+  "screening apps": [
+    "1"
+  ],
+  "script generator": [
+    "1"
+  ],
+  "script outputs": [
+    "4"
+  ],
+  "script usually": [
+    "5"
+  ],
+  "scripts or": [
+    "5"
+  ],
+  "scripts pre": [
+    "3"
+  ],
+  "scripts required": [
+    "4"
+  ],
+  "search partner": [
+    "5"
+  ],
+  "search write": [
+    "4"
+  ],
+  "section about": [
+    "3"
+  ],
+  "sections below": [
+    "3"
+  ],
+  "sections of": [
+    "2"
+  ],
+  "security forem": [
+    "5"
+  ],
+  "security policy": [
+    "2"
+  ],
+  "see exactly": [
+    "2"
+  ],
+  "see for": [
+    "3"
+  ],
+  "see here": [
+    "2"
+  ],
+  "see how": [
+    "1"
+  ],
+  "see our": [
+    "2"
+  ],
+  "see that": [
+    "2"
+  ],
+  "see the": [
+    "2",
+    "3"
+  ],
+  "see this": [
+    "2"
+  ],
+  "see what": [
+    "2"
+  ],
+  "select chat": [
+    "2"
+  ],
+  "seneca polytechnic": [
+    "5"
+  ],
+  "sense that": [
+    "3"
+  ],
+  "separate test": [
+    "3"
+  ],
+  "sequential modules": [
+    "1"
+  ],
+  "series 1": [
+    "5"
+  ],
+  "server should": [
+    "4"
+  ],
+  "server to": [
+    "4"
+  ],
+  "set them": [
+    "2"
+  ],
+  "set up": [
+    "4"
+  ],
+  "set your": [
+    "2"
+  ],
+  "setting up": [
+    "4"
+  ],
+  "setting which": [
+    "5"
+  ],
+  "setup jupyter": [
+    "2"
+  ],
+  "setup this": [
+    "3"
+  ],
+  "shah dec": [
+    "5"
+  ],
+  "shah dev": [
+    "5"
+  ],
+  "shah follow": [
+    "5"
+  ],
+  "shah how": [
+    "5"
+  ],
+  "shah nov": [
+    "5"
+  ],
+  "shah posted": [
+    "5"
+  ],
+  "shape better": [
+    "5"
+  ],
+  "share it": [
+    "1"
+  ],
+  "share your": [
+    "1"
+  ],
+  "shareable career": [
+    "1"
+  ],
+  "shareable certificate": [
+    "1"
+  ],
+  "shared knowledge": [
+    "5"
+  ],
+  "sheets how": [
+    "1"
+  ],
+  "short break": [
+    "4"
+  ],
+  "should be": [
+    "3",
+    "4"
+  ],
+  "should focus": [
+    "5"
+  ],
+  "should get": [
+    "5"
+  ],
+  "should know": [
+    "5"
+  ],
+  "should look": [
+    "5"
+  ],
+  "show you": [
+    "2"
+  ],
+  "shown in": [
+    "3"
+  ],
+  "side effects": [
+    "3"
+  ],
+  "sign in": [
+    "4"
+  ],
+  "sign up": [
+    "2",
+    "4"
+  ],
+  "signs you": [
+    "1"
+  ],
+  "similarity explained": [
+    "5"
+  ],
+  "simple llm": [
+    "2"
+  ],
+  "simple text": [
+    "5"
+  ],
+  "simple thank": [
+    "5"
+  ],
+  "simply call": [
+    "2"
+  ],
+  "simply install": [
+    "3"
+  ],
+  "simply vectordatabase": [
+    "5"
+  ],
+  "since 2018": [
+    "1"
+  ],
+  "since 2020": [
+    "1"
+  ],
+  "since 2021": [
+    "1"
+  ],
+  "single llm": [
+    "2"
+  ],
+  "single template": [
+    "2"
+  ],
+  "size all": [
+    "4"
+  ],
+  "size jupyter": [
+    "4"
+  ],
+  "skill and": [
+    "5"
+  ],
+  "skill devops": [
+    "5"
+  ],
+  "skill experience": [
+    "5"
+  ],
+  "skill levels": [
+    "5"
+  ],
+  "skill skill": [
+    "5"
+  ],
+  "skill that": [
+    "5"
+  ],
+  "skill user": [
+    "5"
+  ],
+  "skills artificial": [
+    "1"
+  ],
+  "skills i": [
+    "1"
+  ],
+  "skills in": [
+    "1"
+  ],
+  "skills learn": [
+    "1"
+  ],
+  "skills or": [
+    "1"
+  ],
+  "skills to": [
+    "1"
+  ],
+  "skills which": [
+    "5"
+  ],
+  "skills with": [
+    "1"
+  ],
+  "skills you": [
+    "1"
+  ],
+  "skip pre": [
+    "3"
+  ],
+  "skip to": [
+    "2",
+    "3",
+    "5"
+  ],
+  "skipping pre": [
+    "3"
+  ],
+  "slack github": [
+    "2",
+    "3"
+  ],
+  "slavery statement": [
+    "1"
+  ],
+  "small tutorial": [
+    "5"
+  ],
+  "smarter way": [
+    "1"
+  ],
+  "so much": [
+    "1"
+  ],
+  "so take": [
+    "4"
+  ],
+  "so your": [
+    "3"
+  ],
+  "social impact": [
+    "1"
+  ],
+  "social media": [
+    "1"
+  ],
+  "socket allow": [
+    "3"
+  ],
+  "socket tests": [
+    "3"
+  ],
+  "software career": [
+    "5"
+  ],
+  "software development": [
+    "1",
+    "5"
+  ],
+  "software that": [
+    "5"
+  ],
+  "some langchain": [
+    "3"
+  ],
+  "some prep": [
+    "4"
+  ],
+  "some prompting": [
+    "2"
+  ],
+  "some test": [
+    "3"
+  ],
+  "someone in": [
+    "5"
+  ],
+  "someone who": [
+    "5"
+  ],
+  "sophisticated applications": [
+    "1"
+  ],
+  "source llms": [
+    "1"
+  ],
+  "source software": [
+    "5"
+  ],
+  "space to": [
+    "5"
+  ],
+  "speaker location": [
+    "5"
+  ],
+  "speaking generative": [
+    "1"
+  ],
+  "specialization learn": [
+    "1"
+  ],
+  "specialization packt": [
+    "1"
+  ],
+  "specialization when": [
+    "1"
+  ],
+  "specific areas": [
+    "5"
+  ],
+  "specific library": [
+    "3"
+  ],
+  "specific model": [
+    "2"
+  ],
+  "specific questions": [
+    "2"
+  ],
+  "specified in": [
+    "3"
+  ],
+  "split across": [
+    "3"
+  ],
+  "splitters 0": [
+    "4"
+  ],
+  "sponsors for": [
+    "5"
+  ],
+  "sponsors thank": [
+    "5"
+  ],
+  "spreading a": [
+    "5"
+  ],
+  "spylon kernel": [
+    "4"
+  ],
+  "sql query": [
+    "1"
+  ],
+  "stack developer": [
+    "5"
+  ],
+  "standalone python": [
+    "4"
+  ],
+  "standard interface": [
+    "2"
+  ],
+  "standard model": [
+    "2"
+  ],
+  "standards without": [
+    "3"
+  ],
+  "start by": [
+    "1"
+  ],
+  "start jupyter": [
+    "4"
+  ],
+  "start logging": [
+    "2"
+  ],
+  "start the": [
+    "4"
+  ],
+  "start with": [
+    "3"
+  ],
+  "started make": [
+    "4"
+  ],
+  "started with": [
+    "2",
+    "5"
+  ],
+  "statement manage": [
+    "1"
+  ],
+  "statements in": [
+    "5"
+  ],
+  "status about": [
+    "4"
+  ],
+  "status free": [
+    "1"
+  ],
+  "step 1": [
+    "4",
+    "5"
+  ],
+  "step 2": [
+    "4",
+    "5"
+  ],
+  "step 3": [
+    "4",
+    "5"
+  ],
+  "step 4": [
+    "4",
+    "5"
+  ],
+  "step by": [
+    "5"
+  ],
+  "step it": [
+    "5"
+  ],
+  "step tutorial": [
+    "5"
+  ],
+  "steps with": [
+    "2"
+  ],
+  "still being": [
+    "3"
+  ],
+  "still enforce": [
+    "3"
+  ],
+  "still this": [
+    "2"
+  ],
+  "stop logprobs": [
+    "2"
+  ],
+  "store get": [
+    "1"
+  ],
+  "store it": [
+    "5"
+  ],
+  "store the": [
+    "5"
+  ],
+  "store your": [
+    "5"
+  ],
+  "stored in": [
+    "5"
+  ],
+  "stores the": [
+    "5"
+  ],
+  "story community": [
+    "1"
+  ],
+  "stream individual": [
+    "2"
+  ],
+  "stream messages": [
+    "2"
+  ],
+  "streaming because": [
+    "2"
+  ],
+  "streaming chat": [
+    "2"
+  ],
+  "streaming modes": [
+    "2"
+  ],
+  "streaming prompt": [
+    "2"
+  ],
+  "streamline data": [
+    "1"
+  ],
+  "strengths and": [
+    "1"
+  ],
+  "strings or": [
+    "2"
+  ],
+  "stronger connections": [
+    "5"
+  ],
+  "structure following": [
+    "5"
+  ],
+  "structure see": [
+    "2"
+  ],
+  "structured around": [
+    "1"
+  ],
+  "studio builder": [
+    "5"
+  ],
+  "studio s": [
+    "5"
+  ],
+  "studio this": [
+    "5"
+  ],
+  "subject matter": [
+    "1"
+  ],
+  "subject or": [
+    "1"
+  ],
+  "submitting a": [
+    "3"
+  ],
+  "subscribe pic": [
+    "5"
+  ],
+  "subscription learn": [
+    "1"
+  ],
+  "subset of": [
+    "3"
+  ],
+  "subsystem for": [
+    "3"
+  ],
+  "such a": [
+    "5"
+  ],
+  "such as": [
+    "1",
+    "2",
+    "4"
+  ],
+  "such response": [
+    "5"
+  ],
+  "suitable for": [
+    "1"
+  ],
+  "support certificate": [
+    "1"
+  ],
+  "support chatbot": [
+    "1"
+  ],
+  "support tools": [
+    "1"
+  ],
+  "supported integrations": [
+    "2"
+  ],
+  "supporting the": [
+    "5"
+  ],
+  "supports chat": [
+    "2"
+  ],
+  "supports many": [
+    "2"
+  ],
+  "supports multiple": [
+    "2"
+  ],
+  "sure miniconda": [
+    "4"
+  ],
+  "sure to": [
+    "2"
+  ],
+  "surface of": [
+    "2"
+  ],
+  "swe tribalscale": [
+    "5"
+  ],
+  "sync the": [
+    "3"
+  ],
+  "sync then": [
+    "3"
+  ],
+  "system message": [
+    "2"
+  ],
+  "system system_template": [
+    "2"
+  ],
+  "system will": [
+    "3"
+  ],
+  "system_fingerprint fp_0705bf87c0": [
+    "2"
+  ],
+  "system_template translate": [
+    "2"
+  ],
+  "system_template user": [
+    "2"
+  ],
+  "systemmessage aimessage": [
+    "2"
+  ],
+  "systemmessage content": [
+    "2"
+  ],
+  "systemmessage messages": [
+    "2"
+  ],
+  "systems conversational": [
+    "1"
+  ],
+  "systems each": [
+    "3"
+  ],
+  "t have": [
+    "3"
+  ],
+  "t just": [
+    "1"
+  ],
+  "t offer": [
+    "1"
+  ],
+  "tags about": [
+    "5"
+  ],
+  "tailored weekly": [
+    "5"
+  ],
+  "take a": [
+    "2",
+    "4"
+  ],
+  "take courses": [
+    "1"
+  ],
+  "take in": [
+    "2"
+  ],
+  "takes the": [
+    "2",
+    "5"
+  ],
+  "tasks by": [
+    "1"
+  ],
+  "tata danone": [
+    "1"
+  ],
+  "taught in": [
+    "1"
+  ],
+  "teaching engineering": [
+    "1"
+  ],
+  "tech blog": [
+    "1"
+  ],
+  "tech enthusiasts": [
+    "5"
+  ],
+  "techniques are": [
+    "3"
+  ],
+  "technologies langchain": [
+    "5"
+  ],
+  "technology it": [
+    "1"
+  ],
+  "temperature 0": [
+    "5"
+  ],
+  "temperature and": [
+    "2",
+    "5"
+  ],
+  "temperature ranges": [
+    "5"
+  ],
+  "template and": [
+    "2",
+    "5"
+  ],
+  "template by": [
+    "2"
+  ],
+  "template chain": [
+    "5"
+  ],
+  "template contains": [
+    "5"
+  ],
+  "template etc": [
+    "5"
+  ],
+  "template here": [
+    "2"
+  ],
+  "template invoke": [
+    "5"
+  ],
+  "template is": [
+    "2"
+  ],
+  "template prompt_template": [
+    "5"
+  ],
+  "template we": [
+    "2"
+  ],
+  "template which": [
+    "5"
+  ],
+  "template with": [
+    "2"
+  ],
+  "template you": [
+    "5"
+  ],
+  "templates and": [
+    "2"
+  ],
+  "templates are": [
+    "2"
+  ],
+  "templates conclusion": [
+    "2"
+  ],
+  "templates debugging": [
+    "2"
+  ],
+  "templates if": [
+    "3"
+  ],
+  "templates in": [
+    "2"
+  ],
+  "templates open": [
+    "2"
+  ],
+  "templates right": [
+    "2"
+  ],
+  "terms of": [
+    "5"
+  ],
+  "terms privacy": [
+    "1"
+  ],
+  "terms text": [
+    "4"
+  ],
+  "test dependencies": [
+    "3"
+  ],
+  "test examples": [
+    "1"
+  ],
+  "test if": [
+    "3"
+  ],
+  "test jupyter": [
+    "3"
+  ],
+  "test makes": [
+    "3"
+  ],
+  "test pytest": [
+    "3"
+  ],
+  "test release": [
+    "3"
+  ],
+  "test that": [
+    "3"
+  ],
+  "test the": [
+    "3"
+  ],
+  "test to": [
+    "3"
+  ],
+  "test your": [
+    "1"
+  ],
+  "tested or": [
+    "3"
+  ],
+  "testers blog": [
+    "1"
+  ],
+  "testimonials what": [
+    "1"
+  ],
+  "testing developing": [
+    "3"
+  ],
+  "testing different": [
+    "4"
+  ],
+  "testing note": [
+    "3"
+  ],
+  "tests and": [
+    "3"
+  ],
+  "tests cd": [
+    "3"
+  ],
+  "tests cover": [
+    "3"
+  ],
+  "tests if": [
+    "3"
+  ],
+  "tests that": [
+    "3"
+  ],
+  "tests unit_tests": [
+    "3"
+  ],
+  "text and": [
+    "2"
+  ],
+  "text api": [
+    "2"
+  ],
+  "text content": [
+    "2"
+  ],
+  "text embeddings": [
+    "1"
+  ],
+  "text from": [
+    "2"
+  ],
+  "text hi": [
+    "2"
+  ],
+  "text into": [
+    "2"
+  ],
+  "text mining": [
+    "1"
+  ],
+  "text prompt": [
+    "5"
+  ],
+  "text splitters": [
+    "4"
+  ],
+  "text the": [
+    "2"
+  ],
+  "text to": [
+    "2",
+    "4"
+  ],
+  "than that": [
+    "1"
+  ],
+  "than would": [
+    "3"
+  ],
+  "thank you": [
+    "5"
+  ],
+  "thanks goes": [
+    "5"
+  ],
+  "that are": [
+    "3"
+  ],
+  "that can": [
+    "5"
+  ],
+  "that chatmodels": [
+    "2"
+  ],
+  "that chatprompttemplate": [
+    "2"
+  ],
+  "that choose": [
+    "1"
+  ],
+  "that consists": [
+    "2"
+  ],
+  "that coursera": [
+    "1"
+  ],
+  "that does": [
+    "3"
+  ],
+  "that have": [
+    "3"
+  ],
+  "that help": [
+    "1"
+  ],
+  "that includes": [
+    "2"
+  ],
+  "that integrate": [
+    "1"
+  ],
+  "that introduce": [
+    "1"
+  ],
+  "that is": [
+    "2",
+    "5"
+  ],
+  "that it": [
+    "2",
+    "3"
+  ],
+  "that makes": [
+    "3",
+    "4"
+  ],
+  "that miniconda": [
+    "4"
+  ],
+  "that most": [
+    "3"
+  ],
+  "that my": [
+    "1"
+  ],
+  "that powers": [
+    "5"
+  ],
+  "that pyproject": [
+    "3"
+  ],
+  "that python": [
+    "4"
+  ],
+  "that require": [
+    "3"
+  ],
+  "that s": [
+    "2"
+  ],
+  "that the": [
+    "3"
+  ],
+  "that this": [
+    "2"
+  ],
+  "that user": [
+    "5"
+  ],
+  "that week": [
+    "5"
+  ],
+  "that were": [
+    "4"
+  ],
+  "that you": [
+    "2"
+  ],
+  "the activate": [
+    "5"
+  ],
+  "the amount": [
+    "5"
+  ],
+  "the app": [
+    "1"
+  ],
+  "the applications": [
+    "2"
+  ],
+  "the best": [
+    "1",
+    "2"
+  ],
+  "the chain": [
+    "5"
+  ],
+  "the chat": [
+    "2"
+  ],
+  "the ci": [
+    "3"
+  ],
+  "the code": [
+    "3"
+  ],
+  "the codebase": [
+    "3"
+  ],
+  "the cognitive": [
+    "3"
+  ],
+  "the complete": [
+    "1"
+  ],
+  "the concepts": [
+    "1"
+  ],
+  "the core": [
+    "2"
+  ],
+  "the correct": [
+    "4"
+  ],
+  "the course": [
+    "1"
+  ],
+  "the coursera": [
+    "1"
+  ],
+  "the current": [
+    "5"
+  ],
+  "the data": [
+    "5"
+  ],
+  "the dependencies": [
+    "3",
+    "4"
+  ],
+  "the dependency": [
+    "3"
+  ],
+  "the dev": [
+    "5"
+  ],
+  "the devcontainer": [
+    "3"
+  ],
+  "the digital": [
+    "1"
+  ],
+  "the direct": [
+    "3"
+  ],
+  "the discussion": [
+    "5"
+  ],
+  "the end": [
+    "1"
+  ],
+  "the entire": [
+    "3"
+  ],
+  "the environment": [
+    "4"
+  ],
+  "the exact": [
+    "5"
+  ],
+  "the exclusive": [
+    "5"
+  ],
+  "the experience": [
+    "5"
+  ],
+  "the explanation": [
+    "5"
+  ],
+  "the file": [
+    "5"
+  ],
+  "the files": [
+    "3"
+  ],
+  "the first": [
+    "5"
+  ],
+  "the following": [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "the format_diff": [
+    "3"
+  ],
+  "the formatted": [
+    "2"
+  ],
+  "the formatter": [
+    "3"
+  ],
+  "the fundamentals": [
+    "1"
+  ],
+  "the generated": [
+    "5"
+  ],
+  "the git": [
+    "3",
+    "4"
+  ],
+  "the given": [
+    "5"
+  ],
+  "the how": [
+    "2"
+  ],
+  "the inclusive": [
+    "5"
+  ],
+  "the input": [
+    "2",
+    "5"
+  ],
+  "the installation": [
+    "4"
+  ],
+  "the instance": [
+    "5"
+  ],
+  "the instructions": [
+    "4",
+    "5"
+  ],
+  "the invoke": [
+    "2",
+    "5"
+  ],
+  "the job": [
+    "1"
+  ],
+  "the jupyter": [
+    "4"
+  ],
+  "the langchain": [
+    "1",
+    "3",
+    "4"
+  ],
+  "the langsmith": [
+    "2"
+  ],
+  "the language": [
+    "2"
+  ],
+  "the learner": [
+    "1"
+  ],
+  "the link": [
+    "2"
+  ],
+  "the lint_diff": [
+    "3"
+  ],
+  "the linter": [
+    "3"
+  ],
+  "the linting": [
+    "3"
+  ],
+  "the list": [
+    "3"
+  ],
+  "the llm": [
+    "3",
+    "5"
+  ],
+  "the logic": [
+    "3"
+  ],
+  "the main": [
+    "5"
+  ],
+  "the master": [
+    "3"
+  ],
+  "the messages": [
+    "2"
+  ],
+  "the model": [
+    "2"
+  ],
+  "the monorepo": [
+    "3"
+  ],
+  "the necessary": [
+    "4"
+  ],
+  "the new": [
+    "3"
+  ],
+  "the notebook": [
+    "3"
+  ],
+  "the official": [
+    "4",
+    "5"
+  ],
+  "the open": [
+    "5"
+  ],
+  "the openai": [
+    "5"
+  ],
+  "the packages": [
+    "4"
+  ],
+  "the pmp": [
+    "1"
+  ],
+  "the power": [
+    "1"
+  ],
+  "the project": [
+    "3",
+    "4",
+    "5"
+  ],
+  "the prompt": [
+    "5"
+  ],
+  "the prompt_llm": [
+    "5"
+  ],
+  "the purpose": [
+    "5"
+  ],
+  "the pytest": [
+    "3"
+  ],
+  "the raw": [
+    "2"
+  ],
+  "the related": [
+    "4"
+  ],
+  "the release": [
+    "2",
+    "3"
+  ],
+  "the relevant": [
+    "3"
+  ],
+  "the repository": [
+    "3"
+  ],
+  "the required": [
+    "4",
+    "5"
+  ],
+  "the requirements": [
+    "5"
+  ],
+  "the response": [
+    "5"
+  ],
+  "the rest": [
+    "3"
+  ],
+  "the same": [
+    "3"
+  ],
+  "the sections": [
+    "3"
+  ],
+  "the sense": [
+    "3"
+  ],
+  "the skill": [
+    "5"
+  ],
+  "the small": [
+    "5"
+  ],
+  "the specific": [
+    "3",
+    "5"
+  ],
+  "the surface": [
+    "2"
+  ],
+  "the system": [
+    "2"
+  ],
+  "the techniques": [
+    "3"
+  ],
+  "the temperature": [
+    "5"
+  ],
+  "the template": [
+    "5"
+  ],
+  "the text": [
+    "2"
+  ],
+  "the tools": [
+    "1"
+  ],
+  "the top": [
+    "3"
+  ],
+  "the topic": [
+    "5"
+  ],
+  "the topics": [
+    "5"
+  ],
+  "the unit": [
+    "3"
+  ],
+  "the user": [
+    "2",
+    "5"
+  ],
+  "the v1": [
+    "2",
+    "3"
+  ],
+  "the value": [
+    "5"
+  ],
+  "the variable": [
+    "5"
+  ],
+  "the variables": [
+    "5"
+  ],
+  "the very": [
+    "3"
+  ],
+  "the virtual": [
+    "5"
+  ],
+  "the virtualenv": [
+    "3"
+  ],
+  "the visual": [
+    "5"
+  ],
+  "the you": [
+    "5"
+  ],
+  "their career": [
+    "1"
+  ],
+  "their experience": [
+    "5"
+  ],
+  "them as": [
+    "4"
+  ],
+  "them in": [
+    "3"
+  ],
+  "them know": [
+    "5"
+  ],
+  "them right": [
+    "4"
+  ],
+  "them see": [
+    "2"
+  ],
+  "them to": [
+    "2"
+  ],
+  "them using": [
+    "5"
+  ],
+  "them with": [
+    "2"
+  ],
+  "then install": [
+    "3"
+  ],
+  "then verify": [
+    "3"
+  ],
+  "there are": [
+    "1",
+    "3"
+  ],
+  "therefore declare": [
+    "5"
+  ],
+  "these 3": [
+    "5"
+  ],
+  "these applications": [
+    "2"
+  ],
+  "these concepts": [
+    "2"
+  ],
+  "these docs": [
+    "2",
+    "3"
+  ],
+  "these has": [
+    "3"
+  ],
+  "these locally": [
+    "3"
+  ],
+  "these packages": [
+    "3",
+    "4"
+  ],
+  "they are": [
+    "5"
+  ],
+  "they can": [
+    "3"
+  ],
+  "they expose": [
+    "2"
+  ],
+  "they require": [
+    "3"
+  ],
+  "they take": [
+    "2"
+  ],
+  "third party": [
+    "3"
+  ],
+  "this allows": [
+    "2"
+  ],
+  "this and": [
+    "2"
+  ],
+  "this application": [
+    "2"
+  ],
+  "this can": [
+    "3"
+  ],
+  "this chain": [
+    "5"
+  ],
+  "this course": [
+    "1"
+  ],
+  "this create": [
+    "5"
+  ],
+  "this credential": [
+    "1"
+  ],
+  "this function": [
+    "5"
+  ],
+  "this guide": [
+    "2",
+    "3"
+  ],
+  "this insightful": [
+    "5"
+  ],
+  "this is": [
+    "2",
+    "3",
+    "5"
+  ],
+  "this just": [
+    "2"
+  ],
+  "this list": [
+    "2"
+  ],
+  "this page": [
+    "2",
+    "3"
+  ],
+  "this piece": [
+    "5"
+  ],
+  "this project": [
+    "3",
+    "5"
+  ],
+  "this prompt": [
+    "2"
+  ],
+  "this quickstart": [
+    "2",
+    "3"
+  ],
+  "this repository": [
+    "3"
+  ],
+  "this run": [
+    "2"
+  ],
+  "this specialization": [
+    "1"
+  ],
+  "this to": [
+    "3"
+  ],
+  "this topic": [
+    "5"
+  ],
+  "this track": [
+    "5"
+  ],
+  "this transformation": [
+    "2"
+  ],
+  "this tutorial": [
+    "2",
+    "5"
+  ],
+  "this value": [
+    "5"
+  ],
+  "this was": [
+    "5"
+  ],
+  "this way": [
+    "3"
+  ],
+  "this will": [
+    "4"
+  ],
+  "those with": [
+    "1"
+  ],
+  "though we": [
+    "4"
+  ],
+  "thoughts cancel": [
+    "4"
+  ],
+  "thoughts in": [
+    "5"
+  ],
+  "thread tags": [
+    "5"
+  ],
+  "through google": [
+    "5"
+  ],
+  "through guides": [
+    "2"
+  ],
+  "through how": [
+    "3"
+  ],
+  "through the": [
+    "1"
+  ],
+  "through these": [
+    "5"
+  ],
+  "time conversations": [
+    "1"
+  ],
+  "time to": [
+    "5"
+  ],
+  "tip if": [
+    "2"
+  ],
+  "tip message": [
+    "2"
+  ],
+  "to 0": [
+    "5"
+  ],
+  "to 1": [
+    "5"
+  ],
+  "to 10": [
+    "1"
+  ],
+  "to a": [
+    "3"
+  ],
+  "to access": [
+    "2"
+  ],
+  "to allow": [
+    "5"
+  ],
+  "to an": [
+    "1"
+  ],
+  "to assist": [
+    "2"
+  ],
+  "to be": [
+    "1",
+    "2",
+    "3",
+    "5"
+  ],
+  "to become": [
+    "2"
+  ],
+  "to begin": [
+    "4"
+  ],
+  "to better": [
+    "2"
+  ],
+  "to build": [
+    "2",
+    "5"
+  ],
+  "to call": [
+    "5"
+  ],
+  "to check": [
+    "3"
+  ],
+  "to checkout": [
+    "5"
+  ],
+  "to comments": [
+    "5"
+  ],
+  "to complete": [
+    "1",
+    "4"
+  ],
+  "to content": [
+    "5"
+  ],
+  "to create": [
+    "1",
+    "2",
+    "5"
+  ],
+  "to declare": [
+    "5"
+  ],
+  "to develop": [
+    "1",
+    "5"
+  ],
+  "to discuss": [
+    "5"
+  ],
+  "to dive": [
+    "1",
+    "4"
+  ],
+  "to do": [
+    "2",
+    "3",
+    "5"
+  ],
+  "to earn": [
+    "5"
+  ],
+  "to enhance": [
+    "1"
+  ],
+  "to ensure": [
+    "3"
+  ],
+  "to excel": [
+    "1"
+  ],
+  "to genai": [
+    "5"
+  ],
+  "to generate": [
+    "5"
+  ],
+  "to get": [
+    "2",
+    "4",
+    "5"
+  ],
+  "to go": [
+    "1"
+  ],
+  "to guides": [
+    "2",
+    "3"
+  ],
+  "to guidescontribute": [
+    "3"
+  ],
+  "to have": [
+    "5"
+  ],
+  "to help": [
+    "5"
+  ],
+  "to highlight": [
+    "1"
+  ],
+  "to import": [
+    "3"
+  ],
+  "to inspect": [
+    "2"
+  ],
+  "to install": [
+    "2",
+    "3"
+  ],
+  "to integrate": [
+    "5"
+  ],
+  "to introduce": [
+    "3"
+  ],
+  "to keep": [
+    "3",
+    "5"
+  ],
+  "to know": [
+    "1",
+    "5"
+  ],
+  "to langchain": [
+    "3",
+    "5"
+  ],
+  "to langgraph": [
+    "2"
+  ],
+  "to langsmith": [
+    "2"
+  ],
+  "to learn": [
+    "1",
+    "2",
+    "5"
+  ],
+  "to main": [
+    "2",
+    "3"
+  ],
+  "to only": [
+    "3"
+  ],
+  "to our": [
+    "5"
+  ],
+  "to outside": [
+    "3"
+  ],
+  "to pass": [
+    "2"
+  ],
+  "to run": [
+    "3",
+    "5"
+  ],
+  "to see": [
+    "2"
+  ],
+  "to set": [
+    "2",
+    "4"
+  ],
+  "to simply": [
+    "2"
+  ],
+  "to speech": [
+    "4"
+  ],
+  "to standalone": [
+    "4"
+  ],
+  "to start": [
+    "2"
+  ],
+  "to store": [
+    "5"
+  ],
+  "to stream": [
+    "2"
+  ],
+  "to supported": [
+    "2"
+  ],
+  "to take": [
+    "1"
+  ],
+  "to test": [
+    "3"
+  ],
+  "to text": [
+    "2"
+  ],
+  "to the": [
+    "2",
+    "3",
+    "5"
+  ],
+  "to this": [
+    "2"
+  ],
+  "to transition": [
+    "5"
+  ],
+  "to translate": [
+    "2"
+  ],
+  "to understand": [
+    "5"
+  ],
+  "to use": [
+    "2"
+  ],
+  "to view": [
+    "4"
+  ],
+  "to work": [
+    "2"
+  ],
+  "to your": [
+    "1"
+  ],
+  "to_messages systemmessage": [
+    "2"
+  ],
+  "together and": [
+    "5"
+  ],
+  "token content": [
+    "2"
+  ],
+  "token in": [
+    "2"
+  ],
+  "token usage": [
+    "2"
+  ],
+  "token_usage completion_tokens": [
+    "2"
+  ],
+  "tokens from": [
+    "2"
+  ],
+  "toml and": [
+    "3"
+  ],
+  "tool calls": [
+    "2"
+  ],
+  "tool develop": [
+    "1"
+  ],
+  "tool install": [
+    "3"
+  ],
+  "tools analyze": [
+    "1"
+  ],
+  "tools knowledge": [
+    "1"
+  ],
+  "tools like": [
+    "1"
+  ],
+  "tools machine": [
+    "4"
+  ],
+  "tools resume": [
+    "1"
+  ],
+  "tools skills": [
+    "1"
+  ],
+  "top comments": [
+    "5"
+  ],
+  "top companies": [
+    "1"
+  ],
+  "top level": [
+    "3"
+  ],
+  "topic additionally": [
+    "5"
+  ],
+  "topic and": [
+    "1"
+  ],
+  "topic busycaesar": [
+    "5"
+  ],
+  "topic per": [
+    "5"
+  ],
+  "topics langchain": [
+    "5"
+  ],
+  "topics like": [
+    "1"
+  ],
+  "topics that": [
+    "1"
+  ],
+  "toronto on": [
+    "5"
+  ],
+  "total_tokens 23": [
+    "2"
+  ],
+  "touched when": [
+    "3"
+  ],
+  "towards building": [
+    "1"
+  ],
+  "trace reports": [
+    "2"
+  ],
+  "trace the": [
+    "2"
+  ],
+  "trace we": [
+    "2"
+  ],
+  "traces export": [
+    "2"
+  ],
+  "tracing your": [
+    "2"
+  ],
+  "track image": [
+    "5"
+  ],
+  "track will": [
+    "5"
+  ],
+  "transform llms": [
+    "5"
+  ],
+  "transformation they": [
+    "2"
+  ],
+  "transformations include": [
+    "2"
+  ],
+  "transforms it": [
+    "2"
+  ],
+  "transition into": [
+    "5"
+  ],
+  "translate from": [
+    "2"
+  ],
+  "translate text": [
+    "2"
+  ],
+  "translate the": [
+    "2"
+  ],
+  "trial free": [
+    "1"
+  ],
+  "trial ibm": [
+    "1"
+  ],
+  "trial packt": [
+    "1"
+  ],
+  "tribalscale blogger": [
+    "5"
+  ],
+  "tribalscale joined": [
+    "5"
+  ],
+  "true export": [
+    "2"
+  ],
+  "true if": [
+    "2"
+  ],
+  "try load": [
+    "2"
+  ],
+  "try to": [
+    "5"
+  ],
+  "ts more": [
+    "2",
+    "3"
+  ],
+  "turn a": [
+    "5"
+  ],
+  "tutorial for": [
+    "5"
+  ],
+  "tutorial on": [
+    "5"
+  ],
+  "tutorial step": [
+    "5"
+  ],
+  "tutorial we": [
+    "5"
+  ],
+  "tutorial you": [
+    "2",
+    "5"
+  ],
+  "tutorials are": [
+    "2"
+  ],
+  "tutorials how": [
+    "2",
+    "3"
+  ],
+  "tutorialsbuild a": [
+    "2"
+  ],
+  "tv logo": [
+    "5"
+  ],
+  "twitter coursera": [
+    "1"
+  ],
+  "twitter slack": [
+    "2",
+    "3"
+  ],
+  "two messages": [
+    "2"
+  ],
+  "two user": [
+    "2"
+  ],
+  "txt and": [
+    "3"
+  ],
+  "txt press": [
+    "4"
+  ],
+  "ui ux": [
+    "1"
+  ],
+  "unaware of": [
+    "5"
+  ],
+  "under venv": [
+    "5"
+  ],
+  "understand the": [
+    "5"
+  ],
+  "understand them": [
+    "2"
+  ],
+  "understand this": [
+    "5"
+  ],
+  "understanding as": [
+    "1"
+  ],
+  "understanding of": [
+    "1"
+  ],
+  "understanding the": [
+    "1"
+  ],
+  "unique feature": [
+    "1"
+  ],
+  "unit test": [
+    "3"
+  ],
+  "unit tests": [
+    "3"
+  ],
+  "unit_tests formatting": [
+    "3"
+  ],
+  "unit_tests testing": [
+    "3"
+  ],
+  "unit_tests there": [
+    "3"
+  ],
+  "universities 100": [
+    "1"
+  ],
+  "universities for": [
+    "1"
+  ],
+  "university doesn": [
+    "1"
+  ],
+  "unix socket": [
+    "3"
+  ],
+  "unlimited access": [
+    "1"
+  ],
+  "unlock the": [
+    "1"
+  ],
+  "up and": [
+    "4"
+  ],
+  "up at": [
+    "2"
+  ],
+  "up embraced": [
+    "5"
+  ],
+  "up everyone": [
+    "5"
+  ],
+  "up let": [
+    "2"
+  ],
+  "up our": [
+    "4"
+  ],
+  "up sign": [
+    "4"
+  ],
+  "up software": [
+    "5"
+  ],
+  "up the": [
+    "3",
+    "4"
+  ],
+  "up we": [
+    "4"
+  ],
+  "update this": [
+    "5"
+  ],
+  "updates about": [
+    "5"
+  ],
+  "updating all": [
+    "4"
+  ],
+  "upfront though": [
+    "4"
+  ],
+  "upgrading to": [
+    "2"
+  ],
+  "uplifts creators": [
+    "5"
+  ],
+  "upskill your": [
+    "1"
+  ],
+  "us to": [
+    "2"
+  ],
+  "usage counts": [
+    "2"
+  ],
+  "usage information": [
+    "2"
+  ],
+  "usage_metadata input_tokens": [
+    "2"
+  ],
+  "use a": [
+    "2"
+  ],
+  "use built": [
+    "5"
+  ],
+  "use interchangeably": [
+    "2"
+  ],
+  "use of": [
+    "3"
+  ],
+  "use optional": [
+    "3"
+  ],
+  "use pre": [
+    "3"
+  ],
+  "use the": [
+    "2",
+    "3"
+  ],
+  "use windows": [
+    "3"
+  ],
+  "useful when": [
+    "3"
+  ],
+  "user as": [
+    "5"
+  ],
+  "user by": [
+    "5"
+  ],
+  "user calls": [
+    "5"
+  ],
+  "user content": [
+    "2"
+  ],
+  "user has": [
+    "5"
+  ],
+  "user input": [
+    "2"
+  ],
+  "user message": [
+    "2"
+  ],
+  "user s": [
+    "5"
+  ],
+  "user should": [
+    "5"
+  ],
+  "user text": [
+    "2"
+  ],
+  "user to": [
+    "5"
+  ],
+  "user variables": [
+    "2"
+  ],
+  "user wants": [
+    "5"
+  ],
+  "users different": [
+    "3"
+  ],
+  "users if": [
+    "3"
+  ],
+  "users who": [
+    "3"
+  ],
+  "users won": [
+    "3"
+  ],
+  "using homebrew": [
+    "3"
+  ],
+  "using jupyter": [
+    "4"
+  ],
+  "using langchain": [
+    "5"
+  ],
+  "using langsmith": [
+    "2"
+  ],
+  "using language": [
+    "2"
+  ],
+  "using pip": [
+    "3",
+    "5"
+  ],
+  "using prompt": [
+    "2"
+  ],
+  "using python": [
+    "1",
+    "4",
+    "5"
+  ],
+  "using ruff": [
+    "3"
+  ],
+  "using the": [
+    "3",
+    "5"
+  ],
+  "using uv": [
+    "3"
+  ],
+  "usually it": [
+    "2",
+    "5"
+  ],
+  "usually takes": [
+    "2"
+  ],
+  "utilizes uv": [
+    "3"
+  ],
+  "uv and": [
+    "3"
+  ],
+  "uv commands": [
+    "3"
+  ],
+  "uv documentation": [
+    "3"
+  ],
+  "uv lock": [
+    "3"
+  ],
+  "uv recommended": [
+    "3"
+  ],
+  "uv run": [
+    "3"
+  ],
+  "uv sync": [
+    "3"
+  ],
+  "uv tool": [
+    "3"
+  ],
+  "uv v0": [
+    "3"
+  ],
+  "ux design": [
+    "1"
+  ],
+  "v0 0": [
+    "2"
+  ],
+  "v0 2": [
+    "2"
+  ],
+  "v0 3": [
+    "2",
+    "3"
+  ],
+  "v0 5": [
+    "3"
+  ],
+  "v1 0": [
+    "2",
+    "3"
+  ],
+  "value as": [
+    "5"
+  ],
+  "value of": [
+    "5"
+  ],
+  "variable further": [
+    "5"
+  ],
+  "variable is": [
+    "5"
+  ],
+  "variables and": [
+    "5"
+  ],
+  "variables from": [
+    "2"
+  ],
+  "variables further": [
+    "5"
+  ],
+  "variables language": [
+    "2"
+  ],
+  "variables required": [
+    "5"
+  ],
+  "variables to": [
+    "2"
+  ],
+  "variables which": [
+    "5"
+  ],
+  "various third": [
+    "3"
+  ],
+  "ve enabled": [
+    "2"
+  ],
+  "ve got": [
+    "2"
+  ],
+  "ve learned": [
+    "2"
+  ],
+  "ve made": [
+    "3"
+  ],
+  "vector database": [
+    "5"
+  ],
+  "vectordatabase final": [
+    "5"
+  ],
+  "vectordatabase llm": [
+    "5"
+  ],
+  "vectordatabase rag": [
+    "5"
+  ],
+  "venv bin": [
+    "5"
+  ],
+  "venv env": [
+    "5"
+  ],
+  "venv scripts": [
+    "5"
+  ],
+  "venv this": [
+    "5"
+  ],
+  "venv venv": [
+    "5"
+  ],
+  "verify dependency": [
+    "3"
+  ],
+  "verify however": [
+    "3"
+  ],
+  "verify the": [
+    "4"
+  ],
+  "version and": [
+    "4"
+  ],
+  "version controlled": [
+    "3"
+  ],
+  "version step": [
+    "4"
+  ],
+  "versions i": [
+    "4"
+  ],
+  "versions v0": [
+    "2"
+  ],
+  "very basic": [
+    "5"
+  ],
+  "very experienced": [
+    "5"
+  ],
+  "very helpful": [
+    "3"
+  ],
+  "very least": [
+    "3"
+  ],
+  "via a": [
+    "3"
+  ],
+  "via chocolatey": [
+    "3"
+  ],
+  "via option": [
+    "3"
+  ],
+  "via ruff": [
+    "3"
+  ],
+  "via scoop": [
+    "3"
+  ],
+  "via strings": [
+    "2"
+  ],
+  "vibe coding": [
+    "5"
+  ],
+  "view image": [
+    "4"
+  ],
+  "virtual environment": [
+    "5"
+  ],
+  "virtualenv so": [
+    "3"
+  ],
+  "visit the": [
+    "1",
+    "2",
+    "3"
+  ],
+  "visual representation": [
+    "5"
+  ],
+  "w learner": [
+    "1"
+  ],
+  "walks through": [
+    "3"
+  ],
+  "want this": [
+    "3"
+  ],
+  "want to": [
+    "1",
+    "2",
+    "3",
+    "5"
+  ],
+  "wants to": [
+    "5"
+  ],
+  "warnings no": [
+    "3"
+  ],
+  "was the": [
+    "5"
+  ],
+  "way okay": [
+    "5"
+  ],
+  "way to": [
+    "1",
+    "2"
+  ],
+  "way you": [
+    "3"
+  ],
+  "we also": [
+    "5"
+  ],
+  "we are": [
+    "2",
+    "5"
+  ],
+  "we can": [
+    "2",
+    "4"
+  ],
+  "we do": [
+    "2",
+    "3"
+  ],
+  "we format": [
+    "2"
+  ],
+  "we go": [
+    "4"
+  ],
+  "we ll": [
+    "2",
+    "4"
+  ],
+  "we might": [
+    "4"
+  ],
+  "we need": [
+    "4"
+  ],
+  "we offer": [
+    "1"
+  ],
+  "we re": [
+    "4"
+  ],
+  "we recognize": [
+    "3"
+  ],
+  "we take": [
+    "2"
+  ],
+  "we use": [
+    "3"
+  ],
+  "we ve": [
+    "2"
+  ],
+  "we want": [
+    "2"
+  ],
+  "weaknesses for": [
+    "1"
+  ],
+  "web application": [
+    "5"
+  ],
+  "week along": [
+    "5"
+  ],
+  "week flexible": [
+    "1"
+  ],
+  "week s": [
+    "5"
+  ],
+  "week skill": [
+    "5"
+  ],
+  "weekly roadmap": [
+    "5"
+  ],
+  "weeks to": [
+    "1"
+  ],
+  "welcome contributors": [
+    "3"
+  ],
+  "welcome thread": [
+    "5"
+  ],
+  "well as": [
+    "3"
+  ],
+  "well with": [
+    "4"
+  ],
+  "were installed": [
+    "4"
+  ],
+  "what are": [
+    "4"
+  ],
+  "what do": [
+    "1"
+  ],
+  "what exactly": [
+    "2"
+  ],
+  "what is": [
+    "1"
+  ],
+  "what it": [
+    "2"
+  ],
+  "what llm": [
+    "5"
+  ],
+  "what prompt": [
+    "2"
+  ],
+  "what we": [
+    "1"
+  ],
+  "what you": [
+    "1",
+    "2"
+  ],
+  "whats up": [
+    "5"
+  ],
+  "when i": [
+    "1"
+  ],
+  "when you": [
+    "1",
+    "3",
+    "5"
+  ],
+  "whenever it": [
+    "1"
+  ],
+  "where does": [
+    "2"
+  ],
+  "where i": [
+    "4"
+  ],
+  "where you": [
+    "5"
+  ],
+  "whether you": [
+    "1"
+  ],
+  "which accepts": [
+    "5"
+  ],
+  "which contains": [
+    "5"
+  ],
+  "which generates": [
+    "5"
+  ],
+  "which helps": [
+    "5"
+  ],
+  "which means": [
+    "2"
+  ],
+  "which stores": [
+    "5"
+  ],
+  "which the": [
+    "5"
+  ],
+  "which you": [
+    "5"
+  ],
+  "while generating": [
+    "5"
+  ],
+  "while keeping": [
+    "5"
+  ],
+  "while the": [
+    "4"
+  ],
+  "who do": [
+    "3"
+  ],
+  "who is": [
+    "5"
+  ],
+  "who wants": [
+    "5"
+  ],
+  "why people": [
+    "1"
+  ],
+  "will automatically": [
+    "3"
+  ],
+  "will be": [
+    "2",
+    "3",
+    "5"
+  ],
+  "will check": [
+    "3"
+  ],
+  "will contain": [
+    "2"
+  ],
+  "will ensure": [
+    "4"
+  ],
+  "will format": [
+    "3"
+  ],
+  "will get": [
+    "1"
+  ],
+  "will guide": [
+    "5"
+  ],
+  "will keep": [
+    "4"
+  ],
+  "will provide": [
+    "1"
+  ],
+  "will start": [
+    "1"
+  ],
+  "will still": [
+    "3"
+  ],
+  "will take": [
+    "2"
+  ],
+  "will translate": [
+    "2"
+  ],
+  "will want": [
+    "2"
+  ],
+  "windows alternative": [
+    "3"
+  ],
+  "windows and": [
+    "3"
+  ],
+  "windows subsystem": [
+    "3"
+  ],
+  "windows users": [
+    "3"
+  ],
+  "with 2": [
+    "5"
+  ],
+  "with a": [
+    "1",
+    "2",
+    "5"
+  ],
+  "with additional": [
+    "2"
+  ],
+  "with an": [
+    "1"
+  ],
+  "with any": [
+    "5"
+  ],
+  "with chat": [
+    "2"
+  ],
+  "with conda": [
+    "4"
+  ],
+  "with coursera": [
+    "1"
+  ],
+  "with each": [
+    "1"
+  ],
+  "with gemini": [
+    "5"
+  ],
+  "with git": [
+    "3"
+  ],
+  "with google": [
+    "5"
+  ],
+  "with hands": [
+    "1"
+  ],
+  "with import": [
+    "2"
+  ],
+  "with interactive": [
+    "1"
+  ],
+  "with it": [
+    "3"
+  ],
+  "with js": [
+    "5"
+  ],
+  "with just": [
+    "2"
+  ],
+  "with langchain": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "with langsmith": [
+    "2"
+  ],
+  "with language": [
+    "2"
+  ],
+  "with love": [
+    "5"
+  ],
+  "with minimal": [
+    "1"
+  ],
+  "with multiple": [
+    "2"
+  ],
+  "with optional": [
+    "3"
+  ],
+  "with prompt": [
+    "5"
+  ],
+  "with python": [
+    "1"
+  ],
+  "with such": [
+    "5"
+  ],
+  "with test": [
+    "3"
+  ],
+  "with the": [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "with them": [
+    "2"
+  ],
+  "with this": [
+    "2"
+  ],
+  "with token": [
+    "2"
+  ],
+  "with tools": [
+    "1"
+  ],
+  "with you": [
+    "5"
+  ],
+  "without affecting": [
+    "3"
+  ],
+  "without any": [
+    "3"
+  ],
+  "without having": [
+    "3"
+  ],
+  "without limits": [
+    "1"
+  ],
+  "won t": [
+    "3"
+  ],
+  "words this": [
+    "5"
+  ],
+  "work how": [
+    "1"
+  ],
+  "work larry": [
+    "1"
+  ],
+  "work such": [
+    "4"
+  ],
+  "work swe": [
+    "5"
+  ],
+  "work through": [
+    "5"
+  ],
+  "work with": [
+    "2"
+  ],
+  "working with": [
+    "3",
+    "5"
+  ],
+  "works once": [
+    "3"
+  ],
+  "works quite": [
+    "4"
+  ],
+  "world applications": [
+    "1"
+  ],
+  "world class": [
+    "1"
+  ],
+  "would be": [
+    "3",
+    "5"
+  ],
+  "would might": [
+    "5"
+  ],
+  "would recommend": [
+    "5"
+  ],
+  "write a": [
+    "4"
+  ],
+  "write sign": [
+    "4"
+  ],
+  "write up": [
+    "5"
+  ],
+  "written by": [
+    "4"
+  ],
+  "wsl option": [
+    "3"
+  ],
+  "xargs uv": [
+    "3"
+  ],
+  "xxxxxxxxxxxxxxxxxxxxxxxx after": [
+    "5"
+  ],
+  "yaml and": [
+    "3"
+  ],
+  "years of": [
+    "5"
+  ],
+  "yet write": [
+    "4"
+  ],
+  "you a": [
+    "5"
+  ],
+  "you add": [
+    "3"
+  ],
+  "you are": [
+    "3",
+    "5"
+  ],
+  "you build": [
+    "2"
+  ],
+  "you can": [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "you complete": [
+    "5"
+  ],
+  "you create": [
+    "2"
+  ],
+  "you do": [
+    "3"
+  ],
+  "you don": [
+    "3"
+  ],
+  "you enroll": [
+    "1"
+  ],
+  "you hands": [
+    "1"
+  ],
+  "you have": [
+    "2",
+    "3",
+    "5"
+  ],
+  "you how": [
+    "2"
+  ],
+  "you ll": [
+    "1",
+    "2",
+    "3"
+  ],
+  "you need": [
+    "1"
+  ],
+  "you progress": [
+    "1"
+  ],
+  "you re": [
+    "1",
+    "3"
+  ],
+  "you run": [
+    "3"
+  ],
+  "you should": [
+    "5"
+  ],
+  "you sign": [
+    "2"
+  ],
+  "you test": [
+    "1"
+  ],
+  "you through": [
+    "5"
+  ],
+  "you to": [
+    "5"
+  ],
+  "you understand": [
+    "5"
+  ],
+  "you uplifts": [
+    "5"
+  ],
+  "you ve": [
+    "2",
+    "3"
+  ],
+  "you want": [
+    "1",
+    "5"
+  ],
+  "you will": [
+    "1",
+    "2"
+  ],
+  "you with": [
+    "3"
+  ],
+  "you would": [
+    "5"
+  ],
+  "your ai": [
+    "1"
+  ],
+  "your application": [
+    "2"
+  ],
+  "your applications": [
+    "3"
+  ],
+  "your career": [
+    "1"
+  ],
+  "your chain": [
+    "2"
+  ],
+  "your changes": [
+    "3"
+  ],
+  "your code": [
+    "3"
+  ],
+  "your coursera": [
+    "1"
+  ],
+  "your current": [
+    "3"
+  ],
+  "your employees": [
+    "1"
+  ],
+  "your environment": [
+    "2"
+  ],
+  "your first": [
+    "2",
+    "3"
+  ],
+  "your job": [
+    "1",
+    "5"
+  ],
+  "your knowledge": [
+    "1"
+  ],
+  "your langsmith": [
+    "2"
+  ],
+  "your linkedin": [
+    "1"
+  ],
+  "your new": [
+    "3"
+  ],
+  "your openai": [
+    "5"
+  ],
+  "your own": [
+    "1"
+  ],
+  "your performance": [
+    "1"
+  ],
+  "your project": [
+    "5"
+  ],
+  "your software": [
+    "5"
+  ],
+  "your subject": [
+    "1"
+  ],
+  "your subscription": [
+    "1"
+  ],
+  "your thoughts": [
+    "4",
+    "5"
+  ],
+  "your understanding": [
+    "1"
+  ],
+  "youtube channel": [
+    "5"
+  ],
+  "youtube copyright": [
+    "2",
+    "3"
+  ],
+  "youtube coursera": [
+    "1"
+  ],
+  "youtube script": [
+    "1"
+  ]
+}
